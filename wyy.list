@@ -1,4 +1,4 @@
-# 网易云音乐可选规则，排序需在 CMedia 上方
+# 网易云音乐可选规则，排序需在 CMedia上方
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90,Netease Music
 USER-AGENT,NeteaseMusic*,Netease Music
 HOST,apm.music.163.com,Netease Music
