@@ -1,5 +1,5 @@
 {
-    "name":"圈x脚本合集1",
+    "name":"圈x脚本合集",
     "description":"https://qxzy.top/rules/QuantumultX/qixin.conf",
     "task":[
         "* * * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://raw.githubusercontent.com/Orz-3/task/master/box.png, enabled=false",
