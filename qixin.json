@@ -8,6 +8,8 @@
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "* * * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://raw.githubusercontent.com/Orz-3/task/master/box.png, enabled=true",
+        "20 8,12 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_newYearMoney.js, tag=京东压岁钱, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
+        "0 0 9,12,16,20 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_newYearMoney_lottery.js, tag=京东压岁钱抢百元卡, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
         "30 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_xgyl.js, tag=小鸽有礼2, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_xgyl.png, enabled=true",
         "0 9 * * * https://storage.googleapis.com/jd_live/jd_opencard.js, tag=运行两次就删, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "10 10 29-31,1 1,2 * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_temp_samsung.js, tag=星意送好礼, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png, enabled=true",
