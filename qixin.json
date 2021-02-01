@@ -162,6 +162,7 @@
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/wykl/wykl.js, tag=网易考拉, img-url=https://raw.githubusercontent.com/Orz-3/task/master/wykl.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js, tag=喜马拉雅, img-url=https://raw.githubusercontent.com/Orz-3/task/master/ximalaya.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/zaker/zaker.js, tag=Zaker, img-url=https://raw.githubusercontent.com/Orz-3/task/master/zaker.png, enabled=true",
+        "10 0 * * * https://raw.githubusercontent.com/id77/QuantumultX/master/task/yiLi.js, tag=伊利乳品, img-url=https://raw.githubusercontent.com/id77/QuantumultX/master/icon/yiLi.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/zimuzu/zimuzu.js, tag=字幕组, img-url=https://raw.githubusercontent.com/Orz-3/task/master/zimuzu.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/zxhc/zxhc.js, tag=智行火车, img-url=https://raw.githubusercontent.com/Orz-3/task/master/zxhc.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/zsfc/zsfc.js, tag=掌上飞车, img-url=https://raw.githubusercontent.com/Orz-3/task/master/zsfc.png, enabled=true",
