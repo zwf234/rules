@@ -15,7 +15,6 @@
         "30 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_xgyl.js, tag=小鸽有礼2, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_xgyl.png, enabled=true",
         "0 9 * * * https://storage.googleapis.com/jd_live/jd_opencard.js, tag=运行两次就删, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "10 10 29-31,1 1,2 * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_temp_samsung.js, tag=星意送好礼, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_syj.png, enabled=true",
-        "0 0,6,12,18 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_5g.js, tag=5G狂欢城, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpayZB.js, tag=笑谱直播, img-url=https://qxzy.top/rules/QuantumultX/img/xpzb.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/xp.js, tag=笑谱, img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true",
         "30 7-23 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/baidu_speed.js, tag=百度极速版, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/baidu_speed.png, enabled=true",
