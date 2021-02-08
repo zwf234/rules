@@ -8,6 +8,7 @@
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "* * * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://raw.githubusercontent.com/Orz-3/task/master/box.png, enabled=true",
+        "55 20 */3 * * * https://gitee.com/curtinlv/qx/raw/master/Script/zmsp.js, tag=芝嫲视频, img-url=https://s3.ax1x.com/2021/02/06/yYzeWn.png, enabled=true",
         "10 10,11 * * 2-5 https://github.com/i-chenzhe/qx/raw/main/jd_entertainment.js, tag=百变, img-url=https://qxzy.top/rules/QuantumultX/img/jd_entertainment.png, enabled=true",
         "36 0 8,12,13,14,18,19,20,21,22,23 * * * https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/dianx/dxbox.js, tag=整点开宝箱, img-url=https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/dianx/dxbox.png, enabled=true",
         "*/10 * * * * https://raw.githubusercontent.com/age174/-/main/dkd.js, tag=多看点, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true",
