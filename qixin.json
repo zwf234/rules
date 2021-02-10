@@ -8,6 +8,7 @@
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "* * * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://raw.githubusercontent.com/Orz-3/task/master/box.png, enabled=true",
+        "0 9,12,20,21 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_global.js, tag=环球挑战赛, img-url=https://raw.githubusercontent.com/yogayyy/Scripts/main/Icon/lxk0301/jd_global.png, enabled=true",
         "*/10 * * * * https://raw.githubusercontent.com/DD-D1/Script/main/zoulusign.js, tag=走路赚, img-url=https://qxzy.top/rules/QuantumultX/img/zoulusign.png, enabled=true",
         "5 0 * * * https://raw.githubusercontent.com/ZCY01/daily_scripts/main/jd/jd_priceProtect.js, tag=京东价格保护, img-url=https://raw.githubusercontent.com/ZCY01/img/master/pricev1.png, enabled=true",
         "55 20 */3 * * * https://gitee.com/curtinlv/qx/raw/master/Script/zmsp.js, tag=芝嫲视频, img-url=https://s3.ax1x.com/2021/02/06/yYzeWn.png, enabled=true",
