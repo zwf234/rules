@@ -19,8 +19,6 @@
         "10 10,11 * * 2-5 https://github.com/i-chenzhe/qx/raw/main/jd_entertainment.js, tag=百变, img-url=https://qxzy.top/rules/QuantumultX/img/jd_entertainment.png, enabled=true",
         "36 0 8,12,13,14,18,19,20,21,22,23 * * * https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/dianx/dxbox.js, tag=整点开宝箱, img-url=https://raw.githubusercontent.com/elecV2/QuantumultX-Tools/master/dianx/dxbox.png, enabled=true",
         "*/10 * * * * https://raw.githubusercontent.com/age174/-/main/dkd.js, tag=多看点, img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/X003.png, enabled=true",
-        "20 8,12 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_newYearMoney.js, tag=京东压岁钱, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
-        "0 0 9,12,16,20 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_newYearMoney_lottery.js, tag=京东压岁钱抢百元卡, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
         "30 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_xgyl.js, tag=小鸽有礼2, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_xgyl.png, enabled=true",
         "0 9 * * * https://storage.googleapis.com/jd_live/jd_opencard.js, tag=运行两次就删, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/xp.js, tag=笑谱, img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true",
