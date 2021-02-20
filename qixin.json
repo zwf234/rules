@@ -93,7 +93,6 @@
         "0 0 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_blueCoin.js, tag=东东超市兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxc.png, enabled=true",
         "11 1-23/5 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_superMarket.js, tag=东东超市, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxc.png, enabled=true",
         "10 7 * * * https://qxzy.top/rules/QuantumultX/js/jd_bean_home.js, tag=领京豆额外奖励, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_bean_home.png, enabled=true",
-        "30,31 12-23/1 * * * https://qxzy.top/rules/QuantumultX/js/jd_live_redrain_half.js, tag=半点红包雨, img-url=https://qxzy.top/rules/QuantumultX/img/jd_live_redrain_half.png, enabled=true",
         "10 7 * * * https://qxzy.top/rules/QuantumultX/js/jd_car.js, tag=京东汽车, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_car.png, enabled=true",
         "0 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_car_exchange.js, tag=京东汽车兑换, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
         "5 0 * * * https://raw.githubusercontent.com/toulanboy/scripts/master/jd_price_detect/jd_price_detect.js, tag=京东价格提醒, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
