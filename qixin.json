@@ -9,7 +9,7 @@
     "task":[
         "* * * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://raw.githubusercontent.com/Orz-3/task/master/box.png, enabled=true",
         "0 7 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_speed_sign.js, tag=京东极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
-        "0 0 * * * https://gitee.com/lxk0301/jd_scripts/blob/master/jd_speed_redpocke.js, tag=京东极速版天天领红包, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
+        "0 0 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_speed_redpocke.js, tag=京东极速版天天领红包, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
         "0 7 19-25 2 * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_nzmh.js, tag=女装盲盒, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=true",
         "0 9,18 * * 1-5 https://raw.githubusercontent.com/yichahucha/surge/master/clock_in.js, tag=钉钉打卡提醒, img-url=https://qxzy.top/rules/QuantumultX/img/dingding.png, enabled=true",
         "0 9,12,20,21 * * * https://gitee.com/lxk0301/jd_scripts/raw/master/jd_global.js, tag=环球挑战赛, img-url=https://qxzy.top/rules/QuantumultX/img/jd_global.png, enabled=true",
