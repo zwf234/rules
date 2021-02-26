@@ -70,7 +70,7 @@
         "10 * * * * https://qxzy.top/rules/QuantumultX/js/jd_daily_egg.js, tag=天天提鹅, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdte.png, enabled=true",
         "15 0-23/2 * * * https://qxzy.top/rules/QuantumultX/js/jd_joy.js, tag=京东宠汪汪, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
         "15 0-23/1 * * * https://qxzy.top/rules/QuantumultX/js/jd_joy_feedPets.js, tag=京东宠汪汪喂食, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
-        "0 0 0,8,16 * * https://qxzy.top/rules/QuantumultX/js/jd_joy_reward.js, tag=宠汪汪积分兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
+        "0 0 0,8,16 * * * https://qxzy.top/rules/QuantumultX/js/jd_joy_reward.js, tag=宠汪汪积分兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
         "15 10 * * * https://qxzy.top/rules/QuantumultX/js/jd_joy_run.js, tag=宠汪汪邀请助力与赛跑助力, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
         "0 0-10/2 * * * https://qxzy.top/rules/QuantumultX/js/jd_joy_steal.js, tag=宠汪汪偷好友积分与狗粮, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdcww.png, enabled=true",
         "12 * * * * https://qxzy.top/rules/QuantumultX/js/jd_pigPet.js, tag=京融养猪, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdyz.png, enabled=true",
