@@ -8,7 +8,7 @@
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "* * * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://raw.githubusercontent.com/Orz-3/task/master/box.png, enabled=true",
-        "0 0 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/TT.js, tag=TT语音签到, img-url=https://qxzy.top/rules/QuantumultX/img/TT.png, enabled=true",
+        "0 8 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/TT.js, tag=TT语音签到, img-url=https://qxzy.top/rules/QuantumultX/img/TT.png, enabled=true",
         "1 1 * * * https://qxzy.top/rules/QuantumultX/js/jd_redPacket.js, tag=京东全民开红包, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
         "0 0 * * * https://qxzy.top/rules/QuantumultX/js/jx_cfdtx.js, tag=京喜财富岛提现, img-url=https://qxzy.top/rules/QuantumultX/img/jx_cfdtx.png, enabled=true",
         "30 10,23 * * * https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Task/jx_cfd.js, tag=京喜财富岛, img-url=https://qxzy.top/rules/QuantumultX/img/jxcfd.png, enabled=true",
