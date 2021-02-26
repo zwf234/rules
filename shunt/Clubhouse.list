@@ -10,7 +10,7 @@
 #域名规则
 ;https://raw.githubusercontent.com/zwf234/rules/master/shunt/Clubhouse.list, tag=Clubhouse (音频社交), enabled=true
 #IP规则
-;https://raw.githubusercontent.com/zwf234/rules/master/shunt/Clubhouse_ip.list, tag=Clubhouse (音频社交), enabled=true
+;https://raw.githubusercontent.com/zwf234/rules/master/shunt/Clubhouse_ip.list, tag=Clubhouse_ip (音频社交), enabled=true
 
 
 
