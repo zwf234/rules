@@ -1,0 +1,28 @@
+# 内容：Bilibili 哔哩哔哩 港澳台番剧
+DOMAIN-SUFFIX,biliapi.net,bilibili
+DOMAIN-SUFFIX,bilibili.com,bilibili
+DOMAIN,upos-hz-mirrorakam.akamaized.net,bilibili
+DOMAIN-KEYWORD,cn-hk-eq-bcache-,bilibili
+# 爱奇艺台湾站
+DOMAIN-SUFFIX,iq.com,bilibili
+DOMAIN,cache.video.iqiyi.com,bilibili
+DOMAIN,cache-video.iq.com,bilibili
+DOMAIN,intl.iqiyi.com,bilibili
+DOMAIN,intl-rcd.iqiyi.com,bilibili
+DOMAIN,intl-subscription.iqiyi.com,bilibili
+# 流媒体内容，非必须，省流量可注释
+DOMAIN,akmcdnoversea-tw.inter.iqiyi.com,bilibili
+DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv,bilibili
+DOMAIN,chuangcachecdnoversea-tw.inter.iqiyi.com,bilibili
+DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv,bilibili
+IP-CIDR,103.44.56.0/22,bilibili
+IP-CIDR,118.26.32.0/23,bilibili
+IP-CIDR,118.26.120.0/24,bilibili
+IP-CIDR,223.119.62.225/28,bilibili
+IP-CIDR,23.40.242.10/32,bilibili
+IP-CIDR,23.40.241.251/32,bilibili
+# 芒果TV国际
+DOMAIN-SUFFIX,api.mgtv.com,bilibili
+# WeTV
+DOMAIN-SUFFIX,wetv.vip,bilibili
+DOMAIN-SUFFIX,wetvinfo.com,bilibili
