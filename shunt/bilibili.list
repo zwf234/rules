@@ -1,4 +1,5 @@
-# 内容：Bilibili 哔哩哔哩 港澳台番剧
+#如果你要看海外番剧，请使用该分流规则，如果看大陆番剧，就关闭该分流规则
+# Bilibili 哔哩哔哩 港澳台番剧
 DOMAIN-SUFFIX,biliapi.net,bilibili
 DOMAIN-SUFFIX,bilibili.com,bilibili
 DOMAIN,upos-hz-mirrorakam.akamaized.net,bilibili
