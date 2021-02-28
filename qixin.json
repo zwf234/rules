@@ -8,6 +8,7 @@
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "* * * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
+        "15 12,14,16,20,22 * * * https://raw.githubusercontent.com/age174/-/main/ysm.js, tag=云扫码, img-url=https://s3.ax1x.com/2021/02/28/6CRWb8.jpg, enabled=true",
         "15 12,14,16,20 * * * https://raw.githubusercontent.com/age174/-/main/dka.js, tag=蛋咖, img-url=https://s3.ax1x.com/2021/02/28/6C3Gpn.jpg, enabled=true",
         "5,35 8-23 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/dyjsb.js, tag=抖音极速版, img-url=https://qxzy.top/rules/QuantumultX/img/dyjsb.png, enabled=true",
         "*/5 6-23 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/huoshan.js, tag=抖音火山版, img-url=https://qxzy.top/rules/QuantumultX/img/huoshan.png, enabled=true",
