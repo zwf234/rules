@@ -1,7 +1,7 @@
 {
     "name":"圈x脚本合集",
     "description":"https://qxzy.top/rules/QuantumultX/qixin.conf",
-    "UpdateTime" : "2021-02-28",
+    "UpdateTime" : "2021-02-27",
     "Author" : "陌路",
     "bbs" : "https://bbs.qxzy.top",
     "Description" : "奇心科技 - 创造不一样的科技平台！",
@@ -56,7 +56,7 @@
         "35 5 0 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/kuaishou.js, tag=快手极速版, img-url=https://qxzy.top/rules/QuantumultX/img/kuaishou.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/ZhiYi-N/script/master/kkd.js, tag=快看点, img-url=https://qxzy.top/rules/QuantumultX/img/kkd.png, enabled=true",
         "*/5 6-23 * * * https://raw.githubusercontent.com/ZhiYi-N/script/master/hotsoon.js, tag=火山极速版, img-url=https://qxzy.top/rules/QuantumultX/img/hotsoon.png, enabled=true",
-        "40 * * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/dyjsb.js, tag=抖音极速版, img-url=https://qxzy.top/rules/QuantumultX/img/dyjsb.png, enabled=true",
+        "5,35 8-23 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/dyjsb.js, tag=抖音极速版, img-url=https://qxzy.top/rules/QuantumultX/img/dyjsb.png, enabled=true",
         "5,35 8-23 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/jrtt.js, tag=今日头条极速版, img-url=https://qxzy.top/rules/QuantumultX/img/jrtt.png, enabled=true",
         "1 * * * * https://raw.githubusercontent.com/age174/-/main/baosxq.js, tag=宝石星球, img-url=https://raw.githubusercontent.com/sngxpro/icons/main/genshin/mona.png, enabled=true",
         "2 9 * * * https://qxzy.top/rules/QuantumultX/js/jd_bean_change.js , tag=京豆变动通知 , img-url=https://qxzy.top/rules/QuantumultX/img/jd.png",
