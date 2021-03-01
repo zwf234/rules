@@ -8,6 +8,7 @@
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "* * * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
+        "0 8,21 1-8/1 3 * https://qxzy.top/rules/QuantumultX/js/jd_firecrackers.js, tag=她的节享京豆, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
         "15 12,14,16,20,22 * * * https://raw.githubusercontent.com/age174/-/main/ysm.js, tag=云扫码, img-url=https://s3.ax1x.com/2021/02/28/6CRWb8.jpg, enabled=true",
         "15 12,14,16,20 * * * https://raw.githubusercontent.com/age174/-/main/dka.js, tag=蛋咖, img-url=https://s3.ax1x.com/2021/02/28/6C3Gpn.jpg, enabled=true",
         "5,35 8-23 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/dyjsb.js, tag=抖音极速版, img-url=https://qxzy.top/rules/QuantumultX/img/dyjsb.png, enabled=true",
@@ -28,7 +29,7 @@
         "0 8 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/TT.js, tag=TT语音签到, img-url=https://qxzy.top/rules/QuantumultX/img/TT.png, enabled=true",
         "1 1 * * * https://qxzy.top/rules/QuantumultX/js/jd_redPacket.js, tag=京东全民开红包, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
         "0 0 * * * https://qxzy.top/rules/QuantumultX/js/jx_cfdtx.js, tag=京喜财富岛提现, img-url=https://qxzy.top/rules/QuantumultX/img/jx_cfdtx.png, enabled=true",
-        "30 10,23 * * * https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Task/jx_cfd.js, tag=京喜财富岛, img-url=https://qxzy.top/rules/QuantumultX/img/jxcfd.png, enabled=true",
+        "30 8,13,19 * * * https://qxzy.top/rules/QuantumultX/js/jx_cfd.js, tag=京喜财富岛, img-url=https://qxzy.top/rules/QuantumultX/img/jxcfd.png, enabled=true",
         "10 0 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jd_collectBlueCoin.js, tag=京小超领蓝币, img-url=https://raw.githubusercontent.com/Xirou/Script/master/jxc.PNG, enabled=true",
         "10 12,18 * * * https://raw.githubusercontent.com/id77/QuantumultX/master/task/jdWuLiu.js, tag=京东物流派件提醒, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "0 9,12,20,21 * * * https://qxzy.top/rules/QuantumultX/js/jd_global_mh.js, tag=京东国际盲盒, img-url=https://qxzy.top/rules/QuantumultX/img/jd_global_mh.png, enabled=true",
