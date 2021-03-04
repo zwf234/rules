@@ -1,13 +1,15 @@
 {
     "name":"奇心脚本合集",
     "description":"https://qxzy.top/rules/QuantumultX/qixin.conf",
-    "UpdateTime" : "2021-03-03",
+    "UpdateTime" : "2021-03-04",
     "Author" : "陌路",
     "bbs" : "https://bbs.qxzy.top",
     "Description" : "奇心科技 - 创造不一样的科技平台！",
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "* * * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
+        "0,30 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/qmyd.js, tag=全民悦动, img-url=https://qxzy.top/rules/QuantumultX/img/qmyd.png, enabled=true",
+        "15 0,6,12,18, * * * https://raw.githubusercontent.com/age174/-/main/ddxq.js, tag=嘀嗒星球, img-url=https://qxzy.top/rules/QuantumultX/img/ddxq.png, enabled=true",
         "15 0,6,12,18, * * * https://raw.githubusercontent.com/age174/-/main/xsmm.js, tag=悬赏喵喵, img-url=https://qxzy.top/rules/QuantumultX/img/Yunsaoma.png, enabled=true",
         "5 0 * * * https://qxzy.top/rules/QuantumultX/js/jd_shakeBean.js, tag=摇京豆i-chenzhe, img-url=https://qxzy.top/rules/QuantumultX/img/jdyjd.png, enabled=true",
         " 0,30 0-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/yuedongzu.js, tag=悦动族, img-url=https://qxzy.top/rules/QuantumultX/img/yuedongzu.png, enabled=true",
