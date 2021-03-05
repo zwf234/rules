@@ -24,7 +24,6 @@
         "*/20 8-23 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/iboxpay.js, tag=笑谱, img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true",
         "3 20 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_shake.js, tag=摇一摇, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "5 0 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/wechatsubs/wechatsubs.js, tag=公众号监控, img-url=https://qxzy.top/rules/QuantumultX/img/wechat.png, enabled=true",
-        "15 10 * * * https://raw.githubusercontent.com/age174/-/main/ymz.js, tag=羊毛赚, img-url=https://qxzy.top/rules/QuantumultX/img/ymz.png, enabled=true",
         "0 8 1-8/1,27,28 2,3 * https://qxzy.top/rules/QuantumultX/js/jd_nzmh.js, tag=女装盲盒, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "15,35 0,12 * * * https://raw.githubusercontent.com/age174/-/main/rxm.js, tag=任性猫, img-url=https://qxzy.top/rules/QuantumultX/img/rxm.png, enabled=true",
         "5 0 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/klcw/klcw-app.js, tag=酷乐潮玩App, img-url=https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/picture/klcw.png, enabled=true",
