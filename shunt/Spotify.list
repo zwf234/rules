@@ -1,6 +1,7 @@
-USER-AGENT,*Spotify*,Spotify
-HOST-SUFFIX,pscdn.co,Spotify
-HOST-SUFFIX,scdn.co,Spotify
-HOST-SUFFIX,spoti.fi,Spotify
-HOST-SUFFIX,spotify.com,Spotify
-HOST-SUFFIX,spotifycdn.net,Spotify
+USER-AGENT,Spotify*,Spotify
+DOMAIN-SUFFIX,pscdn.co,Spotify
+DOMAIN-SUFFIX,scdn.co,Spotify
+DOMAIN-SUFFIX,spotify.com,Spotify
+DOMAIN-SUFFIX,spoti.fi,Spotify
+DOMAIN-KEYWORD,spotify.com,Spotify
+DOMAIN-KEYWORD,-spotify-com,Spotify
