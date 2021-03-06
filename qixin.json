@@ -242,6 +242,7 @@
         "0 9 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/nCov.js, tag=疫情日报, img-url=https://qxzy.top/rules/QuantumultX/img/COVID-19.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/psn.js, tag=PSN会免, img-url=https://qxzy.top/rules/QuantumultX/img/PSN.png, enabled=true",
         "0 21 * * * https://raw.githubusercontent.com/Orz-3/QuantumultX/master/telegram.js, tag=Telegram频道图片推送, img-url=https://qxzy.top/rules/QuantumultX/img/tgpic.png, enabled=true",
+        "0 8 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkin_env.js, tag=机场签到, img-url=https://qxzy.top/rules/QuantumultX/img/airport.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/flow.js, tag=机场流量, img-url=https://qxzy.top/rules/QuantumultX/img/airport.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/zongheng.js, tag=纵横小说, img-url=https://qxzy.top/rules/QuantumultX/img/zongheng.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/steam.js, tag=Steam价格, img-url=https://qxzy.top/rules/QuantumultX/img/steam.png, enabled=true",
