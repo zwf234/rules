@@ -1,7 +1,7 @@
 {
     "name":"奇心脚本合集",
     "description":"https://qxzy.top/rules/QuantumultX/qixin.conf",
-    "UpdateTime" : "2021-03-06",
+    "UpdateTime" : "2021-03-07",
     "Author" : "陌路",
     "bbs" : "https://bbs.qxzy.top",
     "Description" : "奇心科技 - 创造不一样的科技平台！",
@@ -9,8 +9,6 @@
     "task":[
         "* * * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
         "3 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_marketLottery.js, tag=京东超市-大转盘, img-url=https://qxzy.top/rules/QuantumultX/img/z_marketLottery.png, enabled=true",
-        "5 9 4-6 3 * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_xmf.js, tag=京东-小魔方, img-url=https://qxzy.top/rules/QuantumultX/img/jd_xmf.png, enabled=true",
-        "5 8,14,20 2-7 3 * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_jump_jump.js, tag=母婴-跳一跳, img-url=https://qxzy.top/rules/QuantumultX/img/jd_jump-jump.png, enabled=true",
         "50 12 * * * https://raw.githubusercontent.com/age174/-/main/yggy.js, tag=阳光果园, img-url=https://qxzy.top/rules/QuantumultX/img/yggy.png, enabled=true",
         "0,30 0-23 * * * https://qxzy.top/rules/QuantumultX/js/ZIYE/Task/qmyd.js, tag=全民悦动, img-url=https://qxzy.top/rules/QuantumultX/img/qmyd.png, enabled=true",
         "15 0,6,12,18, * * * https://raw.githubusercontent.com/age174/-/main/ddxq.js, tag=嘀嗒星球, img-url=https://qxzy.top/rules/QuantumultX/img/ddxq.png, enabled=true",
@@ -54,7 +52,6 @@
         "15 0 * * * https://raw.githubusercontent.com/age174/-/main/jqb.js, tag=金钱豹, img-url=https://ftp.bmp.ovh/imgs/2021/02/9e6d449acb9b6889.png, enabled=true",
         "15 10 * * * https://raw.githubusercontent.com/age174/-/main/mhdsp.js, tag=陌嗨短视频, img-url=https://raw.githubusercontent.com/usrnb/options/main/QuantumultX/icons/task/mhdsp.png, enabled=true",
         "0 7 * * * https://qxzy.top/rules/QuantumultX/js/jd_speed_sign.js, tag=京东极速版, img-url=https://qxzy.top/rules/QuantumultX/img/jd_speed_sign.png, enabled=true",
-        "0 0 * * * https://qxzy.top/rules/QuantumultX/js/jd_speed_redpocke.js, tag=京东极速版红包, img-url=https://qxzy.top/rules/QuantumultX/img/jd_speed_sign.png, enabled=true",
         "0 9,18 * * 1-5 https://raw.githubusercontent.com/yichahucha/surge/master/clock_in.js, tag=钉钉打卡提醒, img-url=https://qxzy.top/rules/QuantumultX/img/dingding.png, enabled=true",
         "30 8 * * * https://raw.githubusercontent.com/nzw9314/QuantumultX/master/yichahucha/cron_daily.js, tag=每日一句+蚂蚁森林收能量, img-url=https://qxzy.top/rules/QuantumultX/img/cron_daily.png, enabled=true",
         "10 9 * * * https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/scripts/ttwk/ttwk.js, tag=支付宝天天挖矿, img-url=https://raw.githubusercontent.com/yangtingxiao/QuantumultX/master/image/ttwk.png, enabled=true",
