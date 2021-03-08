@@ -8,7 +8,7 @@
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "* * * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
-        "30 8 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jxd.js, tag=京小兑, img-url=https://qxzy.top/rules/QuantumultX/img/jd_jxd.png, enabled=true",
+        "30 8 * * * https://qxzy.top/rules/QuantumultX/js/jd_jxd.js, tag=京小兑, img-url=https://qxzy.top/rules/QuantumultX/img/jd_jxd.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/pyq.js, tag=评有圈, img-url=https://qxzy.top/rules/QuantumultX/img/pyq.png, enabled=true",
         "3 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_marketLottery.js, tag=京东超市-大转盘, img-url=https://qxzy.top/rules/QuantumultX/img/z_marketLottery.png, enabled=true",
         "50 12 * * * https://raw.githubusercontent.com/age174/-/main/yggy.js, tag=阳光果园, img-url=https://qxzy.top/rules/QuantumultX/img/yggy.png, enabled=true",
