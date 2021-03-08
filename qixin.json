@@ -1,13 +1,14 @@
 {
     "name":"奇心脚本合集",
     "description":"https://qxzy.top/rules/QuantumultX/qixin.conf",
-    "UpdateTime" : "2021-03-07",
+    "UpdateTime" : "2021-03-08",
     "Author" : "陌路",
     "bbs" : "https://bbs.qxzy.top",
     "Description" : "奇心科技 - 创造不一样的科技平台！",
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "* * * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
+        "0 9 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/pyq.js, tag=评有圈, img-url=https://qxzy.top/rules/QuantumultX/img/pyq.png, enabled=true",
         "3 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_marketLottery.js, tag=京东超市-大转盘, img-url=https://qxzy.top/rules/QuantumultX/img/z_marketLottery.png, enabled=true",
         "50 12 * * * https://raw.githubusercontent.com/age174/-/main/yggy.js, tag=阳光果园, img-url=https://qxzy.top/rules/QuantumultX/img/yggy.png, enabled=true",
         "0,30 0-23 * * * https://qxzy.top/rules/QuantumultX/js/ZIYE/Task/qmyd.js, tag=全民悦动, img-url=https://qxzy.top/rules/QuantumultX/img/qmyd.png, enabled=true",
