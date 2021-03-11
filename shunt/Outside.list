@@ -791,3 +791,4 @@ IP-CIDR,174.37.0.0/16,Outside
 IP-CIDR,208.43.0.0/16,Outside
 
 # > Others
+HOST,jdsharedresourcescdn.azureedge.net,Outside
