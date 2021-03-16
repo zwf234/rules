@@ -1,7 +1,7 @@
 {
     "name":"奇心脚本合集",
     "description":"https://qxzy.top/rules/QuantumultX/qixin.conf",
-    "UpdateTime" : "2021-03-15",
+    "UpdateTime" : "2021-03-16",
     "Author" : "陌路",
     "bbs" : "https://bbs.qxzy.top",
     "Description" : "奇心科技 - 创造不一样的科技平台！",
@@ -15,7 +15,7 @@
         "10-20/5 12 * * * https://qxzy.top/rules/QuantumultX/js/lxk0301/jd_live.js, tag=京东直播, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "5,35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/wkzz.js, tag=微客众智, img-url=https://ae01.alicdn.com/kf/Uff0a0bb9e66a479591c9b02c176fd276A.jpg, enabled=true",
         "7 0-23 * * * https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/shuqi.js, tag=书旗小说, img-url=https://qxzy.top/rules/QuantumultX/img/sqxs.png, enabled=true",
-        " 10 10 * * *   https://raw.githubusercontent.com/i-chenzhe/qx/master/jd_xmf.js, tag=京东小魔方, img-url=https://qxzy.top/rules/QuantumultX/img/jd_xmf.png, enabled=true",
+        " 10 10 16-18 * *   https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_xmf.js, tag= 京东小魔方, img-url=https://qxzy.top/rules/QuantumultX/img/jd_xmf.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/fqxs.js, tag=番茄小说, img-url=https://qxzy.top/rules/QuantumultX/img/fqxs.png, enabled=true",
         "*/30 8-22 * * * https://raw.githubusercontent.com/age174/-/main/cfz.js, tag=春风转, img-url=https://qxzy.top/rules/QuantumultX/img/cfz.jpg, enabled=true",
         "15 10 26-31 2,3 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_unionPoster.js, tag=美的家电节, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
