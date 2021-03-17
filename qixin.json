@@ -1,13 +1,17 @@
 {
     "name":"奇心脚本合集",
     "description":"https://qxzy.top/rules/QuantumultX/qixin.conf",
-    "UpdateTime" : "2021-03-16",
+    "UpdateTime" : "2021-03-17",
     "Author" : "陌路",
     "bbs" : "https://bbs.qxzy.top",
     "Description" : "奇心科技 - 创造不一样的科技平台！",
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "* * * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
+        "5,35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/wkzz.js, tag=微客众智, img-url=https://ae01.alicdn.com/kf/Uff0a0bb9e66a479591c9b02c176fd276A.jpg, enabled=true",
+        "11 12 17-30 3 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_oneplus.js, tag=一加盲盒, img-url=https://qxzy.top/rules/QuantumultX/img/sgmh.png.png, enabled=true",
+        "5 8,14,20 17-25 3 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_mother_jump.js, tag=母婴-跳一跳, img-url=https://qxzy.top/rules/QuantumultX/img/jd_jump-jump.png, enabled=true",
+        "12 15 15-29 3 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_lenovo.js, tag=联想集卡活动, img-url=https://qxzy.top/rules/QuantumultX/img/z_lenovo.png, enabled=true",
         "0 0 0 * * * https://qxzy.top/rules/QuantumultX/js/lxk0301/jd_xtg.js, tag=手机尚学季, img-url=https://qxzy.top/rules/QuantumultX/img/jd_xtg.png, enabled=true",
         "0,1,2 0 * * * https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Jd/jd_cash_exchange.js, tag=领现金兑换红包, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "13 8,10 8-15 3 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_superDay.js, tag=京东洗护发超级品类日, img-url=https://raw.githubusercontent.com/i-chenzhe/qx/master/img/icon.png, enabled=true",
