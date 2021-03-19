@@ -8,7 +8,7 @@
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "* * * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
-        "5 10 * 3 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_mgold.js, tag=金口碑奖投票, tag=切换会话, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
+        "5 10 * 3 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_mgold.js, tag=金口碑奖投票, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "5 1,6,11,16,21 * 3-4 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_super5g.js, tag=5G超级盲盒, img-url=https://qxzy.top/rules/QuantumultX/img/sgmh.png.png, enabled=true",
         "0 9 * * * https://qxzy.top/rules/QuantumultX/js/zhiyi/ygkc.js, tag=阳光矿场, img-url=https://qxzy.top/rules/QuantumultX/img/ygkc.png, enabled=true",
         "*/20 8-23 * * * https://raw.githubusercontent.com/6Svip120apk69/gitee_q8qsTAUA_cThxc1RBVUE/main/Task/iboxpay.js, tag=笑谱（ziye）, img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true",
