@@ -1,13 +1,16 @@
 {
     "name":"奇心脚本合集",
     "description":"https://qxzy.top/rules/QuantumultX/qixin.conf",
-    "UpdateTime" : "2021-04-06",
+    "UpdateTime" : "2021-04-08",
     "Author" : "Stanger",
     "bbs" : "https://bbs.qxzy.top",
     "Description" : "奇心科技 - 创造不一样的科技平台！",
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "* * * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
+        "0 9,13 * * * https://raw.githubusercontent.com/age174/-/main/lhws.js, tag=落花无生, img-url=https://ae01.alicdn.com/kf/U7f67ec3bd2d848a59d72a1807dc9e324r.jpg, enabled=true",
+        "15 9 * * * https://raw.githubusercontent.com/age174/-/main/vsh.js, tag=V生活, img-url=https://ae01.alicdn.com/kf/Uf0da879c7acd4c7bad91f0e5a97667e1O.jpg, enabled=true",
+	    "1 0 * * * https://raw.githubusercontent.com/photonmang/quantumultX/master/Task/zyb.js, tag=作业帮签到, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/zuoyebang.png, enabled=true",
         "0-59 9-22 * * * https://raw.githubusercontent.com/age174/-/main/wcyd.js, tag=文创阅读, img-url=https://ae01.alicdn.com/kf/Ua6bd9417d492473f8ca0c3110b2176307.jpg, enabled=true",
         "20 9 * * * https://raw.githubusercontent.com/age174/-/main/ximei.js, tag=西梅, img-url=https://ae01.alicdn.com/kf/Ucd02ea79ef22473daf3576486d134509Q.jpg, enabled=true",
         "10-15 9 * * * https://raw.githubusercontent.com/age174/-/main/lgyy.js, tag=朗果英语, img-url=https://ae01.alicdn.com/kf/Uc3c35e1796624a7ca6a23c89c7f0dff2H.jpg, enabled=true",
