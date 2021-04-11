@@ -1,29 +1,29 @@
 #如果你要看海外番剧，请使用该分流规则，如果看大陆番剧，就关闭该分流规则
 # Bilibili 哔哩哔哩 港澳台番剧
-DOMAIN-SUFFIX,biliapi.net,bilibili
-DOMAIN-SUFFIX,bilibili.com,bilibili
-DOMAIN,upos-hz-mirrorakam.akamaized.net,bilibili
-DOMAIN-KEYWORD,cn-hk-eq-bcache-,bilibili
+DOMAIN-SUFFIX,biliapi.net,港台番剧
+DOMAIN-SUFFIX,bilibili.com,港台番剧
+DOMAIN,upos-hz-mirrorakam.akamaized.net,港台番剧
+DOMAIN-KEYWORD,cn-hk-eq-bcache-,港台番剧
 # 爱奇艺台湾站
-DOMAIN-SUFFIX,iq.com,bilibili
-DOMAIN,cache.video.iqiyi.com,bilibili
-DOMAIN,cache-video.iq.com,bilibili
-DOMAIN,intl.iqiyi.com,bilibili
-DOMAIN,intl-rcd.iqiyi.com,bilibili
-DOMAIN,intl-subscription.iqiyi.com,bilibili
+DOMAIN-SUFFIX,iq.com,港台番剧
+DOMAIN,cache.video.iqiyi.com,港台番剧
+DOMAIN,cache-video.iq.com,港台番剧
+DOMAIN,intl.iqiyi.com,港台番剧
+DOMAIN,intl-rcd.iqiyi.com,港台番剧
+DOMAIN,intl-subscription.iqiyi.com,港台番剧
 # 流媒体内容，非必须，省流量可注释
-DOMAIN,akmcdnoversea-tw.inter.iqiyi.com,bilibili
-DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv,bilibili
-DOMAIN,chuangcachecdnoversea-tw.inter.iqiyi.com,bilibili
-DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv,bilibili
-IP-CIDR,103.44.56.0/22,bilibili
-IP-CIDR,118.26.32.0/23,bilibili
-IP-CIDR,118.26.120.0/24,bilibili
-IP-CIDR,223.119.62.225/28,bilibili
-IP-CIDR,23.40.242.10/32,bilibili
-IP-CIDR,23.40.241.251/32,bilibili
+DOMAIN,akmcdnoversea-tw.inter.iqiyi.com,港台番剧
+DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv,港台番剧
+DOMAIN,chuangcachecdnoversea-tw.inter.iqiyi.com,港台番剧
+DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv,港台番剧
+IP-CIDR,103.44.56.0/22,港台番剧
+IP-CIDR,118.26.32.0/23,港台番剧
+IP-CIDR,118.26.120.0/24,港台番剧
+IP-CIDR,223.119.62.225/28,港台番剧
+IP-CIDR,23.40.242.10/32,港台番剧
+IP-CIDR,23.40.241.251/32,港台番剧
 # 芒果TV国际
-DOMAIN-SUFFIX,api.mgtv.com,bilibili
+DOMAIN-SUFFIX,api.mgtv.com,港台番剧
 # WeTV
-DOMAIN-SUFFIX,wetv.vip,bilibili
-DOMAIN-SUFFIX,wetvinfo.com,bilibili
+DOMAIN-SUFFIX,wetv.vip,港台番剧
+DOMAIN-SUFFIX,wetvinfo.com,港台番剧
