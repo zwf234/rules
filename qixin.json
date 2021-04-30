@@ -91,7 +91,7 @@
         "30,31 20-23/1 9,12 3 * https://qxzy.top/rules/QuantumultX/js/jd_live_redrain.js, tag=超级直播间红包雨, img-url=https://qxzy.top/rules/QuantumultX/img/jd_live_redrain_half.png, enabled=true",
         "15 7,15 * * * https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Jd/jd_cash_reward.js, tag=领现金自动获得酬劳, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "0 9 8-31 3 * https://qxzy.top/rules/QuantumultX/js/lxk0301/jd_global.js, tag=⚠️环球挑战赛, img-url=https://qxzy.top/rules/QuantumultX/img/jd_global.png, enabled=true",
-        "30 8 * * * https://qxzy.top/rules/QuantumultX/js/lxk0301/jd_jxd.js, tag=京小兑, img-url=https://qxzy.top/rules/QuantumultX/img/jd_jxd.png, enabled=true",
+        "30 8 * * * https://qxzy.top/rules/QuantumultX/js/lxk0301/activity/jd_jxd.js, tag=京小兑, img-url=https://qxzy.top/rules/QuantumultX/img/jd_jxd.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/pyq.js, tag=评有圈, img-url=https://qxzy.top/rules/QuantumultX/img/pyq.png, enabled=true",
         "3 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_marketLottery.js, tag=⚠️京东超市-大转盘, img-url=https://qxzy.top/rules/QuantumultX/img/z_marketLottery.png, enabled=true",
         "0 */1 * * * https://raw.githubusercontent.com/age174/-/main/yggy.js, tag=阳光果园, img-url=https://qxzy.top/rules/QuantumultX/img/yggy.png, enabled=true",
