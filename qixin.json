@@ -8,6 +8,13 @@
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "0 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
+        "*/15 * * * * https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/ryhy.js, tag=如意花园, img-url=https://qxzy.top/rules/QuantumultX/img/ryhy.png, enabled=true",
+        "25 3 * * 2 https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_shop_captain.js, tag=超级无线组队分奖品, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png,  enabled=true",
+        "30 9 * * * https://raw.githubusercontent.com/age174/-/main/dgh.js, tag=大公会, img-url=https://ae01.alicdn.com/kf/U48ac7674ccc7422dac2bb266d8c9a17b2.jpg, enabled=true",
+        "10 0-23 * * * https://raw.githubusercontent.com/age174/-/main/qlp.js, tag=考状元娶老婆, img-url=https://ae01.alicdn.com/kf/Uc2775b8f4abf41788ba89df0317e58050.jpg, enabled=true",
+        "0 0 0/3 * * * https://raw.githubusercontent.com/xl2101200/-/main/wgc.js, tag=WGC, img-url=https://qxzy.top/rules/QuantumultX/img/wgc.png, enabled=true",
+        "0 8 * * * https://raw.githubusercontent.com/xl2101200/-/main/yt.js, tag=炎兔, img-url=https://qxzy.top/rules/QuantumultX/img/yt.png, enabled=true",
+        "10 9 * * * https://raw.githubusercontent.com/age174/-/main/tyg.js, tag=淘优购, img-url=https://ae01.alicdn.com/kf/Ud9336913fc5140ae886b06fccf9b90a3y.jpg, enabled=true",
         "0 0 0/4 * * ? https://raw.githubusercontent.com/xl2101200/-/main/ggdh.js, tag=狗狗大亨, img-url=https://qxzy.top/rules/QuantumultX/img/ggdh.png, enabled=true",
         "*/5 * * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/ningmeng/main/fhxz.js, tag=富豪小镇, img-url=https://qxzy.top/rules/QuantumultX/img/fhxz.png, enabled=true",
         "10 0 * * * https://raw.githubusercontent.com/age174/-/main/skjh.js, tag=食客江湖, img-url=https://ae01.alicdn.com/kf/Ue353b658a4424a1e873d0b66620d06a41.jpg, enabled=true",
