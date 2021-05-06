@@ -1,13 +1,14 @@
 {
     "name":"奇心脚本合集",
     "description":"https://qxzy.top/rules/QuantumultX/qixin.conf",
-    "UpdateTime" : "2021-05-05",
+    "UpdateTime" : "2021-05-06",
     "Author" : "Stanger",
     "bbs" : "https://bbs.qxzy.top",
     "Description" : "奇心科技 - 创造不一样的科技平台！",
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "0 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
+        "0 6 * * * https://raw.githubusercontent.com/xl2101200/-/main/xffd.js, tag=幸福饭店, img-url=https://qxzy.top/rules/QuantumultX/img/xffd.png, enabled=true",
         "*/15 * * * * https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/ryhy.js, tag=如意花园, img-url=https://qxzy.top/rules/QuantumultX/img/ryhy.png, enabled=true",
         "25 3 * * 2 https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_shop_captain.js, tag=超级无线组队分奖品, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png,  enabled=true",
         "10 9 * * * https://raw.githubusercontent.com/age174/-/main/tyg.js, tag=淘优购, img-url=https://ae01.alicdn.com/kf/Ud9336913fc5140ae886b06fccf9b90a3y.jpg, enabled=true",
