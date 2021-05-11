@@ -2,6 +2,8 @@
 # Bilibili 哔哩哔哩 港澳台番剧
 DOMAIN-SUFFIX,biliapi.net,港台番剧
 DOMAIN-SUFFIX,bilibili.com,港台番剧
+DOMAIN-SUFFIX,data.bilibili.com,港台番剧
+DOMAIN-SUFFIX,api.bilibili.com,港台番剧
 DOMAIN,upos-hz-mirrorakam.akamaized.net,港台番剧
 DOMAIN-KEYWORD,cn-hk-eq-bcache-,港台番剧
 # 爱奇艺台湾站
