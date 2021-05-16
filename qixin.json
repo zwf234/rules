@@ -1,13 +1,15 @@
 {
     "name":"奇心脚本合集",
     "description":"https://qxzy.top/rules/QuantumultX/qixin.conf",
-    "UpdateTime" : "2021-05-14",
+    "UpdateTime" : "2021-05-16",
     "Author" : "Stanger",
     "bbs" : "https://bbs.qxzy.top",
     "Description" : "奇心科技 - 创造不一样的科技平台！",
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "0 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
+        "0 8 * * * https://raw.githubusercontent.com/xl2101200/-/main/yyzb.js, tag=云云赚呗, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/tom.png, enabled=true",
+        "0-59 9-14 * * * https://raw.githubusercontent.com/age174/-/main/wdwhd.js, tag=我的网红店, img-url=https://ae01.alicdn.com/kf/Uc5a0618d6a404079af9216e1012e35efs.jpg, enabled=true",
         "10 9 * * * https://raw.githubusercontent.com/age174/-/main/dwyjy.js, tag=动物研究院, img-url=https://ae01.alicdn.com/kf/Uc740cff52d1c48c49223a8a7378a54d1q.jpg, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/xpread.js, tag=笑谱, img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true",
         "8 8 8 * * * https://cdn.jsdelivr.net/gh/ziye888/JavaScript@main/Task/xm.js, tag=小芒, img-url=https://qxzy.top/rules/QuantumultX/img/xm.png,  enabled=true",
