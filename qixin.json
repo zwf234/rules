@@ -8,6 +8,12 @@
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "0 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
+        "15 8,13,18 17-31 5 * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_pk.js, tag=京享值PK, img-url=rl=https://qxzy.top/rules/QuantumultX/img/jd.png,  enabled=true",
+        "0 10 * * * https://raw.githubusercontent.com/dompling/Script/master/gist/backup.js, tag=Gist备份, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
+        "5 10 * * * https://raw.githubusercontent.com/dompling/Script/master/gist/restore.js, tag=Gist恢复, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
+        "0 30 7,10 * * * https://ghproxy.com/https://raw.githubusercontent.com/panghu999/ningmeng/main/gd.js, tag=柠檬咕咚步数红包, img-url=http://nm66.top/1.jpg, enabled=true",
+        "30 * * * * https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_half_redrain.js, tag=半点京豆雨, img-url=rl=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
+        "0 * * * * https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js, tag=整点京豆雨, img-url=hrl=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "0 8 * * * https://raw.githubusercontent.com/xl2101200/-/main/yyzb.js, tag=云云赚呗, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/tom.png, enabled=true",
         "0-59 9-14 * * * https://raw.githubusercontent.com/age174/-/main/wdwhd.js, tag=我的网红店, img-url=https://ae01.alicdn.com/kf/Uc5a0618d6a404079af9216e1012e35efs.jpg, enabled=true",
         "10 9 * * * https://raw.githubusercontent.com/age174/-/main/dwyjy.js, tag=动物研究院, img-url=https://ae01.alicdn.com/kf/Uc740cff52d1c48c49223a8a7378a54d1q.jpg, enabled=true",
