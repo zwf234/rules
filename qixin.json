@@ -1,13 +1,15 @@
 {
     "name":"奇心脚本合集",
     "description":"https://qxzy.top/rules/QuantumultX/qixin.conf",
-    "UpdateTime" : "2021-05-19",
+    "UpdateTime" : "2021-05-20",
     "Author" : "Stanger",
     "bbs" : "https://bbs.qxzy.top",
     "Description" : "奇心科技 - 创造不一样的科技平台！",
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "0 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
+        "15 9 * 5,6 * https://raw.githubusercontent.com/monk-coder/dust/dust/member/adolf_flp.js, tag=飞利浦电视成长记, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png,  enabled=true",
+        "25 9 * 5,6 * https://raw.githubusercontent.com/monk-coder/dust/dust/member/adolf_oneplus.js, tag=赢一加新品手机, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png,  enabled=true",
         "15 8,13,18 17-31 5 * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_pk.js, tag=京享值PK, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "0 10 * * * https://raw.githubusercontent.com/dompling/Script/master/gist/backup.js, tag=Gist备份, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
         "5 10 * * * https://raw.githubusercontent.com/dompling/Script/master/gist/restore.js, tag=Gist恢复, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
