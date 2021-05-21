@@ -1,12 +1,13 @@
 {
-    "name":"奇心脚本合集",
-    "description":"https://qxzy.top/rules/QuantumultX/qixin.conf",
-    "UpdateTime" : "2021-05-14",
+    "name":"脚本合集",
+    "description":"https://xf666666plus.github.io/rules/Lite.conf",
+    "UpdateTime" : "2021-05-22",
     "Author" : "Stanger",
     "bbs" : "https://bbs.qxzy.top",
-    "Description" : "奇心科技 - 创造不一样的科技平台！",
+    "Description" : "_cf666666",
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
+        "20 9 21-27 5 * https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_mi.js, tag=京东Redmi合成小金刚, img-url=https://ghproxy.com/https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/monk.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
         "10 9 * * * https://raw.githubusercontent.com/age174/-/main/dwyjy.js, tag=动物研究院, img-url=https://ae01.alicdn.com/kf/Uc740cff52d1c48c49223a8a7378a54d1q.jpg, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/xpread.js, tag=笑谱, img-url=https://qxzy.top/rules/QuantumultX/img/xp.png, enabled=true",
