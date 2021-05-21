@@ -1,13 +1,14 @@
 {
     "name":"奇心脚本合集",
     "description":"https://qxzy.top/rules/QuantumultX/qixin.conf",
-    "UpdateTime" : "2021-05-20",
+    "UpdateTime" : "2021-05-21",
     "Author" : "Stanger",
     "bbs" : "https://bbs.qxzy.top",
     "Description" : "奇心科技 - 创造不一样的科技平台！",
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "0 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
+        "1 0,11,21 * * * https://qxzy.top/rules/QuantumultX/js/lxk0301/jd_jump.js, tag=跳跳乐瓜分京豆, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "20 9 21-27 5 * https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_mi.js, tag=京东Redmi合成小金刚, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "0 */8 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/HELPBANG/helpbang.js, tag=互利帮(需TF资格), img-url=https://raw.githubusercontent.com/CenBoMin/GithubSync/main/HELPBANG/140.png, enabled=true",
         "20 9 20-31 5 * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_martin.js, tag=人头马x博朗, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png,  enabled=true",
