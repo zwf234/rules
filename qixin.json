@@ -4,8 +4,8 @@
     "UpdateTime" : "2021-05-22",
     "Author" : "Stanger",
     "bbs" : "https://bbs.qxzy.top",
-    "Description" : "_cf666666",
-    "Image" : "https://qxzy.top/images/logo.png",
+    "Description" : "微信：_xf666666",
+    "Image" : "https://raw.githubusercontent.com/xf666666Plus/rules/master/img/xf666666.png",
     "task":[
         "20 9 21-27 5 * https://ghproxy.com/https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_mi.js, tag=京东Redmi合成小金刚, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/jd.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
