@@ -1,6 +1,6 @@
 {
     "name":"奇心脚本合集",
-    "description":"地址已更换，不能更新的，重新添加",
+    "description":"已更换新地址https://qxnav.com/rules/QuantumultX/qixin.json",
     "UpdateTime" : "2021-05-24",
     "Author" : "Stanger",
     "bbs" : "https://bbs.qxzy.top",
@@ -8,6 +8,7 @@
     "Image" : "https://qxnav.com/images/logo.png",
     "task":[
         "0 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://qxnav.com/rules/QuantumultX/img/box.png, enabled=true",
+        "0 9 * * * https://raw.githubusercontent.com/zwf234/rules/master/js/jd_unbind.js, tag=注销京东会员卡, img-url=rl=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "2 0-18/6 * 5 * https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_carnivalcity.js, tag=京东手机狂欢城, img-url=https://qxnav.com/rules/QuantumultX/img/jd.png, enabled=true",
         "0 0-23/1 * * * https://qxnav.com/rules/QuantumultX/js/lxk0301/jd_city.js, tag=城城领现金, img-url=https://qxnav.com/rules/QuantumultX/img/jd.png, enabled=true",
         "0 10 * * * https://raw.githubusercontent.com/xl2101200/-/main/xsg.js, tag=薪时光, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/tom.png, enabled=true",
