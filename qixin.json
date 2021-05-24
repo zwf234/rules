@@ -8,7 +8,7 @@
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "0 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
-        "0 0-18/6 * * * https://qxzy.top/rules/QuantumultX/js/lxk0301/jd_carnivalcity.js, tag=京东手机狂欢城, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
+        "2 0-18/6 * 5 * https://raw.githubusercontent.com/monk-coder/dust/dust/i-chenzhe/z_carnivalcity.js, tag=京东手机狂欢城, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "0 0-23/1 * * * https://qxzy.top/rules/QuantumultX/js/lxk0301/jd_city.js, tag=城城领现金, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "0 10 * * * https://raw.githubusercontent.com/xl2101200/-/main/xsg.js, tag=薪时光, img-url=https://raw.githubusercontent.com/sngxpro/QuanX/master/icons/tom.png, enabled=true",
         "1 0,11,21 * * * https://qxzy.top/rules/QuantumultX/js/lxk0301/jd_jump.js, tag=跳跳乐瓜分京豆, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
