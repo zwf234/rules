@@ -1,4 +1,19 @@
 #海外服务
+
+# > Emby
+HOST-SUFFIX,emby-cf.plusmedia.site,海外服务
+HOST-SUFFIX,tv.emby.media,海外服务
+HOST-SUFFIX,emby.media,海外服务
+HOST-SUFFIX,emby.media,海外服务
+HOST-SUFFIX,emby.xeton.dev,海外服务
+HOST-SUFFIX,tv.emby.neko.re,海外服务
+HOST-SUFFIX,jellyfin.xeton.dev,海外服务
+HOST-SUFFIX,movie.xeton.dev,海外服务
+HOST-SUFFIX,servers.xeton.dev,海外服务
+IP-CIDR,38.94.111.242/32,海外服务
+IP-CIDR,38.94.111.242/22,海外服务
+
+
 # > UA
 USER-AGENT,%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*,海外服务
 USER-AGENT,AwemeI18n*,海外服务
@@ -49,7 +64,13 @@ HOST-KEYWORD,-tiktokcdn-com,海外服务
 # > Zooba
 USER-AGENT,battleroyale*,海外服务
 
-#YouTube 
+# > Others
+HOST-SUFFIX,jable.tvm,海外服务
+HOST-SUFFIX,qxzy.top,海外服务
+
+
+
+# > YouTube 
 USER-AGENT,*youtube*,海外服务
 USER-AGENT,YouTube*,海外服务
 HOST-KEYWORD,youtube,海外服务
@@ -1523,6 +1544,8 @@ IP6-CIDR,2001:67c:4e8::/48,海外服务
 IP6-CIDR,2001:b28:f23c::/47,海外服务
 IP6-CIDR,2001:b28:f23f::/48,海外服务
 IP6-CIDR,2001:b28:f242::/48,海外服务
+
+#clubhouse
 HOST,clubhouse.pubnub.com,海外服务
 HOST,clubhouseprod.s3.amazonaws.com,海外服务
 HOST-SUFFIX,clubhouseapi.com,海外服务
@@ -1577,14 +1600,18 @@ IP-CIDR,52.52.84.170/32,海外服务
 IP-CIDR,52.58.56.244/32,海外服务
 IP-CIDR,54.178.26.110/32,海外服务
 IP-CIDR,69.28.51.148/32,海外服务
+
+#clubhouse ip
 HOST,ap-oversea-tls.agora.io,海外服务
 HOST,ap-oversea.agora.io,海外服务
 HOST,ap-oversea2.agora.io,海外服务
 HOST,report-oversea.agora.io,海外服务
 IP-CIDR,103.59.49.10/32,海外服务
+IP-CIDR,103.65.41.130/32,海外服务
 IP-CIDR,103.65.41.132/32,海外服务
 IP-CIDR,103.65.41.137/32,海外服务
 IP-CIDR,103.65.41.139/32,海外服务
+IP-CIDR,103.65.41.152/32,海外服务
 IP-CIDR,103.65.41.157/32,海外服务
 IP-CIDR,103.65.41.159/32,海外服务
 IP-CIDR,103.65.41.166/32,海外服务
@@ -1595,21 +1622,25 @@ IP-CIDR,103.98.18.184/32,海外服务
 IP-CIDR,103.98.18.189/32,海外服务
 IP-CIDR,120.227.115.126/32,海外服务
 IP-CIDR,122.10.255.165/32,海外服务
+IP-CIDR,128.1.105.156/32,海外服务
 IP-CIDR,128.1.87.196/32,海外服务
 IP-CIDR,129.227.115.130/32,海外服务
+IP-CIDR,129.227.234.85/32,海外服务
 IP-CIDR,129.227.57.130/32,海外服务
+IP-CIDR,129.227.57.133/32,海外服务
 IP-CIDR,129.227.57.135/32,海外服务
 IP-CIDR,129.227.57.136/32,海外服务
-IP-CIDR,129.227.57.138/32,海外服务
+IP-CIDR,129.227.57.138/31,海外服务
 IP-CIDR,129.227.57.144/32,海外服务
 IP-CIDR,129.227.57.146/31,海外服务
 IP-CIDR,129.227.71.203/32,海外服务
 IP-CIDR,13.230.60.35/32,海外服务
-IP-CIDR,148.153.126.146/32,海外服务
+IP-CIDR,148.153.126.146/31,海外服务
 IP-CIDR,148.153.172.73/32,海外服务
 IP-CIDR,148.153.172.74/31,海外服务
 IP-CIDR,148.153.172.76/31,海外服务
 IP-CIDR,164.52.0.244/32,海外服务
+IP-CIDR,164.52.102.33/32,海外服务
 IP-CIDR,164.52.102.35/32,海外服务
 IP-CIDR,164.52.102.66/31,海外服务
 IP-CIDR,164.52.102.68/31,海外服务
@@ -1632,7 +1663,9 @@ IP-CIDR,164.52.6.21/32,海外服务
 IP-CIDR,164.52.6.23/32,海外服务
 IP-CIDR,164.52.6.24/31,海外服务
 IP-CIDR,199.190.44.36/31,海外服务
-IP-CIDR,202.181.136.106/32,海外服务
+IP-CIDR,202.181.136.106/31,海外服务
+IP-CIDR,202.181.136.108/32,海外服务
+IP-CIDR,202.181.136.234/32,海外服务
 IP-CIDR,202.226.25.162/32,海外服务
 IP-CIDR,202.226.25.166/32,海外服务
 IP-CIDR,202.226.25.171/32,海外服务
@@ -1642,6 +1675,7 @@ IP-CIDR,23.248.191.103/32,海外服务
 IP-CIDR,23.248.191.105/32,海外服务
 IP-CIDR,23.98.43.152/32,海外服务
 IP-CIDR,3.0.163.78/32,海外服务
+IP-CIDR,35.156.231.150/32,海外服务
 IP-CIDR,35.168.106.53/32,海外服务
 IP-CIDR,35.178.208.187/32,海外服务
 IP-CIDR,45.255.124.100/31,海外服务
@@ -1651,6 +1685,7 @@ IP-CIDR,45.255.124.108/31,海外服务
 IP-CIDR,45.255.124.135/32,海外服务
 IP-CIDR,45.255.124.98/32,海外服务
 IP-CIDR,45.40.48.11/32,海外服务
+IP-CIDR,45.40.48.114/32,海外服务
 IP-CIDR,50.17.126.121/32,海外服务
 IP-CIDR,50.18.128.22/32,海外服务
 IP-CIDR,52.178.26.110/32,海外服务
@@ -1660,6 +1695,7 @@ IP-CIDR,52.52.84.170/32,海外服务
 IP-CIDR,52.58.56.244/32,海外服务
 IP-CIDR,54.178.26.110/32,海外服务
 IP-CIDR,69.28.51.148/32,海外服务
+
 HOST,api.okzy.tv,海外服务
 HOST,apple.comscoreresearch.com,海外服务
 HOST,atv-ps.amazon.com,海外服务

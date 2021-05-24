@@ -10,7 +10,7 @@ Surge 4.2+ :
 抖音去广告&水印res = type=http-response,pattern=^https?:\/\/.+?\.amemv\.com\/aweme\/v\d\/(feed|aweme\/post|follow\/feed|nearby\/feed|search\/item|general\/search\/single|hot\/search\/video\/list)\/,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/zwf234/rules/master/douyin.js
 
 [MITM]
-hostname = *.amemv.com
+hostname = api5-core-c-lf.amemv.com, api3-core-c-lf.amemv.com
 
 ***************************
 ***************************
@@ -22,7 +22,7 @@ QuantumultX 1.0.10+ :
 ^https?:\/\/.+?\.amemv\.com\/aweme\/v\d\/(feed|aweme\/post|follow\/feed|nearby\/feed|search\/item|general\/search\/single|hot\/search\/video\/list)\/ url script-response-body https://raw.githubusercontent.com/zwf234/rules/master/douyin.js
 
 [mitm]
-hostname = *.amemv.com
+hostname = api5-core-c-lf.amemv.com, api3-core-c-lf.amemv.com
 ***************************
 */
 

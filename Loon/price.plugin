@@ -1,0 +1,19 @@
+#如果京东入会开卡打开无网络，是因为比价主机名导致，可以关闭本条重写规则解决
+#其他问题：暂时没有
+
+
+
+[Script]
+
+# 京东比价
+#比价信息显示在商品下方
+http-response ^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig) requires-body=1,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/jd_price.js
+
+#淘宝比价
+#历史价格在“保障”中显示，需要点击“保障”才能看到，和京东不一样
+# “保障”显示在商品下方
+http-request ^http://.+/amdc/mobileDispatch requires-body=1,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/tb_price.js
+http-response ^https?://trade-acs\.m\.taobao\.com/gw/mtop\.taobao\.detail\.getdetail requires-body=1,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/tb_price.js
+
+[MITM]
+hostname = api.m.jd.com, trade-acs.m.taobao.com
