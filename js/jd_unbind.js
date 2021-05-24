@@ -3,6 +3,8 @@
 是注销京东已开的店铺会员,不是京东plus会员
 查看已开店铺会员入口:我的=>我的钱包=>卡包
 
+*点击打开相应链接就可以注销对应的会员
+
 
 0 9 * * * https://raw.githubusercontent.com/zwf234/rules/master/js/jd_unbind.js, tag=注销京东会员卡, img-url=rl=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true
 
@@ -14,6 +16,11 @@
 
 
 
+ */
+/*
+注销京东会员卡
+是注销京东已开的店铺会员,不是京东plus会员
+查看已开店铺会员入口:我的=>我的钱包=>卡包
  */
 const $ = new Env('注销京东会员卡');
 //Node.js用户请在jdCookie.js处填写京东ck;
