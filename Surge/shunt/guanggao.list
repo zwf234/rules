@@ -1,6 +1,7 @@
 # name: 屏蔽广告
 # author: Stranger
 # update：2021.5.26
+#一定要添加模块，否则该分流规则无效，模块地址   https://raw.githubusercontent.com/zwf234/rules/master/Surge/shunt/adv.sgmodule
 
 
 
