@@ -1,14 +1,14 @@
 {
     "name":"奇心脚本合集",
     "description":"挂v更新https://qxzy.top/rules/QuantumultX/qixin.json",
-    "UpdateTime" : "2021-05-25",
+    "UpdateTime" : "2021-05-27",
     "Author" : "Stanger",
     "bbs" : "https://bbs.qxzy.top",
     "Description" : "奇心科技 - 创造不一样的科技平台！",
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "0 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
-        "40 9-18/3 * 5,6 * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_star.js, tag=家电星推官, img-url=https://qxzy.top/rules/QuantumultX/img/jd618.png, enabled=true",
+        "0 0 0 * * * https://qxzy.top/rules/QuantumultX/js/lxk0301/jd_xtg.js, tag=家电星推官, img-url=https://qxzy.top/rules/QuantumultX/img/jd618.png, enabled=true",
         "15 9 * 5,6 * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_jxhb.js, tag=京东京喜阶梯红包, img-url=https://qxzy.top/rules/QuantumultX/img/jd618.png, enabled=true",
         "15 9,20 * 5,6 * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_newInteraction.js, tag=618大势新品赏, img-url=https://qxzy.top/rules/QuantumultX/img/jd618.png, enabled=true",
         "15 9,20 * 5,6 * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/adolf_superbox.js, tag=京东超级盒子, img-url=https://qxzy.top/rules/QuantumultX/img/jd618.png, enabled=true",
