@@ -1,14 +1,15 @@
 {
     "name":"奇心脚本合集",
     "description":"挂v更新https://qxzy.top/rules/QuantumultX/qixin.json",
-    "UpdateTime" : "2021-05-30",
+    "UpdateTime" : "2021-05-31",
     "Author" : "Stanger",
     "bbs" : "https://bbs.qxzy.top",
     "Description" : "奇心科技 - 创造不一样的科技平台！",
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "0 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
-        "*/5 0 * * * https://qxzy.top/rules/QuantumultX/js/zy/zy_ccfxj.js, tag=城城分现金互助, img-url=https://qxzy.top/rules/QuantumultX/img/jd618.png, enabled=true",
+        "0 16 * * * https://qxzy.top/rules/QuantumultX/js/lxk0301/jd_party_night.js, tag=沸腾之夜, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
+        "0 9 * * * https://raw.githubusercontent.com/xl2101200/-/main/xcsh.js, tag=湘创生活, img-url=https://qxzy.top/rules/QuantumultX/img/xcsh.png, enabled=true",
         "0 8 21-31 5-12 * https://qxzy.top/rules/QuantumultX/js/lxk0301/jd_gold_creator.js, tag=金榜创造营, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "*/5 0 * * * http://nm66.top/jd_cctx.js, tag=城城分现金自动提现, img-url=https://qxzy.top/rules/QuantumultX/img/jd618.png, enabled=true",
         "0 0 0 * * * https://qxzy.top/rules/QuantumultX/js/lxk0301/jd_xtg_help.js, tag=星推官互助, img-url=https://qxzy.top/rules/QuantumultX/img/jd618.png, enabled=true",
