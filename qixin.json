@@ -8,6 +8,7 @@
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "0 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
+        "0 0,1-23/3 * * * https://qxzy.top/rules/QuantumultX/js/lxk0301/jd_mohe.js, tag=5G超级盲盒, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "10 0-23 * * * https://raw.githubusercontent.com/age174/-/main/qmxx.js, tag=全免小说, img-url=https://i0.hdslb.com/bfs/album/5d117c3f2a1a15fe692e50282b3e7beeebf96422.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jay_member_olb.js, tag=京东欧乐b, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/zooPanda/zoo/dev/zooLongzhou.js, tag=与“粽”不同, img-url=https://qxzy.top/rules/QuantumultX/img/jd618.png, enabled=true",
@@ -122,7 +123,6 @@
         "7 7 7-20 * * * https://raw.githubusercontent.com/ziye888/JavaScript/main/Task/yqnb.js, tag=易趣牛帮, img-url=https://raw.githubusercontent.com/ziye888/JavaScript/main/Task/yqnb.png, enabled=true",
         "35 9-22 * * * https://raw.githubusercontent.com/age174/-/main/qhyd.js, tag=千禾阅读, img-url=https://ae01.alicdn.com/kf/U413ab7460abb4a28b11deac3c5034243N.jpg, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/age174/-/main/blnc.js, tag=部落农场, img-url=https://ae01.alicdn.com/kf/U7bcabce8ea7644f18e3c84f65907e34bf.jpg, enabled=true",
-        "0 0,1-23/3 * * * https://qxzy.top/rules/QuantumultX/js/lxk0301/jd_mohe.js, tag=⚠️5G超级盲盒, img-url=https://qxzy.top/rules/QuantumultX/img/sgmh.png, enabled=true",
         "0 0 1 1 * https://raw.githubusercontent.com/age174/-/main/mmdzz.js, tag=萌喵大作战无限刷, img-url=https://ae01.alicdn.com/kf/U13a7be18e87942118e4402e22652fd70H.jpg, enabled=true",
         "*/4 * * * * https://raw.githubusercontent.com/qqsdff/script/main/xsyx.js, tag=兴盛优选小程序, img-url=https://qxzy.top/rules/QuantumultX/img/xsyx.png, enabled=true",
         "0 0 * * * https://raw.githubusercontent.com/LJJJia/script/master/iklear/iklear_checkin.js, tag=iklear签到, img-url=https://qxzy.top/rules/QuantumultX/img/iklear.png, enabled=true",
