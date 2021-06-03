@@ -8,6 +8,8 @@
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "0 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
+        "10 0-23 * * * https://raw.githubusercontent.com/age174/-/main/qmxx.js, tag=全免小说, img-url=https://i0.hdslb.com/bfs/album/5d117c3f2a1a15fe692e50282b3e7beeebf96422.png, enabled=true",
+        "0 9 * * * https://raw.githubusercontent.com/sngxpro/QuanX/master/scripts/jay_member_olb.js, tag=京东欧乐b, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/zooPanda/zoo/dev/zooLongzhou.js, tag=与“粽”不同, img-url=https://qxzy.top/rules/QuantumultX/img/jd618.png, enabled=true",
 	    "30 9,10 1-18 6 * https://raw.githubusercontent.com/Wenmoux/scripts/master/jd/jd_mcxhd_brandcity.js, tag=新潮品牌狂欢, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
 	    "1 0 * * * https://raw.githubusercontent.com/panghu999/panghu/master/jd_dphby.js, tag=大牌闪购红包雨, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
