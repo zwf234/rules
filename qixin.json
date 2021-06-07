@@ -8,6 +8,8 @@
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "0 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://qxzy.top/rules/QuantumultX/img/box.png, enabled=true",
+        "52 59 9 * * 0,5,6 https://raw.githubusercontent.com/zZPiglet/Task/master/Alipay/Alipay_voucher.js, tag=提醒支付宝抢消费券, img-url=https://qxzy.top/rules/QuantumultX/img/Alipay.png, enabled=true",
+        "25 7 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Alipay/Alipay.js, tag=提醒签到收能量, img-url=https://qxzy.top/rules/QuantumultX/img/Alipay.png, enabled=true",
         "0 22 * * * https://raw.githubusercontent.com/xl2101200/-/main/ylsh.js, tag=引力生活, img-url=https://qxzy.top/rules/QuantumultX/img/ylsh.png, enabled=true",
         "0 6 * * * https://raw.githubusercontent.com/zooPanda/zoo/dev/zooJointeam01.js, tag=京东GNC组队瓜分京豆, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "20 * * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_big_winner.js, tag=省钱大赢家之翻翻乐, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
@@ -404,6 +406,7 @@
         "0 9 * * * https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/sinanews.js, tag=新浪新闻, img-url=https://qxzy.top/rules/QuantumultX/img/sinanews.png, enabled=true",
         "0 10 * * * https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/translate.js, tag=谷歌中英互译, img-url=https://qxzy.top/rules/QuantumultX/img/translate.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/txnews.js, tag=腾讯新闻, img-url=https://qxzy.top/rules/QuantumultX/img/txnews.png, enabled=true",
+        "0 * * * * https://raw.githubusercontent.com/zZPiglet/Task/master/Weibo/Weibo.js, tag=微博通知, img-url=https://qxzy.top/rules/QuantumultX/img/weibo.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/toulanboy/scripts/master/weibo/weibotalk.js, tag=微博超话, img-url=https://qxzy.top/rules/QuantumultX/img/weibo.png, enabled=true",
         "0 11 8 * * * https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/weibo.js, tag=微博签到, img-url=https://qxzy.top/rules/QuantumultX/img/weibo.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/mydigit.js, tag=数码之家, img-url=https://qxzy.top/rules/QuantumultX/img/mydigit.png, enabled=true",
