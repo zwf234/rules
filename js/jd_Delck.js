@@ -34,11 +34,10 @@ function ReadCookie() {
       $nobyda.write("", EnvInfo3)
       $nobyda.notify("京东Cookie清除成功 !", "", '可以重新获取Cookie了')
       $nobyda.done()
-    }
-  else {
+  else
     $nobyda.notify("脚本终止", "", "未获取京东Cookie")
     $nobyda.done()
-  } return false
+  } 
 }
 
 
