@@ -38,7 +38,7 @@ function ReadCookie() {
   else {
     $nobyda.notify("脚本终止", "", "未获取京东Cookie")
     $nobyda.done()
-  } 
+  } return false
 }
 
 
