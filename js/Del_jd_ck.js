@@ -26,8 +26,7 @@ function ReadCookie() {
   const EnvInfo = $nobyda.isJSBox ? "JD_Cookie" : "CookieJD"
   const EnvInfo2 = $nobyda.isJSBox ? "JD_Cookie2" : "CookieJD2"
   const EnvInfo3 = $nobyda.isJSBox ? "JD_Cookies" : "CookiesJD"
-  if (DeleteCookie) {
-    if ($nobyda.read(EnvInfo) || $nobyda.read(EnvInfo2) || ($nobyda.read(EnvInfo3) || '[]') != '[]') {
+  if  ($nobyda.read(EnvInfo) || $nobyda.read(EnvInfo2) || ($nobyda.read(EnvInfo3) || '[]') != '[]') {
       $nobyda.write("", EnvInfo)
       $nobyda.write("", EnvInfo2)
       $nobyda.write("", EnvInfo3)
@@ -35,14 +34,11 @@ function ReadCookie() {
       $nobyda.done()
       return
     }
-    $nobyda.notify("脚本终止", "", '未获取京东Cookie')
-    $nobyda.done()
-    return
-  } else if ($nobyda.isRequest) {
+    else if ($nobyda.isRequest) {
     GetCookie()
     return
   }
-  Key = Key || $nobyda.read(EnvInfo)
+    Key = Key || $nobyda.read(EnvInfo)
   DualKey = DualKey || $nobyda.read(EnvInfo2)
   OtherKey = OtherKey || $nobyda.read(EnvInfo3)
   KEY = Key || DualKey
@@ -64,7 +60,7 @@ function ReadCookie() {
       double()
     }
   } else {
-    $nobyda.notify("京东签到", "", "脚本终止, 未获取Cookie ‼️")
+    $nobyda.notify("脚本终止", "", "未获取京东Cookie")
     $nobyda.done()
   }
 }
