@@ -31,11 +31,11 @@ function ReadCookie() {
       $nobyda.write("", EnvInfo)
       $nobyda.write("", EnvInfo2)
       $nobyda.write("", EnvInfo3)
-      $nobyda.notify("京东Cookie清除成功 !", "", '请手动关闭脚本内"DeleteCookie"选项')
+      $nobyda.notify("京东Cookie清除成功 !", "", '可以重新获取Cookie了')
       $nobyda.done()
       return
     }
-    $nobyda.notify("脚本终止", "", '未关闭脚本内"DeleteCookie"选项 ‼️')
+    $nobyda.notify("脚本终止", "", '未获取京东Cookie')
     $nobyda.done()
     return
   } else if ($nobyda.isRequest) {
