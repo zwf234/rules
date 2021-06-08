@@ -1,5 +1,7 @@
 /*************************
 
+********仅用于清除ck********
+
 本脚本仅用于小白，懒人一键清除京东Cookie
 
 //默认每月1日，自动清除京东Cookie，京东ck有效期也是一个月，所以该脚本不影响正常使用。
@@ -38,7 +40,28 @@ function ReadCookie() {
     GetCookie()
     return
   }
-   else {
+    Key = Key || $nobyda.read(EnvInfo)
+  DualKey = DualKey || $nobyda.read(EnvInfo2)
+  OtherKey = OtherKey || $nobyda.read(EnvInfo3)
+  KEY = Key || DualKey
+  if (KEY || OtherKey) {
+    if ($nobyda.isJSBox || $nobyda.isNode) {
+      if (Key) $nobyda.write(Key, EnvInfo);
+      if (DualKey) $nobyda.write(DualKey, EnvInfo2);
+      if (OtherKey) $nobyda.write(OtherKey, EnvInfo3);
+      if (stop !== '0') $nobyda.write(stop, "JD_DailyBonusDelay");
+    }
+    out = parseInt($nobyda.read("JD_DailyBonusTimeOut")) || out
+    stop = Wait($nobyda.read("JD_DailyBonusDelay"), true) || Wait(stop, true)
+    boxdis = $nobyda.read("JD_Crash_disable") === "false" || $nobyda.isNode || $nobyda.isJSBox ? false : boxdis
+    LogDetails = $nobyda.read("JD_DailyBonusLog") === "true" || LogDetails
+    ReDis = ReDis ? $nobyda.write("", "JD_DailyBonusDisables") : ""
+    if (KEY) {
+      all()
+    } else {
+      double()
+    }
+  } else {
     $nobyda.notify("脚本终止", "", "未获取京东Cookie")
     $nobyda.done()
   }
