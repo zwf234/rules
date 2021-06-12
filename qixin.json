@@ -12,7 +12,7 @@
         "0 0 * * * https://raw.githubusercontent.com/panghu999/panghu/master/jd_xsmh.js, tag=京东618限时盲盒, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "15 0,6,13,19,21 * * * https://raw.githubusercontent.com/zwf234/rules/master/js/jd_jxzpk.js, tag=京东京享值PK, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "30 7,19 1-18 6 * https://raw.githubusercontent.com/Wenmoux/scripts/wen/jd/jd_limitBox.js, tag=京东限时盲盒, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
-        "1 0-23/1 * 6 * hhttps://raw.githubusercontent.com/Wenmoux/scripts/wen/jd/jd_618redpacket.js, tag=新潮品牌狂欢翻翻乐, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
+        "1 0-23/1 * 6 * https://raw.githubusercontent.com/Wenmoux/scripts/wen/jd/jd_618redpacket.js, tag=新潮品牌狂欢翻翻乐, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "30 9,10 1-18 6 * https://raw.githubusercontent.com/Wenmoux/scripts/wen/jd/jd_mcxhd_brandcity.js, tag=京东新潮品牌狂欢, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "30 11 * * * https://raw.githubusercontent.com/Wenmoux/scripts/wen/jd/jd_superBrand.js, tag=京东特物ZX联想, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "0 9,12,18 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_jxnc.js, tag=京喜农场, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxnc.png, enabled=true",
