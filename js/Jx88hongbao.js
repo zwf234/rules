@@ -1,5 +1,5 @@
 /**
- * 8 8 * 6 * https://raw.githubusercontent.com/zwf234/rules/master/js/Jx88hongbao.js, tag=合肥旗舰店开业, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true
+ * 8 8 * 6 * https://raw.githubusercontent.com/zwf234/rules/master/js/Jx88hongbao.js, tag=京喜88红包, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true
  * 
  * 京喜 领88元红包
  * 活动地址：京喜app-我的-领88元红包
