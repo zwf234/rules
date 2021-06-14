@@ -1,16 +1,19 @@
-#如果你要看海外番剧，请使用该分流规则，如果看大陆番剧，就关闭该分流规则
+#港台番剧自动切换
+
 # Bilibili 哔哩哔哩 港澳台番剧
 DOMAIN-SUFFIX,biliapi.net,港台番剧
 DOMAIN-SUFFIX,bilibili.com,港台番剧
 DOMAIN,upos-hz-mirrorakam.akamaized.net,港台番剧
 DOMAIN-KEYWORD,cn-hk-eq-bcache-,港台番剧
 # 爱奇艺台湾站
-DOMAIN-SUFFIX,iq.com,港台番剧
-DOMAIN,cache.video.iqiyi.com,港台番剧
-DOMAIN,cache-video.iq.com,港台番剧
-DOMAIN,intl.iqiyi.com,港台番剧
-DOMAIN,intl-rcd.iqiyi.com,港台番剧
-DOMAIN,intl-subscription.iqiyi.com,港台番剧
+#因开启后观看电影会显示所在地区无版权，所以暂时禁用
+
+#DOMAIN-SUFFIX,iq.com,港台番剧
+#DOMAIN,cache.video.iqiyi.com,港台番剧
+#DOMAIN,cache-video.iq.com,港台番剧
+#DOMAIN,intl.iqiyi.com,港台番剧
+#DOMAIN,intl-rcd.iqiyi.com,港台番剧
+#DOMAIN,intl-subscription.iqiyi.com,港台番剧
 # 流媒体内容，非必须，省流量可注释
 DOMAIN,akmcdnoversea-tw.inter.iqiyi.com,港台番剧
 DOMAIN,akmcdnoversea-tw.inter.ptqy.gitv.tv,港台番剧
