@@ -8,8 +8,8 @@
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "* * * * 1/1 ? https://raw.githubusercontent.com/zwf234/rules/master/js/jd_Delck.js, tag=清除京东ck, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
-        "0 9 * * * https://qxzy.top/rules/QuantumultX/js/zwf234/jx_hotballoon.js, tag=财富岛热气球, img-url=https://qxzy.top/rules/QuantumultX/img/jxcfd.png, enabled=true",
-        "5 * * * * https://qxzy.top/rules/QuantumultX/js/zwf234/jx_cfd.js, tag=京喜财富岛, img-url=https://qxzy.top/rules/QuantumultX/img/jxcfd.png, enabled=true",
+        "0 0 0,5,9,14,20 * * ? https://qxzy.top/rules/QuantumultX/js/zwf234/jx_hotballoon.js, tag=财富岛热气球, img-url=https://qxzy.top/rules/QuantumultX/img/jxcfd.png, enabled=true",
+        "0 0 0/1 * * ?  https://qxzy.top/rules/QuantumultX/js/zwf234/jx_cfd.js, tag=京喜财富岛, img-url=https://qxzy.top/rules/QuantumultX/img/jxcfd.png, enabled=true",
         "30 6 * * * https://raw.githubusercontent.com/shufflewzc/faker2/main/jd_goodMorning.js, tag=早起福利, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "57 59 9  * * * https://raw.githubusercontent.com/shufflewzc/faker2/main/jd_europeancup.js, tag=欧洲狂欢杯, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
         "0 0 * * * https://raw.githubusercontent.com/cdle/jd_study/main/jd_cash_exchange.js, tag=签到领现金兑换, img-url=https://qxzy.top/rules/QuantumultX/img/jd.png, enabled=true",
