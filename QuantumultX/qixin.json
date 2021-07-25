@@ -385,7 +385,6 @@
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/qimao/qmnovel.js, tag=七猫小说, img-url=https://qxzy.top/rules/QuantumultX/img/qimao.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/qmkg/qmkg.js, tag=全民K歌, img-url=https://qxzy.top/rules/QuantumultX/img/qmkg.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/qqmusic/qqmusic.js, tag=QQ音乐, img-url=https://qxzy.top/rules/QuantumultX/img/qqmusic.png, enabled=true",
-        "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/qtt/qtt.js, tag=趣头条, img-url=https://qxzy.top/rules/QuantumultX/img/qtt.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/qunar/qunar.js, tag=去哪儿, img-url=https://qxzy.top/rules/QuantumultX/img/qunar.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/rrtv/rrtv.js, tag=人人视频, img-url=https://qxzy.top/rules/QuantumultX/img/rrtv.png, enabled=true",
         "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/sfexpress/sfexpress.js, tag=顺丰速运, img-url=https://qxzy.top/rules/QuantumultX/img/sfexpress.png, enabled=true",
