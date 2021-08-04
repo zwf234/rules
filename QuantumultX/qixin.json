@@ -1,13 +1,14 @@
 {
     "name":"奇心脚本合集",
     "description":"电报频道 @qixinscience",
-    "UpdateTime" : "2021-07-26",
+    "UpdateTime" : "2021-08-04",
     "Author" : "Stanger",
     "navigation" : "https://qxnav.com",
     "Description" : "奇心科技 - 创造不一样的科技平台！",
     "Image" : "https://qxzy.top/images/logo.png",
     "task":[
         "* * * * 1/1 ? https://raw.githubusercontent.com/zwf234/rules/master/js/jd_Delck.js, tag=清除京东ck, img-url=https://qxnav.com/rules/QuantumultX/img/jd.png, enabled=true",
+        "11 2,11 * * * https://qxnav.com/rules/QuantumultX/js/zwf234/jd_opencard_Daddy.js, tag=奶爸盛典, img-url=https://qxnav.com/rules/QuantumultX/img/jd.png, enabled=true",
         "0 8 * * * https://raw.githubusercontent.com/NobyDa/Script/master/Bahamut/BahamutDailyBonus.js, tag=巴哈姆特签到, img-url=https://qxnav.com/rules/QuantumultX/img/bahamutGame.png",
         "0 0 0,5,9,14,20 * * ? https://qxnav.com/rules/QuantumultX/js/zwf234/jx_hotballoon.js, tag=财富岛热气球, img-url=https://qxnav.com/rules/QuantumultX/img/jxcfd.png, enabled=true",
         "18 0-23/2 * * * https://raw.githubusercontent.com/smiek2221/scripts/master/gua_wealth_island.js, tag=京喜财富岛, img-url=https://qxnav.com/rules/QuantumultX/img/jxcfd.png, enabled=true",
