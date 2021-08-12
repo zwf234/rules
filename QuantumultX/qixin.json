@@ -1,7 +1,7 @@
 {
     "name":"奇心脚本合集",
     "description":"电报频道 @qixinscience",
-    "UpdateTime" : "2021-08-04",
+    "UpdateTime" : "2021-08-12",
     "Author" : "Stanger",
     "navigation" : "https://qxnav.com",
     "Description" : "奇心科技 - 创造不一样的科技平台！",
@@ -330,7 +330,7 @@
         "10 7 * * * https://qxnav.com/rules/QuantumultX/js/jd_car.js, tag=京东汽车, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_car.png, enabled=true",
         "0 0 * * * https://qxnav.com/rules/QuantumultX/js/jd_car_exchange.js, tag=京东汽车兑换, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_redPacket.png, enabled=true",
         "5 0 * * * https://raw.githubusercontent.com/toulanboy/scripts/master/jd_price_detect/jd_price_detect.js, tag=⚠️京东价格提醒, img-url=https://qxnav.com/rules/QuantumultX/img/jd.png, enabled=true",
-        "15 17 * * * https://qxnav.com/rules/QuantumultX/js/backUp/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png",
+        "15 17 * * * https://raw.githubusercontent.com/zwf234/rules/master/js/xiaomi.js, tag=小米运动, img-url=https://qxnav.com/rules/QuantumultX/img/xiaomi.png",
         "0 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/box/switcher/box.switcher.js, tag=切换会话, img-url=https://qxnav.com/rules/QuantumultX/img/box.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js, tag=吾爱破解, img-url=https://qxnav.com/rules/QuantumultX/img/52pj.png, enabled=true",
         "0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺, img-url=https://qxnav.com/rules/QuantumultX/img/iQIYI.png, enabled=true",
