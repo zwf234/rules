@@ -9,11 +9,11 @@
 
 QuantumultX 奇心懒人配置
 
-配置地址：https://qxzy.top/rules/QuantumultX/qixin.conf
+配置地址：https://qxnav.com/rules/QuantumultX/qixin.conf
 
-Task远程订阅地址：https://qxzy.top/rules/QuantumultX/qixin.json
+Task远程订阅地址：https://qxnav.com/rules/QuantumultX/qixin.json
 
-BoxJs订阅合集：https://qxzy.top/rules/QuantumultX/qixin.boxjs.json
+BoxJs订阅合集：https://qxnav.com/rules/QuantumultX/qixin.boxjs.json
 
 QuantumultX 使用视频教程（[YouTube](https://www.youtube.com/results?search_query=%E5%A5%87%E5%BF%83%E7%A7%91%E6%8A%80)）
 
