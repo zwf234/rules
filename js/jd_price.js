@@ -1,15 +1,3 @@
-/*
-jd 商品历史价格查询，比价
-
-QuantumultX:
-^https?://api\.m\.jd\.com/(client\.action|api)\?functionId=(wareBusiness|serverConfig|basicConfig|lite_wareBusiness|pingou_item) url script-response-body https://raw.githubusercontent.com/kan3Git/Script/main/jd_price_lite.js
-
-Surge4:
-http-response ^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig) requires-body=1,script-path=https://raw.githubusercontent.com/yichahucha/surge/master/jd_price.js
-
-MITM = api.m.jd.com, trade-acs.m.taobao.com
-*/
-
 const path1 = "serverConfig";
 const path2 = "wareBusiness";
 const path3 = "basicConfig";
@@ -66,7 +54,7 @@ if (url.indexOf(path2) != -1) {
                 floors.insert(bestIndex, lowerword);
             }
             if (data.ok == 0 && data.msg.length > 0) {
-                lowerword.data.ad.adword = "⚠️ " + data.msg;
+                lowerword.data.ad.adword = "" + data.msg;
                 floors.insert(bestIndex, lowerword);
             }
             $done({ body: JSON.stringify(obj) });
@@ -79,7 +67,7 @@ if (url.indexOf(path2) != -1) {
 function lowerMsgs(data) {
     const lower = data.lowerPriceyh
     const lowerDate = dateFormat(data.lowerDateyh)
-    const lowerMsg = "🍵 历史最低到手价：¥" + String(lower) + ` (${lowerDate}) `
+    const lowerMsg = "历史最低价格：¥" + String(lower) + ` (${lowerDate}) `
     return lowerMsg
 }
 
