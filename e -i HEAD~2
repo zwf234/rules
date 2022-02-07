@@ -1,0 +1,4299 @@
+[33mcommit 540e41d5f8ef049483875d74bdf6488207c49aa3[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: JevenWong <591695352@qq.com>
+Date:   Mon Feb 7 14:06:26 2022 +0800
+
+    Update Search.conf
+    
+    无指令 转 BaiDu 搜索
+    go 转 Google 搜索
+
+[33mcommit 800d4de0e80d9fc8d1850be3a6509179d83f3099[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 6 17:51:50 2022 +0800
+
+    Update qxrules.conf
+
+[33mcommit 2be2f19b9028cf9df6cf6b2e5ea5ad5a4ddab64b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 6 17:40:45 2022 +0800
+
+    Update tailadv.conf
+
+[33mcommit 3f8935fcc8c7e761c45f79cf719c2c47b1f90e1a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 6 12:53:49 2022 +0800
+
+    repair bilibili vip
+
+[33mcommit 87aa7545c676a494652fe88542947d1bc8b500e0[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 6 12:52:15 2022 +0800
+
+    Create bilibili.conf
+
+[33mcommit ae7287c34f90f7b86d1959f2b6fa078621857d5c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Jan 28 21:59:56 2022 +0800
+
+    Update qxrules.conf
+
+[33mcommit bf4aa9ba235bd1af0dc436767e3d9b4cf85ca72e[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Jan 28 21:18:32 2022 +0800
+
+    Update qxrules.conf
+
+[33mcommit 90afe6763099e209d693c8de9246577806fd579f[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jan 25 11:28:35 2022 +0800
+
+    Update qxrules.conf
+
+[33mcommit cc91bfdbcd557d80c768c75d1b99187333775c07[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jan 25 11:10:12 2022 +0800
+
+    Update qxrules.conf
+
+[33mcommit 4b7fef98e862bb9cae91140a8164d1d89c2110c9[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Jan 19 12:51:56 2022 +0800
+
+    Update qxrules.conf
+
+[33mcommit b3a18c8cdc18091fec94f01286f34c4635597d5b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Jan 19 12:29:58 2022 +0800
+
+    Update qxrules.conf
+
+[33mcommit fe2910e1cb8a896beeabc7d1b2f8ea29314fb743[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Jan 8 23:18:55 2022 +0800
+
+    Create keep.js
+
+[33mcommit 3dea3465ddcd5b19ccb0d12b19243c45c7ffc84a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Jan 8 22:21:45 2022 +0800
+
+    奇心 QuantumultX 懒人配置
+
+[33mcommit 75e07e38dc07c50e8cfcad64fb411b67cd563534[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Jan 8 21:52:53 2022 +0800
+
+    Update qxrules.conf
+
+[33mcommit d89c149e995ffd6c729012ba3b804a49c56e13de[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jan 3 09:07:52 2022 +0800
+
+    Update qxrules.conf
+
+[33mcommit 3e40e0bd714509f589aed0748aba7a2935f6278a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jan 3 09:05:12 2022 +0800
+
+    repair 京东获取cookie
+
+[33mcommit 9314c173ff6a4986da8626dd8dfb74f674783036[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Dec 28 21:38:07 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit 7b2f54180d1114d776dbc0a16a59487415cde118[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Dec 28 21:34:37 2021 +0800
+
+    Create tangxin.js
+
+[33mcommit d1d683b6a6f913e8bc6e49ee93af495b621e610c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Dec 12 23:35:26 2021 +0800
+
+    Update getCookie.conf
+
+[33mcommit 151042a8a33ccc0e830f161ac66278d708b89563[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Dec 5 22:11:43 2021 +0800
+
+    Update price.sgmodule
+
+[33mcommit d2db6084d06a2c83f88f62d54a351e5b28a74016[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Dec 5 22:08:38 2021 +0800
+
+    Update price.conf
+
+[33mcommit c89d5c775440f5396cf6bc02de72abf70a335c39[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Dec 5 22:08:08 2021 +0800
+
+    Update jd_price.js
+
+[33mcommit 908b6bc0f4789883a64902978ebf930bf2486a7b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Dec 5 22:01:29 2021 +0800
+
+    Update price.conf
+
+[33mcommit 0519791aa2e19a7ad965a1435a4e23aef82543df[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Dec 5 21:53:06 2021 +0800
+
+    Update tb_price.js
+
+[33mcommit 156414cabac37f4862a744ebd87b2bad1dc39be5[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Dec 3 08:48:25 2021 +0800
+
+    delete 404
+
+[33mcommit 2d1882d215e3e17d55693f2153c3f27caacb3fed[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Dec 1 09:42:06 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit 5d2a83676bb0d39d97b66bd253d48ef593ac3f38[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Nov 28 15:15:47 2021 +0800
+
+    Update tb_price.js
+
+[33mcommit 326bdbb9a07ab2f471b085007706140cfda0ebae[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Nov 28 15:08:17 2021 +0800
+
+    Update price.conf
+
+[33mcommit 8f091c4e43d7b0b7db4ed40b3cec041efe29ac2b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Nov 28 15:03:38 2021 +0800
+
+    Update price.conf
+
+[33mcommit 8fc5369b678efcef7d8f3da9a5d03985d6dfb24c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Nov 28 15:01:38 2021 +0800
+
+    Create tb_price.js
+
+[33mcommit 240fb88a64f02e556fc3e74b7c8f6974725cf91c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Nov 28 15:00:24 2021 +0800
+
+    update 京东历史价格规则
+
+[33mcommit 10fea6fb8314f539dfb0986fd25daea05241568f[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Nov 25 10:30:14 2021 +0800
+
+    repair YouTube去广告
+
+[33mcommit fe052d481b8f87ee1f82e175b9aa51cc748d1c64[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Nov 18 22:27:57 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit fc48c79973d69bc072b94a809336713beddef198[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Nov 13 09:59:48 2021 +0800
+
+    update YouTube去广告规则
+
+[33mcommit 96fd8c5c4b06e3da6f60e3f2886ba63943fa1cc0[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Nov 4 16:57:51 2021 +0800
+
+    add 解锁Notability订阅
+
+[33mcommit 393f0c923ff6516e95bc40b5b7f69e322f83828c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Nov 1 11:09:43 2021 +0800
+
+    Update tailadv.conf
+
+[33mcommit 1d05b29ab3ddf160e12c90e1dadce0a724ff6262[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Oct 28 17:20:36 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit 6bd15249745daafa199ce6486cd32bad5da9b1fb[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Oct 27 14:32:33 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit 688ecb86e6f9b8f02d2dcb49db2397cf890cc490[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Oct 19 18:25:24 2021 +0800
+
+    Create Spotify.js
+    
+    作者仓库 https://github.com/app2smile/rules
+
+[33mcommit fdea68bc3e98467e84784d0657cdfeabd3835381[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Oct 16 12:24:16 2021 +0800
+
+    奇心 QuantumultX 懒人配置
+
+[33mcommit 7f757d0e120dcc701521e57e241c39ce9d52a048[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Oct 11 16:05:47 2021 +0800
+
+    Update price.sgmodule
+
+[33mcommit a71d61240129ac8326736ca55053c8c7a5331354[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Oct 11 15:58:33 2021 +0800
+
+    Update price.js
+
+[33mcommit 30a63d31c96ccb1860ebd8332dbd7d7858e1b9f6[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Oct 11 15:45:38 2021 +0800
+
+    Update price.conf
+
+[33mcommit 51b90e2b4c0875e24a75f9e69c943ef64be8fc9a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Sep 28 18:31:31 2021 +0800
+
+    add 成语极速版；update 书旗小说
+
+[33mcommit 849d90a8d24dee15980638bbcf486a4d9b91d269[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Sep 23 17:04:22 2021 +0800
+
+    奇心 QuantumultX 懒人配置
+
+[33mcommit be3e4adec22c86a4b15206d3a92a941ea8dc3143[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Sep 23 16:55:06 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit 0ce4b700d712606f7f438d4e0f3f2d459b733202[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Sep 23 16:50:08 2021 +0800
+
+    Create Search.conf
+
+[33mcommit c81d1bd893c28e5ac114a991ebd28c9e54601449[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Sep 23 16:21:55 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit 948170a74b06c54ebe1e9dcdd2be992c08069d8a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Sep 23 14:34:31 2021 +0800
+
+    add  疫情动态
+
+[33mcommit 7c7e082fd02bd0bfb4684f3320375d9b47db0b5d[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Sep 23 14:23:51 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit 3fb0dba8314f9ee1887801a8002b2552aa132f31[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Sep 23 13:56:54 2021 +0800
+
+    repair  404
+
+[33mcommit 0aa627f90509f5f0dcd7395d310c3b1a29883a5e[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Sep 23 13:55:02 2021 +0800
+
+    Create weixin110.js
+
+[33mcommit dbf0ba4440b157a1400d6415b86915f9beea6bce[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Sep 18 11:00:56 2021 +0800
+
+    Create QQNews.js
+
+[33mcommit 2698b91ac40a9113d8aae02d7b00d0b3795e222c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Sep 17 18:03:14 2021 +0800
+
+    Update price.sgmodule
+
+[33mcommit aa24ee88c00871a4f6e476bc0903fd2882e295ea[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Sep 17 17:59:28 2021 +0800
+
+    更新比价规则
+
+[33mcommit 11d137b3cbe123e3d0b39880f80a2642c084f802[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Sep 17 09:54:34 2021 +0800
+
+    奇心QuantumultX懒人配置
+
+[33mcommit a55e3256233368a61407f3a5f3a5f6ea27109fe5[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Sep 16 14:03:29 2021 +0800
+
+    Update README.md
+
+[33mcommit e71416b10c64db653f51ea871ac53d215b07628d[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Sep 7 20:49:37 2021 +0800
+
+    Update proxy.pac
+
+[33mcommit db9e55cb6789e781db2422117393af857709ea45[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Sep 7 19:24:17 2021 +0800
+
+    Update getCookie.conf
+
+[33mcommit bf8a92cee15b48af0f9c6fd076ab3a0efec8a197[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Sep 7 13:08:29 2021 +0800
+
+    Update getCookie.conf
+
+[33mcommit 109132453dfe71c884171ee6256d0d5b898f96e8[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Sep 7 10:39:52 2021 +0800
+
+    奇心QuantumultX懒人配置
+
+[33mcommit 2330587dbcfbf6aed89dcf58798cf59f325b7bbb[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Sep 6 17:46:08 2021 +0800
+
+    Update proxy.pac
+
+[33mcommit aa6e9e31d6ef0a141bb5cf5d728f95e869776688[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Sep 6 17:44:48 2021 +0800
+
+    Update proxy.pac
+
+[33mcommit f834c5ba19f5b62b53847314af2e355e8ca8263f[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Sep 6 15:54:09 2021 +0800
+
+    Update proxy.pac
+
+[33mcommit 1d958066cf61699559a048e6df105c28c9f61227[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Sep 6 15:52:09 2021 +0800
+
+    Update proxy.pac
+
+[33mcommit afb2a2be194bfaa703f4ba6611e4f01704027464[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Sep 6 15:50:12 2021 +0800
+
+    Update proxy.pac
+
+[33mcommit e5d6834a209a64b4d73a712afd605cdf64e13152[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Sep 6 15:37:20 2021 +0800
+
+    Create proxy.pac
+
+[33mcommit 4f9b13ab1ee741706a3670c57896848e7db610be[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Sep 5 21:12:00 2021 +0800
+
+    Update getCookie.conf
+
+[33mcommit 4d5dc787efe9e80b701deacbbd9faa871ae656ab[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Sep 4 20:11:07 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit 1b1001aa402afc6d490ddc9ddfb90c1607088989[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Aug 31 23:06:57 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit 0c3e31fdc0498d943d75a2a08f64bb647bd7e609[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Aug 21 16:41:57 2021 +0800
+
+    Create GetCookie.conf
+
+[33mcommit eb4accc7b866406a31590db77107e73925daae38[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Aug 21 16:31:50 2021 +0800
+
+    Create qixin.conf
+
+[33mcommit 0684a3d7e1ba702225e35900890583479d402d49[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Aug 19 21:45:06 2021 +0800
+
+    add 解锁悟饭游戏厅
+
+[33mcommit 2c96f1409ea1b7bb1f448dbb85d24bd7f0474145[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Aug 12 21:40:56 2021 +0800
+
+    Update getCookie.conf
+
+[33mcommit de00cfefd34aa861cfeec8511d159dc5dc33c349[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Aug 12 21:39:56 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit c4cff96d09f6fe9cf3755e43a848904bad77aa37[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Aug 12 18:14:07 2021 +0800
+
+    repair 小米运动脚本
+
+[33mcommit f86bf1ef1ab2c2472d18ee42a0b7b97619f891a4[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Aug 12 18:13:06 2021 +0800
+
+    Create xiaomi.js
+
+[33mcommit 04f758742d16bf3444be6de2108334efa5a875e7[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Aug 11 11:39:12 2021 +0800
+
+    Update getCookie.conf
+
+[33mcommit 0d875d0afd315f8ea106a3e9bfc36c2476fd90bd[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Aug 11 11:35:12 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit f7b64b962a16ba68fd1940d720077dc7c61e3204[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Aug 11 10:51:07 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit 285cc7d092405867abf559f3a30dc81ca5cb8145[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Aug 4 19:42:34 2021 +0800
+
+    add 奶爸盛典
+
+[33mcommit 74595350b1ae6c14ca91b1a5b09185f60dcd487e[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 26 14:27:25 2021 +0800
+
+    repair 京喜财富岛
+
+[33mcommit b24c58ff388b077f27d5317ce02d38a81b07c35d[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jul 25 21:23:43 2021 +0800
+
+    Update tailadv.conf
+
+[33mcommit 9f35de81548818fa7663a58af91c4ad4fe82d8f3[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jul 25 21:10:38 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 32c75f838389c4bb197ac7af2e3a65caf4e87078[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jul 25 21:06:19 2021 +0800
+
+    Update getCookie.conf
+
+[33mcommit 7f9df067f11ab9ba4de53bd2c49c787ba6380501[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jul 25 21:05:56 2021 +0800
+
+    Update qixin.json
+
+[33mcommit eba1c27a24244d8cfa2d308dee0e384b30eab19c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Jul 15 12:49:14 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 6e0f33ff05a5db05af8f7fb88f6af390f8d97377[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Jul 15 08:37:39 2021 +0800
+
+    update 京喜财富岛
+
+[33mcommit 083ca2f7fb524ad84757c2d617b8e10655d69fda[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 12 23:59:21 2021 +0800
+
+    奇心 QuantumultX懒人配置
+
+[33mcommit 7906e4ecac331157b1f12e14b7a33f03a7ec7dbc[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 12 23:37:31 2021 +0800
+
+    Create Netease.list
+
+[33mcommit f8ba224c113ecc9568d4f8a04da3dd7666152d5e[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 12 23:36:15 2021 +0800
+
+    Update wyy.list
+
+[33mcommit 3367d862089fb7d795d5f6db1276add673e71394[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 12 21:41:36 2021 +0800
+
+    Add files via upload
+
+[33mcommit 55ed547767ed2a69fc2504c85f14418651b6fff7[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 12 21:40:41 2021 +0800
+
+    Create README.md
+
+[33mcommit a2f839f1aae69f307b5cc79631d35ad98b258ab1[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 12 10:30:49 2021 +0800
+
+    Update TikTok_US.sgmodule
+
+[33mcommit 833207ca97a42ce7573fc203cb8ebe700b1bf3ce[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 12 10:30:33 2021 +0800
+
+    Update TikTok_JP.sgmodule
+
+[33mcommit a35a6010f4013c0a10122f8283a9bf12a029dc7a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 12 10:30:20 2021 +0800
+
+    Update TikTok_TW.sgmodule
+
+[33mcommit 3281601ef8d92fd939337b2207c0e3ec870e9c58[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 12 10:29:56 2021 +0800
+
+    Create TikTok_TW.sgmodule
+
+[33mcommit d983ae0048008af70c5d657b5fe01235b1ffe8d9[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 12 10:28:58 2021 +0800
+
+    Create TikTok_US.sgmodule
+
+[33mcommit 03a97eec97eabdcedbcad01df1fb846fbb05d37e[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 12 10:27:43 2021 +0800
+
+    Create TikTok_JP.sgmodule
+
+[33mcommit 53f8bcd888c83a37b2389278474dc60c4d1bc390[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 12 10:22:26 2021 +0800
+
+    Update CA.conf
+
+[33mcommit 2720bc052863e85bcd616f99668ae8a98c5823fc[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 12 10:22:05 2021 +0800
+
+    Update FR.conf
+
+[33mcommit 8fbecbe82f7eaa59a8b8487d60d6ff683780c754[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 12 10:21:42 2021 +0800
+
+    Update IN.conf
+
+[33mcommit 0a138639c90c5cc7f07ef714ddd03d39cafc4da2[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 12 10:21:13 2021 +0800
+
+    Update UK.conf
+
+[33mcommit 129e72ed2e57804442ec114144f82f7867096cd5[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 12 10:20:47 2021 +0800
+
+    Update KR.conf
+
+[33mcommit 28169047392b5fc2ebb622bb674ae82373c3f0d1[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 12 10:20:12 2021 +0800
+
+    Update KR.conf
+
+[33mcommit 5174c76f97366490f345e42f4f6ef4179a80436c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 12 10:18:51 2021 +0800
+
+    Update TW.conf
+
+[33mcommit 910fd5045a80978d51802c754d5881f56de9b2a8[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 12 10:18:31 2021 +0800
+
+    Update US.conf
+
+[33mcommit 5d523fc3fbe4970f8171a706d70a7879cc49f080[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 12 10:18:10 2021 +0800
+
+    Update JP.conf
+
+[33mcommit 669ff8905e47283110ef5659b10a55198ccf3fdb[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jul 11 21:21:04 2021 +0800
+
+    Update qixin.json
+
+[33mcommit c32b3c8f76e0aa511ffc54f21c4307f030843838[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jul 11 21:13:15 2021 +0800
+
+    Create jd_redrain.js
+
+[33mcommit 5b5d419dc2c4d2fe79a94b4a2510a2bee27454d3[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jul 11 21:00:25 2021 +0800
+
+    Create jd_joy-park.js
+
+[33mcommit 85af2d3ab0145815188a2ab3d1543086386dfed2[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jul 11 20:50:24 2021 +0800
+
+    京喜财富岛抽奖
+
+[33mcommit 0d7e76d8d5732c8172665373d531c8cc484d028c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jul 11 18:22:23 2021 +0800
+
+    Create jd_zcxyc.js
+
+[33mcommit 6a6da8fa3d720f2fce58489794949a9b6670a5f8[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Jul 8 12:57:47 2021 +0800
+
+    Delete jd_qmqjd.js
+
+[33mcommit 5595c54698b41728a4c61046cb8bda91174cd004[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Jul 8 12:56:39 2021 +0800
+
+    Update and rename jd_necklace.js to jd_qmqjd.js
+
+[33mcommit 02a233db009b29494d03daa8ade6d2191f1ba7a6[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Jul 8 11:50:35 2021 +0800
+
+    Create jd_necklace.js
+
+[33mcommit 0138c29f1419b3fb1340136b962c817909cd9178[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 5 13:00:06 2021 +0800
+
+    add 百度网盘解锁vip、视频倍速播放
+
+[33mcommit 94587c44b75699f9b16ac6e4a5bbc83cff2e21f4[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 5 12:58:21 2021 +0800
+
+    Create BaiduCloud.js
+
+[33mcommit c4580bbc4f4685a62011214bd59a954bc4623314[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 5 11:22:22 2021 +0800
+
+    add 送豆得豆
+
+[33mcommit 78e94f8a0ac6b66a6d465cd01e06990d6af4a02c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 5 11:20:42 2021 +0800
+
+    Create jd_sendBeans.js
+
+[33mcommit 032960201dbf453422aeb4c16f66912b376d85ba[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 5 11:05:50 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit 20b62aff7d400e9a3572b031d5ed9bc98632fda1[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 5 11:00:25 2021 +0800
+
+    update YouTube去广告规则
+
+[33mcommit 6d691b9d090f9f0f9aff808aff6fac9ab0c54f32[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 5 10:44:14 2021 +0800
+
+    Update qixin.json
+
+[33mcommit cab9ce670986c8fed9eb4d924f36824e9c3d7d12[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jul 5 10:30:00 2021 +0800
+
+    repair 404
+
+[33mcommit 0f0f3147fafb6db508b3f1f4a8e4b0a357d49dd3[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jul 4 23:29:06 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit 24f53cebc8c13e064505ba4fede09db4401ad6f7[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jul 4 23:28:51 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit 015f9dd24e6ce9a8b148e23735481d680ed3085c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jul 4 23:27:04 2021 +0800
+
+    Create DiDaQingDan.js
+
+[33mcommit 23175101335cf0dbe5d58d6b248e4a7aa1896c1f[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jul 4 23:23:09 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit 1699295e3460d2b6bfbb395a8fe376d8db90da27[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jul 4 23:22:52 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit a2b97d35cd554bd141936ca47063d19d5715cfa5[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jul 4 23:18:06 2021 +0800
+
+    Create qxrules.conf
+
+[33mcommit 337016ae25e2e561e96a6e75ecb8793a59e76ba9[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jul 4 23:17:21 2021 +0800
+
+    update 若干解锁规则，移除404
+
+[33mcommit cc254dd501c34060a8c173f75bcebd70f5ac18c8[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Jun 30 20:48:51 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 9411553f6b118dd5809b99d7ff6d14e0d1214258[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 29 18:55:56 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit 09da96dc2187b8c194b2594e22e10d1a2c7391d7[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 29 18:53:41 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit ffb35612096e910927fe6f70b8e2e57169d6718d[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Jun 25 15:43:01 2021 +0800
+
+    jd_tb 比价
+
+[33mcommit bcbba22200a64030215fd97dcc43dc7a7f6ca81f[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Jun 25 14:28:44 2021 +0800
+
+    京东、淘宝历史价格查询
+
+[33mcommit 1d896a5a4e73b8f22fb3bb75ca74432c040ef67e[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Jun 25 14:26:20 2021 +0800
+
+    repair 京东、淘宝比价
+
+[33mcommit 016559c11af0d81c5bf5abdae3d9ec3ccbf86d5d[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Jun 23 11:52:55 2021 +0800
+
+    Update jd_Task.sgmodule
+
+[33mcommit 713fb7d4cc35f594661f5e8262007717960cd082[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Jun 23 11:49:24 2021 +0800
+
+    Update qixin.conf
+
+[33mcommit bcc51b6e739dc73e739323afb2f4e1a435cb4494[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Jun 23 10:50:35 2021 +0800
+
+    Update qixin.conf
+
+[33mcommit 49757bbe600e6d2a6631abb98cfc32e2a139fcc4[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Jun 23 10:41:20 2021 +0800
+
+    Update qixin.conf
+
+[33mcommit 514c4bc1909b1e2162bc533ad9f30e615b38d0b6[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Jun 23 10:40:26 2021 +0800
+
+    Create qixin.conf
+
+[33mcommit 93111b85eea9f3182b9b78bf591188ebade85d72[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jun 21 17:21:01 2021 +0800
+
+    Update price.conf
+
+[33mcommit e6538484a935294749d8d5da2e8fa73ac57c7256[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jun 21 17:20:19 2021 +0800
+
+    历史价格查询
+
+[33mcommit 115c6c9e3736b109439e41f85242a72d90f2fe04[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jun 20 12:47:03 2021 +0800
+
+    去部分app开屏广告
+
+[33mcommit 04d4a2cc6479896434eccaf8defcbe89baf6c687[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jun 20 12:43:08 2021 +0800
+
+    去部分app开屏广告
+
+[33mcommit 34e4c657c3c4cafde2c7e7fa2f1a1a61626257f3[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jun 20 12:11:22 2021 +0800
+
+    去部分app开屏广告
+
+[33mcommit 31137585f34e513e7dcdc9e890aa851a9bd216a8[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jun 20 12:01:19 2021 +0800
+
+    去开屏广告
+
+[33mcommit 8baac273ef6b8926a6ecb6e67edcb563024dd413[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Jun 16 20:52:38 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 2af06f46231bf51b6a0defc43cc027cc7c023fdf[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Jun 16 20:32:10 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 7dfc3dba31966195399367725d93e934c6bdc340[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Jun 16 18:41:57 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 14147bcef743ba1339870ea896d387abacc8f7e5[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Jun 16 17:15:27 2021 +0800
+
+    Update haiwai.list
+
+[33mcommit d04392de2533f28d485bbe63760ded0589eaaa58[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 15 13:57:45 2021 +0800
+
+    Update qixin.json
+
+[33mcommit b45117f557bfe7eacd59ea258cf02c35c89a7ad8[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 15 13:52:50 2021 +0800
+
+    Update jd_Task.sgmodule
+
+[33mcommit 751896cf67ae4893126151869e1567dc841ae076[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 15 12:23:49 2021 +0800
+
+    Update jd_trial.js
+
+[33mcommit c38d3dd8a314d69a5b981ce0492b87d78a44c13b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 15 12:20:49 2021 +0800
+
+    Create jd_trial.js
+
+[33mcommit ba363204fc61b5a9ef5d9dffed5461f55cfafd9e[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jun 14 09:48:42 2021 +0800
+
+    Update qixin.conf
+
+[33mcommit be7379eaf2a4f29381dd43b7afa98806a64f101d[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jun 14 09:27:24 2021 +0800
+
+    Update gangtaifanju.list
+
+[33mcommit 2197c2d6328c4c909ae30fc57173d99cfccabb0a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jun 13 23:09:58 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit cd30f3df009fa677da91dd7e3848030fa5375595[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jun 13 19:40:39 2021 +0800
+
+    Create vsco.js
+
+[33mcommit 5fd0d7467c4923010f466f03fcab61c4c6e9f34e[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jun 13 10:22:46 2021 +0800
+
+    Update jd_Delck.js
+
+[33mcommit aef280a08eb286486e9e3127d83ffa6a605c621f[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Jun 12 23:08:24 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit cf3a830a08c709ad6a69088145036387865b731e[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Jun 12 20:10:57 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit 59303f2d4f2356cc9d9841dfc01879beb08e0b7b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Jun 12 12:08:56 2021 +0800
+
+    Update jd_task.conf
+
+[33mcommit a4733a4981db90d2cfdfd6d90083600f945d071c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Jun 12 11:14:19 2021 +0800
+
+    jd脚本
+
+[33mcommit e5fd13c1a357566f5ef7adaee77b368ea09f9c15[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Jun 12 09:31:07 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 74b06e0e417ce43895db5755589938e29ce71827[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Jun 12 09:27:51 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 8b552465be8db323bafb8d2b8919a70a2c956f10[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Jun 12 09:21:58 2021 +0800
+
+    Create qixin.json
+
+[33mcommit 155ab90f0a5e83634e80b08bc830bbc515ad662d[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Jun 12 09:18:37 2021 +0800
+
+    京东脚本
+
+[33mcommit 417ea7cc2a1fd85f49fbb36a600abe62146ab0fb[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Jun 12 08:22:48 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 96e1436d7bbb51b7189e2f9763a18e6a04776e98[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Jun 12 08:18:39 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 99ddb38e7c6d41f7b6f25d97cf7f4cd31372eb20[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Jun 12 08:15:17 2021 +0800
+
+    京东京享值pk
+
+[33mcommit b9612c360a996d54870105c09badbca0795ce0a6[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Jun 12 08:12:43 2021 +0800
+
+    Update Jx88hongbao.js
+
+[33mcommit 1607bf35c235131d2d98a865ac637ca8f2d67133[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Jun 12 08:05:46 2021 +0800
+
+    Create Jx88hongbao.js
+
+[33mcommit 4a08e957b7973d750c3c9bee96e1c0e26550a4ee[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Jun 12 08:01:54 2021 +0800
+
+    Create Supershophf.js
+
+[33mcommit 687b72c9fe37d3ec92f829320115b5d412e32b8b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Jun 12 07:58:13 2021 +0800
+
+    Create Jointeam01.js
+
+[33mcommit f9729b5338db03ec4608501c09d711b6da8ad573[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 8 17:32:10 2021 +0800
+
+    Update jd_Delck.js
+
+[33mcommit 36202523489282e758112026986f9357bf569a2b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 8 17:28:38 2021 +0800
+
+    Update jd_Delck.js
+
+[33mcommit 57735b6b0c86da13fff470caf3e26e84b22ac841[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 8 17:25:05 2021 +0800
+
+    清除京东Cookie
+
+[33mcommit 23ee4482fb4c1bbbdd7cf8bbeb680b7bac4a4bf1[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 8 17:23:15 2021 +0800
+
+    Create jd_Delck.js
+
+[33mcommit 50d0e9bf6793fbb71c789b04cabd7b75f18341a2[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 8 17:21:35 2021 +0800
+
+    Delete Del_jdck.js
+
+[33mcommit 03e12c9053d130c9530131f7860238b6db3c62f3[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 8 17:19:33 2021 +0800
+
+    Update Del_jdck.js
+
+[33mcommit ee0a1a96d95e55e5fd072c484502905ec703c8a5[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 8 17:09:11 2021 +0800
+
+    Update Del_jdck.js
+
+[33mcommit c7e4b56b144af44b4bf48c43ac1d21bedf8d3d0e[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 8 17:04:14 2021 +0800
+
+    Create Del_jdck.js
+
+[33mcommit 518cc6351447becb6e40b85a9b7a86fdfa4ff58b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 8 17:03:30 2021 +0800
+
+    Delete Del_jd_ck.js
+
+[33mcommit f26ad61583252a7679744139dabeaa105e9ab3b3[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 8 17:01:45 2021 +0800
+
+    Update Del_jd_ck.js
+
+[33mcommit edc83611379f23a4d48da691d1e0b55cb1912e03[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 8 16:53:26 2021 +0800
+
+    Update Del_jd_ck.js
+
+[33mcommit 433f9db81c23ca9115352137864b3bc27fac1b92[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 8 16:50:08 2021 +0800
+
+    Update Del_jd_ck.js
+
+[33mcommit c86f71139e3074466e423550504f5b6fb28cafbc[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 8 16:43:24 2021 +0800
+
+    Update Del_jd_ck.js
+
+[33mcommit 8bf6cfa53ae1595b2f8d3f089c7e730f95de3f00[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 8 16:41:08 2021 +0800
+
+    清除京东Cookie
+
+[33mcommit f72b6785883f0673ca0fbd9f450982d48c1b156e[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 8 16:38:23 2021 +0800
+
+    Delete Del_jd_ck.js
+
+[33mcommit 082b44442fa3874bf1d81a5472a2ef64417ad68d[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 8 16:31:29 2021 +0800
+
+    Update Del_jd_ck.js
+
+[33mcommit ce640693874fdf671b982d64f4625e77f18ec740[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 8 16:29:37 2021 +0800
+
+    Update Del_jd_ck.js
+
+[33mcommit ee004fe03cd663877bed6608d2b83414dcf3498d[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 8 16:28:11 2021 +0800
+
+    Update Del_jd_ck.js
+
+[33mcommit c10d0896597c1370b8fdaf135bf36b3c567d04f2[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 8 16:26:43 2021 +0800
+
+    Update Del_jd_ck.js
+
+[33mcommit 79f2c8feabc02e133d2619a2efe9cf421e4c00a3[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 8 16:14:24 2021 +0800
+
+    Update Del_jd_ck.js
+
+[33mcommit dc4d459cf07f1651299a0d49bd247ea5d199fd14[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 8 16:05:46 2021 +0800
+
+    Create Del_jd_ck.js
+
+[33mcommit 902623527db0dfd2446b2cd63becaa4fa35944d6[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jun 7 11:45:54 2021 +0800
+
+    Update getCookie.conf
+
+[33mcommit bfd6b4247131673c6c24ef66a544b816b9e51c9a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jun 7 11:45:26 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 592be7cbb323fc6af21aaa02b1f1aa5e9d15648d[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jun 7 11:28:04 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 07d3a522889bd873c3c5fe5d7e4f5d62111404d9[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jun 7 11:27:07 2021 +0800
+
+    repair 404
+
+[33mcommit f7c34c2c640aa883fc442913b55fc7e8a9cf6ff3[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Jun 7 11:26:33 2021 +0800
+
+    repair 404
+
+[33mcommit 59f819f3ba2439539b8c24decaf4f87295a64f5d[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Jun 4 15:08:09 2021 +0800
+
+    update 京享值pk
+
+[33mcommit d979964cceb85059312fb90503fa7401b762baed[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Jun 4 10:24:05 2021 +0800
+
+    add 4个京东脚本
+
+[33mcommit bb45d5e061663e106e13a0dcbbc3ae16b0b5ecbd[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Jun 3 17:29:10 2021 +0800
+
+    add 明星小店
+
+[33mcommit d65f631cb23199d5d6cbb768a9229116ded53b20[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Jun 3 14:11:06 2021 +0800
+
+    update 5G超级盲盒
+
+[33mcommit c73f36bdf9b4e326c2c306b1c94ba82bd6fded36[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Jun 3 12:40:06 2021 +0800
+
+    add 全免小说
+
+[33mcommit 6060b4f8df6aec8fd911e057e4698ef1c8e4b359[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Jun 3 09:35:24 2021 +0800
+
+    add 京东脚本
+
+[33mcommit 8f8d0017c4c1c091175577dc0a305afc4767fcc0[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Jun 2 09:41:17 2021 +0800
+
+    add 总裁送好礼
+
+[33mcommit 0b6a1ffa046bf7759b8e149504d177da5103bca5[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Jun 1 00:08:39 2021 +0800
+
+    Update qixin.json
+
+[33mcommit f973449890954dea9fed97b9dd47b8449e00c5d0[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon May 31 15:15:58 2021 +0800
+
+    add 沸腾之夜
+
+[33mcommit 9f5a4f74a9608b7522d07b2b871d75840ea78e11[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun May 30 21:04:57 2021 +0800
+
+    add 城城分现金互助
+
+[33mcommit 621f870f07999ef6091d7afef3f540cabb9e321d[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat May 29 22:29:25 2021 +0800
+
+    repair 一些404脚本
+
+[33mcommit 228f486fc104f89224c6bd22866b274d354b8bab[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri May 28 15:09:09 2021 +0800
+
+    add 金榜创造营
+
+[33mcommit 66ce33d6f2c3a335bb7d437e2b02696e0c2017c8[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu May 27 19:35:17 2021 +0800
+
+    add 京东星推官互助
+
+[33mcommit 3affd3f8e83831c2b51932fbede8eddbc6d9ad1a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu May 27 14:21:29 2021 +0800
+
+    update lxk0301京东家电星推官
+
+[33mcommit e19b9567fa27b37efea0b7bddcfd9b90ea0ce26d[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu May 27 11:29:02 2021 +0800
+
+    新增了脚本，修复了不显示的图标，适配了新脚本的图标
+
+[33mcommit bac741027970724be5cd18d9a070aa7845d59691[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed May 26 15:16:35 2021 +0800
+
+    Update guanggao.list
+
+[33mcommit 829a9ab588790eddfb29a8a08eb831b366318f6b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed May 26 15:15:40 2021 +0800
+
+    需配合分流规则使用
+
+[33mcommit 32a2b19a7439746e8188125e854116754a56f3b6[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed May 26 15:10:39 2021 +0800
+
+    Create qixin.conf
+
+[33mcommit d40c36d6982116331917fba3574c2142d9eede50[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed May 26 14:42:11 2021 +0800
+
+    Create wyy.list
+
+[33mcommit 49caaf0cddc00e282f71ebd3c88ec907ffb5cc73[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed May 26 14:23:40 2021 +0800
+
+    Create gangtaifanju.list
+
+[33mcommit e136d8b2839d040641f71575474a2e52419985b0[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed May 26 14:05:26 2021 +0800
+
+    Add files via upload
+
+[33mcommit 773fc6e2f9ecfbebb013a709657b00f8b49e5ba4[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed May 26 14:05:06 2021 +0800
+
+    Create dalu.list
+
+[33mcommit 006d206e38d81f9a4579cb0be7ac0ecf95cbb6be[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 25 22:08:45 2021 +0800
+
+    add  京东超级盒子
+
+[33mcommit 1f0d247d3f4d89e5720b31f6d90445a29bc3bbfd[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon May 24 21:40:35 2021 +0800
+
+    add  动物联萌
+
+[33mcommit 9522c375e57c5e76dc4073ae64389ce56fa37e16[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon May 24 19:31:55 2021 +0800
+
+    Update price.sgmodule
+
+[33mcommit 444ce7555ffe23e9193a27a18061d49512773624[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon May 24 18:13:11 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit 73ce1cd8ab2008d91fe4bc57da7770c8f9ba2d04[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon May 24 18:12:56 2021 +0800
+
+    Update qixin.json
+
+[33mcommit f431768989fd5436ad0fd2a263b30cea89efee60[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon May 24 18:12:18 2021 +0800
+
+    Update jd_unbind.js
+
+[33mcommit fa111941e6cf2036b6e728330b84988785c55461[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon May 24 12:18:52 2021 +0800
+
+    更换了服务器地址
+
+[33mcommit 0d3ee8012b86c5730695de65bdb72c22a7d025f0[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon May 24 10:45:25 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 3784a43aa4a1ca219920b75a1717304a597113b1[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon May 24 10:16:45 2021 +0800
+
+    add 京东手机狂欢城、城城领现金
+
+[33mcommit 85c4200e1a81480a1ac09544df33d21b23d9a905[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun May 23 12:00:48 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit 360554347ccfdf3e8a81259116a111f73f92ac1b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun May 23 11:59:58 2021 +0800
+
+    Update douyin.js
+
+[33mcommit aba02ad4cde80aeec8653e906447e87fc10bfbaf[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat May 22 09:55:27 2021 +0800
+
+    Update dalu.list
+
+[33mcommit 95eac85286849e47d17b0a837602ac80ccf438ae[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat May 22 09:54:58 2021 +0800
+
+    Update haiwai.list
+
+[33mcommit 5be0aaf13ca9da6265dbae4445aeb84b90bee2d0[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri May 21 13:53:38 2021 +0800
+
+    add 跳跳乐瓜分京豆
+
+[33mcommit e57823a1c684b5b8a13bc108bae3110788b5f1e9[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri May 21 13:37:23 2021 +0800
+
+    Create price.sgmodule
+
+[33mcommit 3ca92cd704166a292dd1238ddec9878f499ba31b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri May 21 13:29:36 2021 +0800
+
+    Delete price.plugin
+
+[33mcommit 79c433b58a9b63bb55469947c5f8b564053f3189[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri May 21 13:29:19 2021 +0800
+
+    Create price.plugin
+
+[33mcommit df1d4de6ed6e5363cc8ae9a976d3e6c58bb07aa6[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri May 21 12:03:58 2021 +0800
+
+    Delete qixin.conf
+
+[33mcommit fcfa21df7d7d755b832d7c92a00ba7aa771e2a24[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri May 21 12:03:37 2021 +0800
+
+    Create qixin.conf
+
+[33mcommit 810018b29d224ee711633a106c7baefcc96c93cd[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri May 21 11:59:08 2021 +0800
+
+    移除了淘宝京东比价规则，单独使用
+    
+    网友反馈，京东入会开卡无网络
+    
+    经排查，是因为京东比价主机名导致，所以奇心规则合集中不在包含京东比价，特地写了单独的比价重写规则。
+    
+    QuantumultX
+    [rewrite_remote]
+    https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/price.conf
+    
+    Surge & Loon
+    https://raw.githubusercontent.com/zwf234/rules/master/Surge/price.plugin
+
+[33mcommit fc6eac4539448abe47bcd8fc7c478cd5a8abac8c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri May 21 11:31:50 2021 +0800
+
+    Update and rename jd_tb_price.plugin to price.plugin
+
+[33mcommit 90b7bf0bde2e0f31cb4a69edee128134dcf76d3e[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri May 21 11:25:02 2021 +0800
+
+    京东、淘宝比价，历史价格显示
+
+[33mcommit 0acb97167ea48000203ec38eda7c7db92d8f2814[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri May 21 08:42:52 2021 +0800
+
+    Update qixin.json
+
+[33mcommit e3d40b7a4eb7972c5e9a71ef625aa60fc6a25b38[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu May 20 12:22:59 2021 +0800
+
+    add 京东活动脚本两个
+
+[33mcommit 281942f690751b98300c33fe085485a7d03d8b97[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed May 19 22:48:59 2021 +0800
+
+    Update qixin.json
+
+[33mcommit fb958e4feeb4d8a8fae79cb5fb080e7904f3ce83[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed May 19 17:41:55 2021 +0800
+
+    Create jd_tb_price.plugin
+
+[33mcommit ac4125ce691d0700e81e93f3380d02dd1850d64a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed May 19 17:26:05 2021 +0800
+
+    add 京东注销会员卡
+
+[33mcommit efd2c0dc66fa413aec6bfa26cd6ec8b59265f403[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed May 19 17:01:02 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit 1d26bb6e223df68f5c2258bf755e8e8e373b3c3e[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed May 19 16:58:26 2021 +0800
+
+    repair 京东、淘宝 比价，历史价格
+
+[33mcommit 223a1e2eb11448961b555bfa705c9098acdbdc5a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed May 19 16:50:16 2021 +0800
+
+    update 京东、淘宝比价
+
+[33mcommit 608fef70527ba374ad96b928699af2694304b79a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed May 19 16:42:16 2021 +0800
+
+    Create jd_unbind.js
+
+[33mcommit b8a9ab3be8be571bdca79fd97135e22657163e3a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed May 19 13:35:16 2021 +0800
+
+    add 取消绑定京东店铺会员
+
+[33mcommit 7544e85765567fbf5b95da5accd513976b3a03ac[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed May 19 00:18:40 2021 +0800
+
+    Update qixin.conf
+
+[33mcommit d6311554ee06478415c4cebab20b87e5c50bbbfb[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 18 23:46:18 2021 +0800
+
+    Create qmnovel.js
+
+[33mcommit 10205268e9174189e35d26ee22a3c2489e836f8e[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 18 23:26:44 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit 315ba60517a96e1745eede55b6da2bf60877d544[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 18 23:19:12 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit 6d0f2d21063c496b464182d49be3f6c77375f106[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 18 21:42:47 2021 +0800
+
+    Create jd_price.js
+
+[33mcommit a80468b5727028f9e162a5f23ea90b2541ecf64a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 18 21:26:28 2021 +0800
+
+    update 京东比价
+
+[33mcommit 9b7b801c6f892d8b319a8052b34a4e0f745c2d06[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 18 19:31:39 2021 +0800
+
+    禁用了京东、淘宝历史价格查看（因为接口收费了，暂时不可用）
+
+[33mcommit 2fe1defd8671f4226829817bbd0785b8c93b3fc3[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 18 10:44:44 2021 +0800
+
+    Update IT.conf
+
+[33mcommit 5b615816027e17dbb03d307ca250382e4b453f3e[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 18 10:44:12 2021 +0800
+
+    Update GB.conf
+
+[33mcommit ca1982acee660b7969a7e82c4a8c3723f25f3be2[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 18 10:43:46 2021 +0800
+
+    Update SG.conf
+
+[33mcommit 9c5d7857b512ce25fa5ad6ef74f9b9d48e79fc59[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 18 10:43:22 2021 +0800
+
+    Update TH.conf
+
+[33mcommit 8fa9a30760237ce5b498397799e39209be73f620[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 18 10:43:00 2021 +0800
+
+    Update TW.conf
+
+[33mcommit 80b2528444561de5b0dcc280bcf7910bcb05f2b2[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 18 10:42:41 2021 +0800
+
+    Update UK.conf
+
+[33mcommit 4ebe00979206f516b8554566c56f964d21a11077[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 18 10:42:23 2021 +0800
+
+    Update US.conf
+
+[33mcommit 56b598095d871e276b70e89b20e3c8063f323517[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 18 10:42:06 2021 +0800
+
+    Update RU.conf
+
+[33mcommit 49b0e579dd18594b4f0dbcfe444efb93de6ce0c3[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 18 10:41:43 2021 +0800
+
+    Update KR.conf
+
+[33mcommit 9c5ca64fc11a0c8e8038cf72f2e9f75b28e55175[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 18 10:41:08 2021 +0800
+
+    Update IN.conf
+
+[33mcommit 716af1eb2b2604fbcbad8a7a28fe5ca0bacea647[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 18 10:40:46 2021 +0800
+
+    Update ID.conf
+
+[33mcommit a0fc1ac2ba7b0df50579fc1f588b3a7a35198cd8[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 18 10:40:19 2021 +0800
+
+    Update FR.conf
+
+[33mcommit f3cbf85a574bd6e49644b6617baf3628d756c543[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 18 10:40:00 2021 +0800
+
+    Update CA.conf
+
+[33mcommit a97cc32d482c6ec4a39b9bf05dbd27fcdc9ba590[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 18 10:35:03 2021 +0800
+
+    Update JP.conf
+
+[33mcommit 61c5fd83d5a0547534f5ffe5755c1cdb203450df[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 18 10:05:56 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit 27ee56696c1044c66edc1881c80b67e5a89fa8eb[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon May 17 20:02:45 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 2ca532bd04015b58bde8c34d8d056ca3fc32696b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon May 17 15:09:59 2021 +0800
+
+    Update getCookie.conf
+
+[33mcommit 8dad8882ec4ac339d2d9d8452f17640353a2580b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun May 16 20:20:30 2021 +0800
+
+    add 云云赚呗、我的网红店
+
+[33mcommit d0267fc5a3211f28416d35a523c6d1c33a5a4333[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun May 16 15:59:55 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 241d92e378edffaac1227fbd348f5d13a6d040f7[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri May 14 19:00:03 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 2e38e637deafde01d2ff6a67b1c51439019055d1[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri May 14 12:44:28 2021 +0800
+
+    repair 404
+
+[33mcommit 601ca4c93d47be0908daf0ceb08a6c0d8787b19a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu May 13 23:10:52 2021 +0800
+
+    add 动物研究院、笑谱
+
+[33mcommit fc796e948c4b384bd80209c2a2849bcadf3c69ff[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu May 13 17:41:41 2021 +0800
+
+    repair 抖音去广告&无水印下载
+
+[33mcommit 867b90c28ffa6d4464e6a268f2048b96e3cc7286[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu May 13 17:34:28 2021 +0800
+
+    Update qixin.json
+
+[33mcommit dccb7d20cce7a715d5c00505bd41836011867dad[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu May 13 15:13:38 2021 +0800
+
+    Create douyin.plugin
+
+[33mcommit 484643cae80782d9243c178884f2ee9840c879c2[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu May 13 14:40:35 2021 +0800
+
+    Create douyin.js
+
+[33mcommit c677e37d10bd4cfa0c5664894d0fcc1bc5ed7f09[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu May 13 12:38:49 2021 +0800
+
+    Update qixin.json
+
+[33mcommit a5606837886c96984dbb64f68e692d5d6fde895a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 11 15:57:36 2021 +0800
+
+    Update gangtaifanju.list
+
+[33mcommit c46a762b99df9b3619e0eee4072415456d51aca3[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 11 15:41:26 2021 +0800
+
+    Update gangtaifanju.list
+
+[33mcommit 4bfe5604ebe3773cf1f7c7d8a7cad9d591986925[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 11 15:24:51 2021 +0800
+
+    add 替换支付宝内淘票票评分为豆瓣评分
+
+[33mcommit 20d11fa5508cdd12fa67b966c6e3febf8ddb2f13[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon May 10 19:15:20 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 1c842d4177a646e2b86556df14cbbbe1c606748a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun May 9 19:43:23 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 09e5558949d0cf7191f6135b9541fab2089f4e89[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun May 9 18:56:49 2021 +0800
+
+    Add files via upload
+
+[33mcommit 9756671e2a7eca32de77493137bcaefde464aed2[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun May 9 18:56:06 2021 +0800
+
+    add 自动切换港台番剧
+
+[33mcommit 3355692b06fd4ed97aa3b3108b9f9b8641bc48a3[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun May 9 18:54:05 2021 +0800
+
+    Delete guanggao.list
+
+[33mcommit 7d81e3ae4cd38fd06082b33ce3a69da8e45b6987[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun May 9 12:31:12 2021 +0800
+
+    add 微信屏蔽跳转
+
+[33mcommit a1198276f217a2c4c19f6f5244ee6aaf65d7abc7[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat May 8 23:04:58 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit a885ede459b344a89dea01c21b6b0cc2e466fb3d[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat May 8 22:43:21 2021 +0800
+
+    add 海尔_欢乐大逃亡
+
+[33mcommit 65ceb9073865e75f10f80c9e9f3193982f604024[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat May 8 21:52:15 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit d70d6a33a9ae086c6006ca594dc399c1b5da9852[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat May 8 20:42:26 2021 +0800
+
+    repair 京东比价
+
+[33mcommit dcb2b03fe2d50e599343c610a9d425705a2dcc7d[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat May 8 10:19:01 2021 +0800
+
+    repair 京东比价
+
+[33mcommit 7801632f742b59b380326c949feaa6a1d014ade3[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri May 7 12:11:10 2021 +0800
+
+    add 每日抽奖
+
+[33mcommit b3209a4ff28f1ad11adeec9bbd3ab4327a4a6bb6[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu May 6 11:07:41 2021 +0800
+
+    add 幸福饭店
+
+[33mcommit 13cfbddd95d951436b897b0569bfac3f4da02591[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed May 5 10:49:52 2021 +0800
+
+    Update qixin.json
+
+[33mcommit aeb8a9e92ebf13621561c576bcb1d357b014d809[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 4 16:07:06 2021 +0800
+
+    Update Emby.js
+
+[33mcommit 247d3f5f5f7559e46e5860153d25740e5a10fc10[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 4 14:05:22 2021 +0800
+
+    Update Emby.js
+
+[33mcommit fffcd60a706066a3d9afbb432271421e3602f2bc[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue May 4 13:59:36 2021 +0800
+
+    Create Emby.js
+
+[33mcommit 05908784d4107a3461df77e8c9a16249db154606[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon May 3 15:30:45 2021 +0800
+
+    add 如意花园
+
+[33mcommit ce21e81355284ccf7d36f58a7815c16c52c8ed1b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat May 1 23:42:06 2021 +0800
+
+    add 狗狗大亨
+
+[33mcommit 6784b4fcd7c6b9f5b5628cb539dbfe4cfa34ae6d[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Apr 30 11:13:40 2021 +0800
+
+    add 富豪小镇
+
+[33mcommit 4c92793381fc7d4618aace1944c45c1cc610dde2[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Apr 30 10:56:23 2021 +0800
+
+    repair 404
+
+[33mcommit 2d01792bc98dc65d24a3d869c421086bfd9f4bf2[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Apr 30 10:19:21 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 61ec2c16a5af464c2bc5741bb462a2b36b95cbab[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Apr 30 10:09:11 2021 +0800
+
+    add 京豆到家脚本
+
+[33mcommit ecbcf762eb343080e94b98b6c40d8ae5e9b18a12[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Apr 29 11:39:23 2021 +0800
+
+    add 开心花园
+
+[33mcommit 391bf26a6454bfc7fcdb111dce79e9de138f030f[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Apr 27 18:53:29 2021 +0800
+
+    add 幸福养鸡场
+
+[33mcommit 5e4dfa608b42352e42d370740ad99d55934c6687[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Apr 27 18:45:42 2021 +0800
+
+    repair 404
+
+[33mcommit 35619d5fd524ac2b30f10f38bfb14bb78d80d9d0[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Apr 27 17:31:18 2021 +0800
+
+    add 火狐看看
+
+[33mcommit 57241d2a8677543261caeb803c891448c40e1474[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Apr 27 15:19:14 2021 +0800
+
+    Update wyy_ca.crt
+
+[33mcommit 6724c4efff080fcfba19780a2c33ed705ae2974c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Apr 27 13:42:27 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 2306976b1e8477981902d2a5e5a6662a84d71016[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Apr 27 09:49:30 2021 +0800
+
+    Delete 中青获取ck规则
+
+[33mcommit 5c681ae62c0e79875c4251940a1c535aed80e30c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Apr 27 08:14:29 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit 9dd3bfa6619aabba5c32107f92ec3c5a525a4edc[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Apr 26 15:08:48 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 5dd52a1f1bc0f36dd56c317973e6f8365db077e4[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Apr 23 15:03:49 2021 +0800
+
+    add 幸运大转盘
+
+[33mcommit 9b750e1ce6a6e77ecd4e5ff430338e6b4238d9c7[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Apr 22 12:06:36 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 43a4f26b227a09c6bc82fe34fb682c21855bf076[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Apr 17 13:17:00 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 730fef0edf0e24282495b3e3588d3437724447e6[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:25:48 2021 +0800
+
+    Delete jukan.png
+
+[33mcommit c0a3c6d84c44916c75abf7446af5aa3a031f3670[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:25:27 2021 +0800
+
+    Delete jrtt.png
+
+[33mcommit 1b19f7deb91af91be66042a7f2d026fac3de30fb[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:25:25 2021 +0800
+
+    Delete jiumu.png
+
+[33mcommit 1de2be37ed1046f39fc0cd952f7d87869322c00b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:25:23 2021 +0800
+
+    Delete jingxi.png
+
+[33mcommit d517e6405704c0c65f8d92144a6a945afd08a4d3[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:25:21 2021 +0800
+
+    Delete jfz.png
+
+[33mcommit b0bbe17e363fe8b22d16c0552c98778ffa5f535a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:25:19 2021 +0800
+
+    Delete jd_live_redrain_half.png
+
+[33mcommit 05d10ecec5b72b8f474be2a2b53dbefbf0b85157[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:25:17 2021 +0800
+
+    Delete jd_kd.png
+
+[33mcommit 538df19dfeb8667e938b6211351e78efc6c8beaf[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:25:15 2021 +0800
+
+    Delete jd_jxd.png
+
+[33mcommit 423a42e08c2ad0b4f4e6601fb2f2edc85fa78dda[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:25:13 2021 +0800
+
+    Delete jd_jump-jump.png
+
+[33mcommit f04297d2cf5b06b2e9a9fed18bb119522bf13d57[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:25:11 2021 +0800
+
+    Delete jd_immortal.png
+
+[33mcommit 08c3059249f1130327f009c870df4b327e1f785c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:25:09 2021 +0800
+
+    Delete jd_gyec.png
+
+[33mcommit 464f3ef823760653db9c583041792a872be2fe4c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:25:05 2021 +0800
+
+    Delete jd_global_mh.png
+
+[33mcommit 0deb08bbf6e5d1a07001012df27af7ca2c9bef23[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:25:03 2021 +0800
+
+    Delete jd_global.png
+
+[33mcommit 24f326e3f335924a58b97444734e4d87498817b6[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:25:01 2021 +0800
+
+    Delete jd_entertainment.png
+
+[33mcommit 0fb14059c78e26c296642aa2b149578ecc5244e7[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:23:36 2021 +0800
+
+    Delete jd_coupon.png
+
+[33mcommit 44459f69f4492528ed1ede79c1c5b0a96842acef[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:23:33 2021 +0800
+
+    Delete jd_bean_home.png
+
+[33mcommit 75268b0f90b85d82f589ff0b61159abe77f8f308[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:23:31 2021 +0800
+
+    Delete jd.png
+
+[33mcommit 16fe62287d8557a9bdd411130f2d4a7cc9ddf994[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:23:29 2021 +0800
+
+    Delete ithome.png
+
+[33mcommit 25a5d159d22d21ababfeab87f68cef8db074cb6e[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:23:27 2021 +0800
+
+    Delete idaily.png
+
+[33mcommit 7aa1ca766f3ab4319c09e8e5928c0b3a5f07b856[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:23:25 2021 +0800
+
+    Delete icbc.png
+
+[33mcommit 0a12c23b5e517f764b5b45f1ef658fd9373b5f2d[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:23:23 2021 +0800
+
+    Delete iQIYI.png
+
+[33mcommit 2e39755fd70c2dace407b4fa0c92114ee0253c24[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:23:21 2021 +0800
+
+    Delete hycan.png
+
+[33mcommit 0e2b844f4f9e810a2884bf48a7bfb576ac06a9c1[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:23:19 2021 +0800
+
+    Delete huzhucode.png
+
+[33mcommit f8b450f64634d1de5e97896ec368f43d5c2754f4[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:23:17 2021 +0800
+
+    Delete huoshan.png
+
+[33mcommit 539df85d8cfa8ead42b67db201c38fd47ad660e5[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:23:15 2021 +0800
+
+    Delete htt.png
+
+[33mcommit 4a72d6410f04e4abeb67e60c8180eb09488da795[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:23:14 2021 +0800
+
+    Delete hotsoon.png
+
+[33mcommit 0c4bda18d0a757134c2969789e003c022ddb4779[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:23:12 2021 +0800
+
+    Delete hot.png
+
+[33mcommit f00163ad6a97334d03fa105a38c7f83cc61c916f[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:22:43 2021 +0800
+
+    Delete historyToday.png
+
+[33mcommit 157cc48f57d1aa3dc0d3d051f8c41aaca005bb84[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:22:41 2021 +0800
+
+    Delete heybox.png
+
+[33mcommit 3f39bb49e2552647b34305e4dc5d8b2da7d03e2b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:22:38 2021 +0800
+
+    Delete hellbike.png
+
+[33mcommit ae570e81266684abb44984f4d10fae97f361559a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:22:36 2021 +0800
+
+    Delete hdhyc.png
+
+[33mcommit 284cd5ab8918eb670342d354c2e1d629cb3781df[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:22:34 2021 +0800
+
+    Delete haidilao.png
+
+[33mcommit 0b72cf30942de92df89ef64743fb0a771420e058[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:22:32 2021 +0800
+
+    Delete github.png
+
+[33mcommit db8f9333a089bf9aea5ecb606108fd53908389b8[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:22:30 2021 +0800
+
+    Delete geekhub.png
+
+[33mcommit 5689cc090fce40468bba592023088e5174e4a635[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:22:28 2021 +0800
+
+    Delete gdoil.png
+
+[33mcommit 7d6f51c9bed0271db9f034ae5646b7522ca48975[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:22:26 2021 +0800
+
+    Delete funboat.png
+
+[33mcommit dd33f2c3bd310c5e2fddcd001ece4b11fa1c554b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:22:24 2021 +0800
+
+    Delete fqxs.png
+
+[33mcommit d9d7d1e710df7d35c535cff4bb3d375c1182a5d9[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:21:19 2021 +0800
+
+    Delete fqkk.png
+
+[33mcommit cdc65f02b8eef228595a84829fa390af55911aaf[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:21:17 2021 +0800
+
+    Delete fcz.png
+
+[33mcommit 9597b5333e84fbe7c4f719c232580d413999e683[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:21:13 2021 +0800
+
+    Delete fanli.png
+
+[33mcommit df813117e28dd4b15c2f25a98c9b29d91f134acd[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:19:20 2021 +0800
+
+    Delete jd_live_redrain_nian.png
+
+[33mcommit ff5abbdf1aac75866f5a5ca88c3ef6fb456f6232[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:19:17 2021 +0800
+
+    Delete jd_nian.png
+
+[33mcommit 891dfb3ab9c15b07fa97d09dcb8515c052d04b86[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:19:15 2021 +0800
+
+    Delete jd_sign.png
+
+[33mcommit 9bc6144e1beb4277789b943120ec7fad401c23a1[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:19:13 2021 +0800
+
+    Delete jd_sjnzj.png
+
+[33mcommit 6a03881014ef905a4c8aa1f7790ad06c8800492c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:19:11 2021 +0800
+
+    Delete jd_speed_sign.png
+
+[33mcommit 4ddc6e5334d7013efdaf5070a035611a0451efca[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:19:09 2021 +0800
+
+    Delete jd_super_box.png
+
+[33mcommit 1151cfd83e1bf8a90bd8baff344baa2a0e063abe[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:19:07 2021 +0800
+
+    Delete jd_xmf.png
+
+[33mcommit 38f9be14489e67bad289598e64d418bf435ea842[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:19:05 2021 +0800
+
+    Delete jd_xtg.png
+
+[33mcommit 8c27b65f74d67baa60f56d3f19c299dae0a0ed61[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:19:03 2021 +0800
+
+    Delete jd_zjd.png
+
+[33mcommit 7012718ec62269b9552fcc53605122f9b7d8926c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:19:02 2021 +0800
+
+    Delete jdcww.png
+
+[33mcommit dfb64eb6f67e6d612eccefd5a49e6dcc4e9599ef[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:18:59 2021 +0800
+
+    Delete jdczf.png
+
+[33mcommit ea3f7a3dd870b54c4bfe13598d2c9cecdd04ea50[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:18:57 2021 +0800
+
+    Delete jddj.png
+
+[33mcommit bd02402a1e9a62a8e96a175a22e5eadb402d0c40[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:18:55 2021 +0800
+
+    Delete jdds.png
+
+[33mcommit 5fbace5079d3d621b1abdb3c59eb2252310925c8[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:18:53 2021 +0800
+
+    Delete jdjs.png
+
+[33mcommit 321b7dc3bd12b2e87a16a7659ad3be654fba8a26[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:18:51 2021 +0800
+
+    Delete jdmc.png
+
+[33mcommit 18d45c175e8e649295fe2209b2328a32c910615a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:18:49 2021 +0800
+
+    Delete jdyjd.png
+
+[33mcommit 0d73d8a729470f2a24afda329199c819cfa7b453[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:18:47 2021 +0800
+
+    Delete jdyqs.png
+
+[33mcommit c674095e5616e6ccc2207f6f8a456571cc53a3d6[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:18:45 2021 +0800
+
+    Delete jdyz.png
+
+[33mcommit d01076014136b611558ea27edb3797f24462c045[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:18:43 2021 +0800
+
+    Delete jdzd.png
+
+[33mcommit 1cd42f5640782fd41cbe51aadedd7b293ec20588[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:18:40 2021 +0800
+
+    Delete jegotrip.png
+
+[33mcommit f4aec68ee18f4c7b9a3b31371b0cc1dec8905b90[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:17:00 2021 +0800
+
+    Delete jx_cfdtx.png
+
+[33mcommit fd0b1056f003f1f3fe6072b5ca7c3e930af84e46[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:16:58 2021 +0800
+
+    Delete jxcfd.png
+
+[33mcommit cd9e6199caa066e809fb2df14285dad949e71fe1[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:16:56 2021 +0800
+
+    Delete keep.png
+
+[33mcommit c28fab37bb4f0579f609a2cfb5a92f6d2d34cf7f[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:16:54 2021 +0800
+
+    Delete kkd.png
+
+[33mcommit 1031d3e2c72a2df6c97dadd9de06f67faa016a9c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:16:52 2021 +0800
+
+    Delete kuaishou.png
+
+[33mcommit 49cceeb0f93e56ae192c12b6e22ef6a30a29430c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:16:51 2021 +0800
+
+    Delete liwo.png
+
+[33mcommit f30d898443d99ba01abf9d24c5e8f6c24132ec10[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:16:49 2021 +0800
+
+    Delete lkyl.png
+
+[33mcommit ecfc850a916b6f2c1084652ee08ea346c484492b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:16:47 2021 +0800
+
+    Delete lol.png
+
+[33mcommit d5a9e583ce718f2ff6aab238482be4855d8b8881[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:16:45 2021 +0800
+
+    Delete loon.png
+
+[33mcommit 0f960975fd814acf0dc234eb3b4896896164a927[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:16:44 2021 +0800
+
+    Delete lxhealth.png
+
+[33mcommit 23d2469fe1519fda1d54fd6b743e064389c18a11[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:16:42 2021 +0800
+
+    Delete lxsj.png
+
+[33mcommit 56d7a98b1d394117ebf4903f2a5f22f8baecf188[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:16:40 2021 +0800
+
+    Delete manga.png
+
+[33mcommit 011dccb34f323ad39d19b89f3095054aa72ed843[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:16:08 2021 +0800
+
+    Delete maomicd.png
+
+[33mcommit ace0ae9615e40a93e03acc8fdd5726c97f6439e8[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:16:06 2021 +0800
+
+    Delete maoyan.png
+
+[33mcommit 7879d67ebcc43d28aaed422cdc5261231b247959[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:16:04 2021 +0800
+
+    Delete mcdd.png
+
+[33mcommit 5080de07e78973005078371fe0091f5b85414e1f[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:16:02 2021 +0800
+
+    Delete meituan.png
+
+[33mcommit 1979349abda9e1270eeec25cccc8f3e8679b83aa[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:16:00 2021 +0800
+
+    Delete mgtv.png
+
+[33mcommit 2fac1f80c4d51d99553f237bd8299284a81f01fb[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:15:43 2021 +0800
+
+    Delete midu.png
+
+[33mcommit b519037fbf10262c235f716b6500159b0aff517e[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:15:00 2021 +0800
+
+    Delete fandeng.png
+
+[33mcommit 1ba86954cdc4ad9b8929cea497e512dd539b4ed0[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:14:45 2021 +0800
+
+    Delete everphoto.png
+
+[33mcommit 736783200beb19c817f8ce9f2cb0f58b1558b748[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:14:36 2021 +0800
+
+    Delete exchangerate.png
+
+[33mcommit 05ae667de4954757e39e3d259806311e934dd4b8[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:14:17 2021 +0800
+
+    Delete fenqile.png
+
+[33mcommit e8b6e2d5cbc0a4662736e75350c40370c56f8fd9[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:14:06 2021 +0800
+
+    Delete KR.png
+
+[33mcommit a76b84b5818180a10f06a316652666be21e2824e[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:13:58 2021 +0800
+
+    Delete Global.png
+
+[33mcommit d1969dea23c075a5a475ef8e60a245ff8d686149[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:13:48 2021 +0800
+
+    Delete feng.png
+
+[33mcommit b582afcbe0375254aad1c4de0da2c84fb7d832d9[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:13:38 2021 +0800
+
+    Delete epic.png
+
+[33mcommit e63653d24b81e536777508a679115857de84278f[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:13:27 2021 +0800
+
+    Delete flyertea.png
+
+[33mcommit 7b6be8e9302d332e259523f94c96808726c7c439[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:13:14 2021 +0800
+
+    Delete HK.png
+
+[33mcommit 33a6a0e26efaa9d8d36fb24e8b8d0ff044e26fe6[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:13:00 2021 +0800
+
+    Delete Google.png
+
+[33mcommit 1bf549c6a4b3cb3569a11926abfb1d21150e1869[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:12:47 2021 +0800
+
+    Delete GAME.png
+
+[33mcommit dcec84a31c825c344b9bf5f3c11adcef34686a69[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:12:27 2021 +0800
+
+    Delete elong.png
+
+[33mcommit f54ea877447d4be2af5506b3b005ec61e3db3eac[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:12:19 2021 +0800
+
+    Delete Microsoft.png
+
+[33mcommit a1e0747e29eff13678701cdb8dc720104c83c95c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:12:10 2021 +0800
+
+    Delete Manual.png
+
+[33mcommit fd489493400dbcbe24d24b1045793195b484f895[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:12:00 2021 +0800
+
+    Delete KuaiKan.png
+
+[33mcommit 4d73067ec22d7bef08f8042336db21967d0ac03a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:11:51 2021 +0800
+
+    Delete JP.png
+
+[33mcommit 4802bb3e3eb630fbc74455fd82eeeb87dc8f22de[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:11:42 2021 +0800
+
+    Delete Final.png
+
+[33mcommit a14cb9fc90e3263a5ee202f3a1140723216dd042[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 19:09:49 2021 +0800
+
+    Delete Emby.png
+
+[33mcommit a1feda541a02380f33f281cf55c71b972828e6ab[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 10:46:37 2021 +0800
+
+    Add files via upload
+
+[33mcommit 492db6745a74172191872ed8b2b4b1ca0646cfc9[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 10:44:19 2021 +0800
+
+    Add files via upload
+
+[33mcommit 69e55786840d13d31e3d743d3d450ed88a51f855[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 10:42:11 2021 +0800
+
+    Add files via upload
+
+[33mcommit 091f325961a262a2a15842b7d75fe0067b3d43a3[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 10:39:01 2021 +0800
+
+    Add files via upload
+
+[33mcommit 892a606396ddf7f2c62f4e6563a707beadb5c0fe[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 10:31:34 2021 +0800
+
+    Add files via upload
+
+[33mcommit 8a8a33e223662fca229f6ee0e8081d7982f8bcbb[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 10:22:55 2021 +0800
+
+    Add files via upload
+
+[33mcommit 2f0b6751498699bf10a143ceb578293b049d9b9a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 10:22:13 2021 +0800
+
+    Create README.md
+
+[33mcommit 2569887affb35a2db423086c53ba14f9c795dbed[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 10:18:49 2021 +0800
+
+    Add files via upload
+
+[33mcommit 145f932dc2ca454ac301d3247e1a6b25aa8c9027[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 10:17:16 2021 +0800
+
+    Update README.md
+
+[33mcommit 9d3e1f143064a8e0380c4714c2d7cbeca13935b9[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 10:16:41 2021 +0800
+
+    Update README.md
+
+[33mcommit 8aa8c81f8f57ba6b252a75f32d6a85e2844b195c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 10:15:55 2021 +0800
+
+    Update README.md
+
+[33mcommit e002748937f4a515f93d82a1e1d0d9089387cae1[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Apr 14 10:13:08 2021 +0800
+
+    Create README.md
+
+[33mcommit 50a81d73cf15b9372fb34df6037ae4353bbfd006[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Apr 13 16:19:40 2021 +0800
+
+    add 千禾阅读
+
+[33mcommit f64b271d9239f1b6f9b5d27f41089334941206b5[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Apr 11 18:16:55 2021 +0800
+
+    Update wyy.list
+
+[33mcommit a528d2fe5823d4733d8eec696888f24760609792[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Apr 11 17:21:57 2021 +0800
+
+    Update wyy.list
+
+[33mcommit 9b1253cc7377b89671864901bac048855068b3b5[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Apr 11 16:47:44 2021 +0800
+
+    Update wyy.list
+
+[33mcommit bf659992f2ed312407fb5105b5079cf1e24dde4d[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Apr 11 16:09:36 2021 +0800
+
+    Rename bilibili.list to gangtaifanju.list
+
+[33mcommit 5ce43483eb429cb4ae55740485a39aa06ab5cead[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Apr 11 16:07:44 2021 +0800
+
+    Update bilibili.list
+
+[33mcommit d835474e94d5cf71a0725079c995319207955a4d[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Apr 11 15:04:33 2021 +0800
+
+    Update qixin.json
+
+[33mcommit a6a7a2379906305452ad862154e6c0abd450c2eb[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Apr 9 11:50:57 2021 +0800
+
+    Update wyy.list
+
+[33mcommit c8eda43ea453e23212b3ae821771305154cc1f5b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Apr 8 15:52:16 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 95f69b6994df6c714ad737e22f86b2ff22d00507[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Apr 8 00:06:52 2021 +0800
+
+    Update getCookie.conf
+
+[33mcommit cae5d848ee46e48bf3bd3cc497f46dbd4bf2de77[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Apr 6 23:23:37 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 107ddb00abc185b6d83199b272f3ab181bbbe4a2[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Apr 5 12:28:19 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 77dd8821f3ab2a5884abc93eb922c547e576be8a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Apr 5 12:01:12 2021 +0800
+
+    Update getCookie.conf
+
+[33mcommit 6362241d2348e06039da13e15daeebc5bed3c449[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Mar 23 12:01:39 2021 +0800
+
+    Update TikTok.list
+
+[33mcommit db87e54488c73a3c3a86810bf0adcb6176da42ea[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Mar 23 00:36:11 2021 +0800
+
+    repair 宠汪汪偷好友积分与狗粮
+
+[33mcommit dce34afac8bebe8e80c469fd36aefc5e6649e210[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Mar 19 09:29:07 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 9cfb352175d09992ed304d90eda116088eba9cc7[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Mar 19 07:44:28 2021 +0800
+
+    add 金口碑奖投票、5G超级盲盒
+
+[33mcommit 7b48deac4abd4267b5e564ccb534c92466490c77[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Mar 18 21:57:21 2021 +0800
+
+    add 阳光矿场
+
+[33mcommit 060489575cf126707c2ffbfc6eccfbf15f88af5a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Mar 17 17:16:50 2021 +0800
+
+    add 微客众智、一加盲盒、母婴跳一跳、联想集卡活动
+
+[33mcommit e7c106c308d58418d5653a9431213d356c52e977[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Mar 16 19:13:06 2021 +0800
+
+    Update getCookie.conf
+
+[33mcommit c70b048d0d711a239226ec05f4c2643caad6cf48[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Mar 16 12:08:31 2021 +0800
+
+    update 小魔方
+
+[33mcommit fca262634d4295f721cd7aa4ee357e535c609391[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Mar 16 10:16:08 2021 +0800
+
+    Update getCookie.conf
+
+[33mcommit 185a2bb1b937b2c8881bfe4e80bf7b029ced6db3[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Mar 15 20:48:55 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 33067fb61c57e4a3400f79b3936b061276bee358[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Mar 15 10:33:48 2021 +0800
+
+    add 领现金兑换红包、京东美的家电节、京东洗护发超级品类日、京东众筹许愿池、京东直播
+
+[33mcommit bad15b5bdc98e0b16a3bce576c62de9395c0bd02[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Mar 13 19:32:19 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 084b47dd5b74e5547c9f38b71be0553c0aecffd6[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Mar 13 19:31:22 2021 +0800
+
+    Update getCookie.conf
+
+[33mcommit 89cb5ce8065765b631dce28f2b88afeb9f72bf60[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Mar 11 16:43:39 2021 +0800
+
+    Update Outside.list
+
+[33mcommit 12c4155ea0a384b0e5180f73cf0adb83a46afaf0[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Mar 11 09:54:52 2021 +0800
+
+    add 春风转
+
+[33mcommit 8c3b283b88c8b7bd50c5401ff3763be31049e30f[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Mar 11 09:52:28 2021 +0800
+
+    add 春风转
+
+[33mcommit f15a261f574b174702e4d8e89b1afd5285b0a5eb[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Mar 10 19:30:03 2021 +0800
+
+    add 美的家电节
+
+[33mcommit b3df07e820a483b3fdc6680b0133807d9670ba69[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Mar 10 00:48:34 2021 +0800
+
+    add 微信小程序：哈喽短视频、幸运赚点  获取ck
+
+[33mcommit 7f9c57ff1931b980eeef5050f912b0cd8d033142[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Mar 10 00:46:18 2021 +0800
+
+    add 哈喽短视频、幸运赚点、超级品类日
+
+[33mcommit 189205650622ac5aa032f19e67c9764a7dd91a21[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Mar 9 19:57:04 2021 +0800
+
+    add 超级直播间红包雨
+
+[33mcommit 3e8b8e9c9cb6465f7b1a0aad0c267be60f728e90[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Mar 9 15:15:25 2021 +0800
+
+    Delete 小鸽有礼2、她的节：活动结束
+
+[33mcommit de2670046c711682020d2994605b9a338246db05[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Mar 9 13:40:14 2021 +0800
+
+    update BoxJs
+
+[33mcommit 6cce117dc7a770c8fa98b93682f602b4b525d078[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Mar 9 09:36:51 2021 +0800
+
+    add 京东：国际挑战杯赛、极速版红包
+
+[33mcommit f1a4af0c40140fd3feb214dd44e9d6c91c208bdf[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Mar 8 21:01:52 2021 +0800
+
+    Delete 任性猫
+
+[33mcommit c1ed28d0d6bd9223b90dbe1c2c173d67511100ee[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Mar 8 15:00:44 2021 +0800
+
+    Update qixin.json
+
+[33mcommit fdbb7799e2baab54a143bfbd8777ac41f1eea5ef[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Mar 8 14:56:46 2021 +0800
+
+    add 京小兑
+
+[33mcommit 5738612d0b5b4c1371f71de2b93ec793c0a80631[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Mar 8 12:48:02 2021 +0800
+
+    Delete 任性猫，作者脚本已删除
+
+[33mcommit 03986beffa7f206565d5550bbffceea9a5abd514[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Mar 8 12:40:57 2021 +0800
+
+    add 评有圈获取ck
+
+[33mcommit e52c1d0ea252e39269c90ab65033d69733912df4[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Mar 8 12:38:00 2021 +0800
+
+    add 评有圈
+
+[33mcommit 7e5704b625ebba59b4c83fbe54b3b9a1c12fb46b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Mar 7 13:53:24 2021 +0800
+
+    Delete 母婴跳一跳，京东极速版红包，小魔方；活动结束
+
+[33mcommit 5704f0399687d83f908960ea9ceaebe2c046d2a8[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Mar 7 12:18:10 2021 +0800
+
+    repair 母婴跳一跳404，add 京东超市大转盘、小魔方
+
+[33mcommit 7b900b7f3956b29a5e47c27d5a72868f51b1d7d9[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Mar 7 11:58:45 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit 4cee1ea34ca25d0434b6d1dfacacbebc05e24cc7[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Mar 7 00:39:36 2021 +0800
+
+    add 波波视频
+
+[33mcommit 8726a618ea6c1d1deb7ba8957949195b6516f12c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Mar 6 20:25:33 2021 +0800
+
+    add 机场签到
+
+[33mcommit cebfe2d75dbeb4a7a79add8d384d23b35423e057[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Mar 6 14:15:53 2021 +0800
+
+    Update Spotify.list
+
+[33mcommit 5f2ad7b30b0f48475012b41011487c1de3f22840[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Mar 6 13:54:26 2021 +0800
+
+    add 阳光果园
+
+[33mcommit f7c0e63ae8c348dbca0447d03f840d786ac2acdf[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Mar 6 13:47:52 2021 +0800
+
+    add 阳光果园
+
+[33mcommit e6f47b81aab0f5b8033c4d6255ff36eb20a740b5[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Mar 6 12:48:41 2021 +0800
+
+    repair 羊毛赚
+
+[33mcommit 154317f3476f962ab9fc664bbae83caf381914f5[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Mar 6 01:13:44 2021 +0800
+
+    repair 404
+
+[33mcommit 0381021e60ff2016488e7e1f223b49cbc257fd74[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Mar 6 01:09:59 2021 +0800
+
+    repair 404地址
+
+[33mcommit cc83ad1dc573d3de40f5f436f5f2e3de03cf18f9[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Mar 5 19:36:01 2021 +0800
+
+    Delete 羊毛赚
+
+[33mcommit 1f3973b684ebde3f017c0edd2b7851b704f1c273[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Mar 5 17:55:32 2021 +0800
+
+    Delete 京东plus领京豆
+
+[33mcommit 533ac840754d1a815dfe6766e5c7f16b786104fc[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Mar 5 17:53:47 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit 61fda4a5f56e81e2a7ca39b4c6e8d252b163b2bd[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Mar 5 12:19:14 2021 +0800
+
+    add 菠萝视频
+
+[33mcommit 41d191742c2eb0ae766be2129c9adc98a5100542[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Mar 4 13:12:58 2021 +0800
+
+    Update getCookie.conf
+
+[33mcommit aee947802805582687e1463b194ef3cdca0b7749[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Mar 4 11:46:09 2021 +0800
+
+    Update getCookie.conf
+
+[33mcommit e4ad6db2be99c97f559d92b8243202ddcdd173bb[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Mar 4 11:44:41 2021 +0800
+
+    add 京东到家获取ck；repair 百度贴吧获取ck
+
+[33mcommit f99d5f3c78ebe26eb260622c536dcdc087149338[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Mar 4 10:56:30 2021 +0800
+
+    add 全民悦动、嘀嗒星球获取ck
+
+[33mcommit f981f742768201b1d1733435e91c00f4564ec6a6[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Mar 4 10:55:42 2021 +0800
+
+    add 全民悦动、嘀嗒星球
+
+[33mcommit ba0be79b1edad02cec358e31ea9407a9db7231d7[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Mar 4 10:54:24 2021 +0800
+
+    Restore to the previous version
+
+[33mcommit 6e0bf8da26b0120d1e32e04493e8507e89ff2576[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Mar 4 00:50:22 2021 +0800
+
+    Update qxrules.conf
+
+[33mcommit a35c818a8b88615038e496a625dc3d1fe2d4fa32[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Mar 4 00:38:18 2021 +0800
+
+    add 增加若干条解锁vip规则
+
+[33mcommit ea011711521de674f55029502a4d30116d7bb6cf[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Mar 3 21:36:51 2021 +0800
+
+    add 悬赏喵喵
+
+[33mcommit d277e5af9d5cd99732eca10b285057d3afba9588[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Mar 3 21:36:05 2021 +0800
+
+    add 悬赏喵喵
+
+[33mcommit 97608f4da3e70913d7bb6ce6c13072e87a4786fe[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Mar 3 20:05:47 2021 +0800
+
+    add 百度贴吧
+
+[33mcommit f3d172bf83fa30a71fcd720f8ccb5006d55361a4[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Mar 2 16:19:37 2021 +0800
+
+    update 新浪微博获取ck规则
+
+[33mcommit 48e7c31917d1c5ad4e0bdaaabf82853034d9a0bf[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Mar 1 22:55:02 2021 +0800
+
+    add 悦动族脚本
+
+[33mcommit 45466da3141cf030327ee384631c49a636b9284c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Mar 1 22:52:52 2021 +0800
+
+    add 悦动族
+
+[33mcommit d54856866f5404d46e4c11b717bda3bcacef8218[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Mar 1 20:20:39 2021 +0800
+
+    Delete 返利网获取ck规则，因为它与中青获取ck规则冲突，请用户自行手动添加
+
+[33mcommit 87c89d379619e44b7afb6fc3d5053f19530657ac[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Mar 1 20:10:38 2021 +0800
+
+    Update UK.conf
+
+[33mcommit 982c97246cebf435fa8f4ad2442dfa5aa5bb8ea7[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Mar 1 20:10:14 2021 +0800
+
+    Update TW.conf
+
+[33mcommit 7e5fab633f355b57b13b9a961245759c07dc31c7[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Mar 1 20:09:03 2021 +0800
+
+    Update UK.conf
+
+[33mcommit 80b75c8183a6506b906e8297027e60e527b5b537[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Mar 1 20:08:32 2021 +0800
+
+    Update US.conf
+
+[33mcommit aae0f524370d716deaaefca15b175cdb46e8b7f9[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Mar 1 20:08:00 2021 +0800
+
+    Update KR.conf
+
+[33mcommit 887b6318a1c5f0ef06e2716500f8139d57589271[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Mar 1 20:07:11 2021 +0800
+
+    Update CA.conf
+
+[33mcommit 176bd778f1b40adbf316846d46dc9e8de8c3167b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Mar 1 20:06:17 2021 +0800
+
+    Update JP.conf
+
+[33mcommit f366051e48f1f93538557b2f09c631cc3d077f63[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Mar 1 18:53:36 2021 +0800
+
+    Update JP.conf
+
+[33mcommit d2e306834690b563b8a4bdd7891ce4f1d6caa487[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Mar 1 12:39:16 2021 +0800
+
+    add 京东-她的节
+
+[33mcommit eb469f36707783c453369ec7fc9848e47125d9b1[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Mar 1 11:54:48 2021 +0800
+
+    Delete 部分无用主机名
+
+[33mcommit 7343f03ca1ad1b7f2164feb3f46ce20e8c635d83[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Mar 1 11:53:46 2021 +0800
+
+    Delete  部分主机名，repair 京东多账号获取ck规则
+
+[33mcommit 5b7e3233342c83f8d9ab5057ef86009dcb882f47[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 28 23:09:05 2021 +0800
+
+    update 蛋咖
+
+[33mcommit 7def7fcf5386d08301574b6c359eb802ee7c3602[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 28 22:28:10 2021 +0800
+
+    add 云扫码获取ck
+
+[33mcommit 48ab342a088aeb28caa7c5217ffb09faaab12ea9[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 28 22:26:36 2021 +0800
+
+    add 云扫码
+
+[33mcommit 5f07c997c3175e201a476dc75f89973143c3cd34[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 28 22:01:55 2021 +0800
+
+    add mitm
+
+[33mcommit ce0c87e4821566f9af012fdb86d3836f0d8f5821[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 28 21:13:07 2021 +0800
+
+    Update getCookie.conf
+
+[33mcommit 76f3ded8ae94f377f590222311a280f4814e084d[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 28 21:12:14 2021 +0800
+
+    add 蛋咖
+
+[33mcommit 2a95ad6cb7c80d232d0ee47bb7d6252cd627f83a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 28 21:10:17 2021 +0800
+
+    add 蛋咖获取ck
+
+[33mcommit f02798bbddd4065f5bd4327236d11a75eb2f8059[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 28 12:48:59 2021 +0800
+
+    repair 403
+
+[33mcommit 35221017522f0cb960818eb3719b169501e17958[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 28 12:23:59 2021 +0800
+
+    add 抖音火山版获取ck
+
+[33mcommit e83ee195960e231a6ccf307fab112dc08ec7faf1[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 28 12:23:20 2021 +0800
+
+    add 抖音火山版
+
+[33mcommit a8a1ab158538b783faa0a4dce62112cd98706448[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 28 12:12:31 2021 +0800
+
+    update 抖音极速版获取ck
+
+[33mcommit f3db991043d7683d5a881caab4f5cf27cb976f1d[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 28 12:11:59 2021 +0800
+
+    update 抖音极速版
+
+[33mcommit 9c6d713e6d65afbf3e4fdd83410a3e9310bff6d2[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 28 10:17:43 2021 +0800
+
+    repair 404
+
+[33mcommit ebe7e0441ce592cfdbfd1f5c2ba887093254c192[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 28 10:17:06 2021 +0800
+
+    repair  404
+
+[33mcommit aa462a2d77f411f1db9e2701fe17d4c21aebeebf[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 27 23:45:38 2021 +0800
+
+    Delete  阅友小说 ，因为需要单独禁用使用
+
+[33mcommit be28f1707ca618ece89755c254b17ff29b88be72[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 27 23:23:13 2021 +0800
+
+    Update getCookie.conf
+
+[33mcommit f641dec5c060519d92758e938ef0ffbefd861254[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 27 23:03:29 2021 +0800
+
+    add  若干脚本对应获取Cookie规则
+
+[33mcommit bdf9ef3ddb17b9b73c0a1046399183f3b4769671[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 27 22:46:19 2021 +0800
+
+    add  若干脚本
+
+[33mcommit 059707500c1b9a552c06e907c121f7435df7b161[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 27 22:06:46 2021 +0800
+
+    Update xxysad.js
+
+[33mcommit 215ac75367105ddf56ed72744940e486075b92d1[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 27 21:50:11 2021 +0800
+
+    add 阅友小说获取ck
+
+[33mcommit a541b9e2e23278fd290aec1e3fd661871b2c61e7[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 27 21:49:40 2021 +0800
+
+    add 阅友小说
+
+[33mcommit acfa10ce6f9758412f50f42219e19fce88b5b408[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 27 16:22:40 2021 +0800
+
+    update icon
+
+[33mcommit 84cfb32b830f3fdd3e304a17076ebfdeb266e85d[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 27 15:16:55 2021 +0800
+
+    add 小程序领京豆（半自动）
+
+[33mcommit 5e83d3eff45a60d85842d92c3c7610d3c245ef4e[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 27 14:43:48 2021 +0800
+
+    add 虎课网app签到脚本
+
+[33mcommit ef944517ade90fb9ab5b544aa76f84cc6a93bfab[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 27 14:42:38 2021 +0800
+
+    repair
+
+[33mcommit 04abd804259d91a4a0ba96eda8f04a69ac7bf7aa[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 27 14:41:46 2021 +0800
+
+    add 虎课网app获取ck
+
+[33mcommit 5249d032d014686d957c8999ac5453267eb4ab5a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 27 14:31:58 2021 +0800
+
+    add 酷乐潮玩app获取ck
+
+[33mcommit 0e34b21a4773ecd4505fa0b834a997c221b72f23[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 27 14:31:25 2021 +0800
+
+    add 羊毛赚，公众号监控，酷乐潮玩app
+
+[33mcommit 04438ca3724e88e2518709c5a22c67937f230bf0[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 27 12:24:56 2021 +0800
+
+    add 羊毛赚获取ck
+
+[33mcommit 135964d2aa71bea795dd14b6e923df83f3335f2c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 27 11:14:10 2021 +0800
+
+    Update bilibili.list
+
+[33mcommit 4ff91bac2aee6bc5c1331a726408e13515bd2556[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 27 10:28:54 2021 +0800
+
+    add 港台番剧规则
+
+[33mcommit f19df07e4292d6c25039a6809ef47fe503863657[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 27 10:06:58 2021 +0800
+
+    Create bilibili.list
+
+[33mcommit 29c01dbf2cb345234f8510734c29d9ee4003a277[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 27 00:49:27 2021 +0800
+
+    update 番茄看看获取ck
+
+[33mcommit 8c3320cd869d55249364d6bff5aa49dc132f8834[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 27 00:23:57 2021 +0800
+
+    Update qixin.conf
+
+[33mcommit e3b9727a007293de05d0a4836226e260a3e7126e[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 27 00:19:45 2021 +0800
+
+    add 女装盲盒
+
+[33mcommit 194eedb051f3db9db1a70483a04271d0cdd6ca5c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 19:35:50 2021 +0800
+
+    repair 新浪新闻
+
+[33mcommit 9717b158988803ce8ecd3015e5506c093b2318b6[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 19:31:20 2021 +0800
+
+    update 书旗小说
+
+[33mcommit 4cad27cd7e58d83ee20c1dbe3dbe05947164b458[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 19:23:40 2021 +0800
+
+    add 任性猫
+
+[33mcommit 57bf3f5a255c6b7347f73e6e1091620d5ede7d10[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 17:43:57 2021 +0800
+
+    Update US.conf
+
+[33mcommit 1ff81561db254421e72d7b5a9100f61102b53f33[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 17:43:40 2021 +0800
+
+    Update UK.conf
+
+[33mcommit e38cb2511b81284ab458706962477a5c96fa8f32[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 17:43:23 2021 +0800
+
+    Update TW.conf
+
+[33mcommit ce500780f0cfddb20a3b2b9045f6824fbd7d8a7d[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 17:43:06 2021 +0800
+
+    Update TH.conf
+
+[33mcommit e92e15cf907add2ae3c674bba79dab49b34e27c2[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 17:42:51 2021 +0800
+
+    Update SG.conf
+
+[33mcommit dee8bfa8a723969f778c5b982d8d16683b370845[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 17:42:33 2021 +0800
+
+    Update RU.conf
+
+[33mcommit 1944d2868146ddb2a34e10e4dd8adae05b7e610d[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 17:41:46 2021 +0800
+
+    Update KR.conf
+
+[33mcommit 889ec9431421c42278bfae10dc89bf2ee6ebabd0[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 17:41:27 2021 +0800
+
+    Update JP.conf
+
+[33mcommit a71ae87b60f593e70172e24a7549b35493652acd[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 17:41:08 2021 +0800
+
+    Update IT.conf
+
+[33mcommit af21b9a3e8d6cbab7f14de9763a3ee88c482606f[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 17:40:48 2021 +0800
+
+    Update IN.conf
+
+[33mcommit 1accbf41ffe1f7becb94a1256d451a6b98d7139b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 17:40:29 2021 +0800
+
+    Update ID.conf
+
+[33mcommit f3b73e97edc15860c03dd228e5949c8fc1f8536d[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 17:40:13 2021 +0800
+
+    Update HK.conf
+
+[33mcommit 814287d4a5b6b9a7fd190a294b2d58d25445b4f7[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 17:39:57 2021 +0800
+
+    Update GB.conf
+
+[33mcommit 644815ba554020edfa96c4e493779680318fda79[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 17:38:49 2021 +0800
+
+    update 聚看点获取ck
+
+[33mcommit 17bdfbfd8809f0e38bd0ce3ca99577a49f13b8f3[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 17:35:44 2021 +0800
+
+    Update FR.conf
+
+[33mcommit c2302ce838dda851a69d2e2423ee71a254615685[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 17:35:25 2021 +0800
+
+    Update CA.conf
+
+[33mcommit 68268e80d28f9ff45527d688b6a64fad0a25cfb0[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 17:30:08 2021 +0800
+
+    add  书旗小说脚本
+
+[33mcommit 32cd7f04b6e02f20a5907780790c6574f7bc6be7[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 17:29:36 2021 +0800
+
+    add 书旗小说获取ck
+
+[33mcommit b7155bfb73fa16584c871d4aa5e87aa1030ee6c1[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 17:16:22 2021 +0800
+
+    add 聚看点获取ck
+
+[33mcommit 47c664dce19666a43ddaa90ca0b624cb5c7849e9[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 17:15:45 2021 +0800
+
+    add 聚看点
+
+[33mcommit a6982916a013028782dcf678310d1f4a9e2119f3[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 16:41:34 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 43ba78d4d4ccd720cb116381730bc5f62bb83517[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 16:36:33 2021 +0800
+
+    add TT语音获取Cookie
+
+[33mcommit 7d998c866f970cc87c7e936fe4e4baa4f62428cd[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 16:35:53 2021 +0800
+
+    add TT语音签到脚本
+
+[33mcommit ad52fe98b0729960384307a70c7b311c5b9e929b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 15:54:47 2021 +0800
+
+    Delete jdnzj.js
+
+[33mcommit c1b46c2b130fa711a10399f919f3d338f2d7e3af[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 15:52:28 2021 +0800
+
+    Update README.md
+
+[33mcommit 27a5473a50565efeef26ec5b31378f862bc2def3[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 12:24:17 2021 +0800
+
+    Update qixin.json
+
+[33mcommit 27523a7be46e626a16e24af2acf664767a23f28e[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 11:52:12 2021 +0800
+
+    update 宠汪汪兑换京豆Cron
+
+[33mcommit 545ee94ec89b4d86ff4b411b53fe94fbb5ef7b6b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 10:25:15 2021 +0800
+
+    update Clubhouse分流规则
+
+[33mcommit 5b6997650950c03d7f085ad5b8666b80fa952aeb[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 09:54:44 2021 +0800
+
+    Update Clubhouse.list
+
+[33mcommit 0410bea87c389319555db3549b589d9df019ace9[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 09:54:13 2021 +0800
+
+    Rename Clubhouse_ip to Clubhouse_ip.list
+
+[33mcommit 5c99fc35c4ae4ebf73fc5bed9ca5bc3a2e87c0eb[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 09:53:48 2021 +0800
+
+    Create Clubhouse_ip
+
+[33mcommit 6d4141edb1aa132dd25bcd7e9d58e31a3dcd28bd[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Feb 26 09:52:10 2021 +0800
+
+    Update Clubhouse.list
+
+[33mcommit bd65c15bb98cbbbd1924f68f897a68c6c3669937[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Feb 25 14:33:44 2021 +0800
+
+    update 百度网盘解锁vip+倍速播放
+
+[33mcommit 4065e7beb999fe15467e010afe2d33bbf139c075[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Feb 25 10:11:07 2021 +0800
+
+    update 中青； add 京东国际盲盒、京喜财富岛
+
+[33mcommit 5382b51607cd1a9612fc7468dea0cd7ff03ea62e[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Feb 25 09:59:44 2021 +0800
+
+    update 京东，中青获取ck规则
+
+[33mcommit d73e931bffde1564825003eabcc617daf888910c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Feb 24 12:08:12 2021 +0800
+
+    Delete 环球挑战赛
+
+[33mcommit 4d718da6326647818de752c92a2300283c2870e8[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Feb 24 12:03:19 2021 +0800
+
+    add 母婴跳一跳
+
+[33mcommit bd433b2cefa67ec896162035ed12e20ea79c9c37[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Feb 22 12:32:13 2021 +0800
+
+    add 泼辣修图
+
+[33mcommit 1478dc5974b0f8326d7a3dd05e73ea8c95f7e6f4[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Feb 22 11:00:20 2021 +0800
+
+    repair 404
+
+[33mcommit 86e618b47df37e782a07e32b42610783a8ba0260[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 21 15:31:00 2021 +0800
+
+    update 中青获取ck
+
+[33mcommit 55b8673ee2f62aae4b00d3a74e95063729c0d636[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 21 12:36:56 2021 +0800
+
+    add 小乐脚本
+
+[33mcommit 0f117402b07e79ab71fae106dc82d70ed228f19a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 21 12:36:14 2021 +0800
+
+    add 小乐获取ck
+
+[33mcommit 96406ba4b0dc72840f22efabb1e0d57785817b15[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 21 11:33:51 2021 +0800
+
+    add 金钱豹、陌嗨短视频、燃旅视频、蜗牛吧、闪挣、番茄看看 脚本
+
+[33mcommit b0177f15c98ad9f27c8ef73298cec13b343ccab9[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 21 11:32:34 2021 +0800
+
+    add 金钱豹、陌嗨短视频、燃旅视频、蜗牛吧、闪挣、番茄看看 获取ck规则
+
+[33mcommit ddc0501ee61878d51e31387672f492e35d517b43[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 21 00:43:17 2021 +0800
+
+    repair 微博超话签到
+
+[33mcommit 5c11a6e219ecec643a03cddcabfbce144624f02e[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 20 23:35:50 2021 +0800
+
+    repair  403
+
+[33mcommit 69170f4db8b86665820ad27c863d3588f93a39f4[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 20 22:40:42 2021 +0800
+
+    update 中青脚本
+
+[33mcommit d03c05065f7350c1a3a58ce28472a3b100c7bedb[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 20 22:00:40 2021 +0800
+
+    Delete 已过期活动脚本
+
+[33mcommit db3f78e44b8cb653b2db3a035d8986fc5b86c365[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 20 21:31:06 2021 +0800
+
+    repair 所有403脚本
+
+[33mcommit 79f3ab0f9726ae6b935c691a757a9da09af53aa5[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 20 20:44:21 2021 +0800
+
+    Update
+
+[33mcommit eed9505a550350e7fb7fbc5921c756780576215a[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 20 20:36:13 2021 +0800
+
+    repair 404
+
+[33mcommit e370e335080adc35d168ad1b3d8e7e13aaab3af9[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 20 20:04:52 2021 +0800
+
+    add 京东极速版、京东极速版天天领红包
+
+[33mcommit 270a19fbabd1d392755c08684556fed91298d11c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 20 10:20:04 2021 +0800
+
+    Delete 半点红包雨（活动结束）
+
+[33mcommit 6c58d963222603d29a9843d260d4f31ea73276be[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Feb 16 10:59:48 2021 +0800
+
+    Delete 返利网、笑谱获取Cookie规则
+
+[33mcommit 30eb32e665228fda3d451997a29914ba7906af15[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 14 19:47:26 2021 +0800
+
+    Delete 京东压岁钱、京东压岁钱抢百元卡
+
+[33mcommit 9ff1800c98159899c98fd0f02ca22e03508a5157[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Feb 10 19:00:56 2021 +0800
+
+    add 京东国际盲盒
+
+[33mcommit 234b9165e26f43e1bd2e48893972382be6fa1d91[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Feb 10 16:25:31 2021 +0800
+
+    add 钉钉打卡提醒
+
+[33mcommit 191c224a51fa6e2b797cdcf2691753dea937bd30[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Feb 10 15:47:50 2021 +0800
+
+    add 支付宝天天挖矿小程序获取Cookie
+
+[33mcommit 75cb44bce1e6d10e6bb3e8f752a7591577a541d7[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Feb 10 15:38:14 2021 +0800
+
+    add 支付宝脚本：蚂蚁森林收能量、天天挖矿
+
+[33mcommit ee355c4258d2a9ed6b3eab37588052557de3f032[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Feb 10 15:25:30 2021 +0800
+
+    add 环球挑战赛
+
+[33mcommit f1b5d89977c5094b5acf66d65b4e7ecfe4c29637[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Feb 10 10:42:44 2021 +0800
+
+    Create Mainland.list
+
+[33mcommit fc838ce47ba1bac200f772e7a28634891a38fdb8[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Feb 10 10:40:43 2021 +0800
+
+    Create Outside.list
+
+[33mcommit cea1da455e3e1dd939b5fddb712d84d30df40366[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Feb 10 10:39:17 2021 +0800
+
+    Create Speedtest.list
+
+[33mcommit ef9e1574d608ece2145e6936ab6c4fe02b5c9937[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Feb 10 10:38:21 2021 +0800
+
+    Create PayPal.list
+
+[33mcommit 229c9a38bd8dc26907de5ff4c2d7178936e805a7[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Feb 10 10:37:06 2021 +0800
+
+    Create Microsoft.list
+
+[33mcommit fc5a976d5bd55bfa6b57138f7d879fe3ccb02d4c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Feb 10 10:36:08 2021 +0800
+
+    Create Telegram.list
+
+[33mcommit e693560924162a22783145ebf98f512f0e8b7d24[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Feb 10 10:35:06 2021 +0800
+
+    Create GMedia.list
+
+[33mcommit 03940153ba1a629e6135f0bff5bae8e7e535fb6c[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Feb 10 10:34:04 2021 +0800
+
+    Create YouTube.list
+
+[33mcommit 71cb99a422a7f5f6605791b0d692a4faa3b94170[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Feb 10 10:32:26 2021 +0800
+
+    Create Spotify.list
+
+[33mcommit 2e93e32b804d185eddee5a5851a966852f7acdb5[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Feb 10 10:31:25 2021 +0800
+
+    Create Netflix.list
+
+[33mcommit 79f9c12a5c3a779639017f9dca0d6c90d99195e1[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Feb 10 10:30:21 2021 +0800
+
+    Create TikTok.list
+
+[33mcommit c844c27f9308abd85fcb19b391d424141c8e9c8b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Feb 10 10:29:24 2021 +0800
+
+    Create CMedia.list
+
+[33mcommit 416bfe29c0265e7e79ba12086c9294a61147fbf1[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Feb 10 10:27:48 2021 +0800
+
+    Create wyy.list
+
+[33mcommit cc71f306edabd8ba79ceb8ae9ef2b253d6bd9c1f[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Feb 10 10:26:09 2021 +0800
+
+    Create Apple.list
+
+[33mcommit b5d560f443d7607e495d395b82fdcafe9173f3ca[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Feb 10 10:03:05 2021 +0800
+
+    Create Clubhouse.list
+
+[33mcommit 56992c1e86649e8bfdbfbb9b706d518e62027165[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Feb 10 09:51:34 2021 +0800
+
+    add 走路赚
+
+[33mcommit d6233f738fae01e46d6120f4ada7543a064e0c87[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Feb 10 09:40:16 2021 +0800
+
+    add 走路赚获取Cookie
+
+[33mcommit 28d530bb114bf8899e028ca79103ddc14db87e5e[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Feb 9 19:09:07 2021 +0800
+
+    add 京东价格保护
+
+[33mcommit 54b57bfd4488fbba297855294d816380a6c5bdf6[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Feb 8 10:52:37 2021 +0800
+
+    add 芝麻视频脚本
+
+[33mcommit 5e1cdbd1e1fb7456d10b786e9a81f9bcd3551200[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Feb 8 10:51:45 2021 +0800
+
+    add
+
+[33mcommit 51d55e2b3686a54edd89d8d92503b78700686bd8[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 7 17:09:46 2021 +0800
+
+    update 一个小错误
+
+[33mcommit 01441417f93da1cf9467b8eb4ad977d092cc1724[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 7 16:40:11 2021 +0800
+
+    repair 宠汪汪强制为别人助力
+
+[33mcommit 439097ccd35dbbd186428e60a643f232ebeef706[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 7 15:51:46 2021 +0800
+
+    add 京东活动-百变
+
+[33mcommit aa41426e681685fe6b0a7ef286625e4768a04f6b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Feb 7 13:43:36 2021 +0800
+
+    add  节点自动切换
+
+[33mcommit 9b954aca7966284030ca986334a5be7f8d1a2cc1[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 6 18:17:05 2021 +0800
+
+    Delete 星意送好礼、神仙书院、炸年兽 - 活动结束
+
+[33mcommit 51d08c9f455593c33e54f13855d99ef17c347691[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Feb 6 18:09:45 2021 +0800
+
+    add 国区TF无法下载已下架app规则
+
+[33mcommit de03366ccd9a12004ed5f2be49248c0df93ee139[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Feb 4 10:24:56 2021 +0800
+
+    Delete 京东收🧨、笑谱直播
+
+[33mcommit 2b15f9a9a1c414b86cb32a6d34ddef1f32db16ab[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Feb 4 10:14:39 2021 +0800
+
+    Delete 5G狂欢城
+
+[33mcommit 9451c8a687375bedf7f6405fb974a73d6e3716be[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Feb 3 17:40:56 2021 +0800
+
+    add 电信营业厅整点开宝箱 脚本
+
+[33mcommit 5ad0d26a3c6bcca35672a3ff4ffa840d5722877b[m
+Author: 陌路 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Feb 3 17:39:51 2021 +0800
+
+    add 电信营业厅整点开宝箱活动
+
+[33mcommit 948db31837bf40e7c09ad0f7cc8e2a168b284de0[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Feb 2 21:38:48 2021 +0800
+
+    Delete   聚宝盆投狗粮辅助
+
+[33mcommit c327465b6cc595d248d2f29c050ed100f8d92edf[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Tue Feb 2 10:47:55 2021 +0800
+
+    repair 哔哩哔哩漫画签到
+
+[33mcommit f620ca23c69a509f19e197b42d595516f29ada31[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Feb 1 23:37:48 2021 +0800
+
+    add 伊利乳品脚本
+
+[33mcommit cf5c2acc858e75532dc1ed18ed2d6b1423f5ad13[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Feb 1 20:29:52 2021 +0800
+
+    add 多看点
+
+[33mcommit 4b05c96cbdabe32281e32c7641ebc1dcaade620f[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Feb 1 20:28:55 2021 +0800
+
+    add 多看点获取ck
+
+[33mcommit cd1a05ced7bd77200bb1252ff7944455f9f69f3c[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Feb 1 10:26:42 2021 +0800
+
+    add 京东压岁钱、京东抢百元卡
+
+[33mcommit 9e60693d8b760f3183a1daafd05bd8c13093a3b1[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 20:00:22 2021 +0800
+
+    增加最新YouTube去广告
+
+[33mcommit 723cc4f7584a87d0cf301436d07783fab860153a[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 17:19:35 2021 +0800
+
+    Update douyin.js
+
+[33mcommit 3bc6dda334c530aa260a78ad819835cfb8bbbfbb[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 17:17:46 2021 +0800
+
+    Create douyin.js
+
+[33mcommit 501841a05e8f5423b7c4eecd6431c89a1be7824d[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 16:29:40 2021 +0800
+
+    Delete jd_vip.js
+
+[33mcommit 543a6d11af9e9a5bc469fc36e9fd15a2e18502f6[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 15:12:54 2021 +0800
+
+    Delete QuantumultX
+
+[33mcommit 2888939abe7ee735625c798254a83ea55287f1b4[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 15:03:47 2021 +0800
+
+    add 解锁TikTok，支持17.9.0以上版本
+
+[33mcommit 6ce5f8329017f0fa34817a7fbbf30e7ee8365452[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 14:47:09 2021 +0800
+
+    Create TH.conf
+
+[33mcommit 6e951eb903fdc30f8202087ba935779a6697b309[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 14:46:00 2021 +0800
+
+    Update RU.conf
+
+[33mcommit 9558be21a1e594edcf08cc11c538b54c07c9d3b5[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 14:45:41 2021 +0800
+
+    Create SG.conf
+
+[33mcommit b8d90fb29f7c53b20ba49db22711e430e2def527[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 14:45:06 2021 +0800
+
+    Create RU.conf
+
+[33mcommit 248a19bd3730dad064869ec23a7ecb0a8b2ec9ce[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 14:44:29 2021 +0800
+
+    Create IT.conf
+
+[33mcommit 56cdae22fc70e72413c977686469ef604f0f810c[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 14:43:52 2021 +0800
+
+    Create IN.conf
+
+[33mcommit c2a4347b33f0216d2a6cf2521760a1d0492908c7[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 14:42:35 2021 +0800
+
+    Update HK.conf
+
+[33mcommit 78fd39b42dc6d70c0d750dbb0edc10f38d2aa901[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 14:42:09 2021 +0800
+
+    Create ID.conf
+
+[33mcommit 77158132dca964f63bcfc19c57b46585eeeec479[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 14:41:36 2021 +0800
+
+    Create HK.conf
+
+[33mcommit 5d346d201aa429601538721afda7722745ee8d53[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 14:41:10 2021 +0800
+
+    Create GB.conf
+
+[33mcommit 4e0845ef8d2078e6427ecbfaaf3028eb896176d1[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 14:40:40 2021 +0800
+
+    Create FR.conf
+
+[33mcommit 51d16cf1da15628fb21a5141e74add940668416b[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 14:39:48 2021 +0800
+
+    Create CA.conf
+
+[33mcommit 5a6b5b7f5c1b713745be2b447928fcc22dba8d8b[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 14:38:53 2021 +0800
+
+    Create UK.conf
+
+[33mcommit b50ae0e6c8839a49d588d35c4a32a03fbb0b7a95[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 14:38:21 2021 +0800
+
+    Create TW.conf
+
+[33mcommit 4bf30e9dbfbd79a6baefbab43322292f6538390b[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 14:37:55 2021 +0800
+
+    Create KR.conf
+
+[33mcommit 88d2a689fe57f600cd513dc0382b7e80d54926bc[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 14:32:55 2021 +0800
+
+    解锁美区TikTok
+
+[33mcommit 02b5b2eec0d20f61149845727f361cf6a74ceaf8[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 14:31:59 2021 +0800
+
+    Rename JP.js to JP.conf
+
+[33mcommit 2314835051c520090e0a858d73890a981ef65b39[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 14:22:29 2021 +0800
+
+    解锁日区TikTok
+
+[33mcommit 1b433cfb80fe592eba3b0e6e3bab2b2f77c5841f[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 14:15:35 2021 +0800
+
+    日区 TikTok
+
+[33mcommit 1d44560f307e57b3ffd1a9dfbc08af463fc63eec[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 14:12:07 2021 +0800
+
+    Create README.md
+
+[33mcommit 3ee2dfad6ec61e3c8d758bdcae3d6849423b4d10[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 14:08:40 2021 +0800
+
+    Delete TikTok
+
+[33mcommit f9da6d2b2efd60d344cf0a46e1b4226bc1939580[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 14:05:30 2021 +0800
+
+    Create TikTok
+
+[33mcommit 925445dbb5fdc7ffbdcb95b39768000af190d2d6[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 14:04:24 2021 +0800
+
+    Update qixin.json
+
+[33mcommit cb24c74547f28a659775b03fce6489c5d0764065[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 14:00:51 2021 +0800
+
+    新增Picsew软件解锁vip
+
+[33mcommit 202775425a474c9f89c084fb432568d43597baa2[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 13:58:51 2021 +0800
+
+    更新笑谱获取ck规则
+
+[33mcommit bcf8ef3329a76c6450a26c0186ac646636a65ad9[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun Jan 31 11:48:46 2021 +0800
+
+    Create QuantumultX
+
+[33mcommit ff67dbcd4fa8aae3c16cab32f6368d200570682b[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Jan 30 13:54:32 2021 +0800
+
+    Update getCookie.conf
+
+[33mcommit bde66205448c98dfc33f6a353154160efb4cb241[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sat Jan 30 11:55:59 2021 +0800
+
+    添加更多脚本
+
+[33mcommit 200cdb936b7131d62baacede32b8bfeb8d436c52[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Jan 29 11:53:04 2021 +0800
+
+     QuantumultX重写规则（解锁vip&去广告）
+
+[33mcommit 6231987b769842a3d45dd6bc3393fc0c0327069e[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Fri Jan 29 10:47:41 2021 +0800
+
+     QuantumultX重写规则（解锁vip&去广告）
+
+[33mcommit 967f0c1d2232c737d67892c43230df0168923ee6[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Jan 28 18:28:26 2021 +0800
+
+     QuantunultX重写规则（获取Cookie）
+
+[33mcommit 38516119a04e2f5867016ee78c38989451f67ca9[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Jan 28 18:20:02 2021 +0800
+
+    QuantumultXTask远程订阅（脚本）
+
+[33mcommit 5773319de8aaaec1b7ce2faf752b31852585eedc[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Jan 28 14:46:34 2021 +0800
+
+    QuantumultX重写规则（解锁vip&去广告）
+
+[33mcommit 840eb5d9f35a8b1c386396b61a84c5b00681d267[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Jan 28 14:27:50 2021 +0800
+
+    小小影视 无限观看&免广告
+
+[33mcommit 7ab98908bd18915fd6e4fedab57b011a3ee5856f[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Jan 28 14:27:02 2021 +0800
+
+    QuantumultX Task远程订阅（脚本）
+
+[33mcommit b88ec7d0b2efc8587b6973afe84f96342feed824[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Jan 28 14:26:46 2021 +0800
+
+    QuantumultX Task远程订阅（脚本）
+
+[33mcommit 945692d768a59449b988ad38e9edb651f0a96d5f[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Jan 28 14:24:09 2021 +0800
+
+    QuantumultX全局配置文件（懒人配置）
+
+[33mcommit 02409a290d1a57cce07170b8a4a95ad0fc62e181[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Jan 28 14:23:21 2021 +0800
+
+    QuantumultX全局配置文件
+
+[33mcommit 360127006b8a8999e6df194f1aacbb6dd54e473f[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Jan 28 14:22:20 2021 +0800
+
+    QuantunultX重写规则（获取Cookie）
+
+[33mcommit f0c59f1c9db624748d62a6aeabf6f817ab4a116f[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Jan 28 14:20:23 2021 +0800
+
+    QuantumultX重写规则
+
+[33mcommit 2e62b7de49a7c19760811018477aa4a855544f4c[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Jan 28 14:19:17 2021 +0800
+
+    Add files via upload
+
+[33mcommit 132e438e9d6d860b7da9f78a12f623f56637dac1[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Jan 28 14:13:31 2021 +0800
+
+    Update xxysad.js
+
+[33mcommit 5badc6360fd288aa3a191e54039b60ca49d80ca7[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Thu Jan 28 14:12:35 2021 +0800
+
+    Update xxysad.js
+
+[33mcommit 76a2a0576aaba9c3ee3100e5f763f69a141ce57b[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Jan 6 13:16:05 2021 +0800
+
+    AdBlock去广告规则
+
+[33mcommit 388fbf26aaa13cae0fcb1d71f1eae3905597d5e3[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Jan 6 13:15:20 2021 +0800
+
+    京东会员卡注销
+
+[33mcommit feda7403c2a46a87497b149710d359c6d4a33e1c[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Jan 6 13:14:45 2021 +0800
+
+    网易云音乐规则
+
+[33mcommit 5c7ab632bf70e8536fd3f5dc203811817fe673e2[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Jan 6 13:12:28 2021 +0800
+
+    Rename AdRule.list to AdBRule.list
+
+[33mcommit d939a250803d5a2d0e57bb67f798eb088abc2edb[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Jan 6 13:10:38 2021 +0800
+
+    Create AdRule.list
+
+[33mcommit 058a1f564c2c20bd7f6409223b05beca56f0d3a1[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Jan 6 13:09:05 2021 +0800
+
+    Create wyy.list
+
+[33mcommit 35babfff16b43d3e4e6313f964d136bb2bc7088c[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Jan 6 10:32:26 2021 +0800
+
+    Rename jd_vip to jd_vip.js
+
+[33mcommit 3fedcc7a17db8c645fdfbea7a6bcac7628d6f5a7[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Wed Jan 6 10:29:57 2021 +0800
+
+    Create jd_vip
+
+[33mcommit fc2b49d84778a7db529032711659ee8465cf4045[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Dec 7 12:14:30 2020 +0800
+
+    Rename jd_split.js to jdnzj.js
+
+[33mcommit 6c4e78aca0939857e3f46af28f8801751131c33a[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Mon Dec 7 11:56:49 2020 +0800
+
+    Create jd_split.js
+
+[33mcommit c2f9a3b439dcf5829261338c6ae5d03337da148c[m
+Author: zwf234 <48481993+zwf234@users.noreply.github.com>
+Date:   Sun May 24 15:59:24 2020 +0800
+
+    小小影视去广告规则
