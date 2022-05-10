@@ -54,12 +54,24 @@ HOST-SUFFIX,steampowered.com,海外服务
 HOST-SUFFIX,steamstatic.com,海外服务
 
 # > TikTok
-USER-AGENT,TikTok*,海外服务
+HOST,p16-tiktokcdn-com.akamaized.net,海外服务
+HOST-SUFFIX,byteoversea.com,海外服务
+HOST-SUFFIX,ibytedtos.com,海外服务
+HOST-SUFFIX,ibyteimg.com,海外服务
+HOST-SUFFIX,ipstatp.com,海外服务
 HOST-SUFFIX,muscdn.com,海外服务
 HOST-SUFFIX,musical.ly,海外服务
-HOST-SUFFIX,tiktokv.com,海外服务
+HOST-SUFFIX,sgpstatp.com,海外服务
+HOST-SUFFIX,snssdk.com,海外服务
+HOST-SUFFIX,tik-tokapi.com,海外服务
+HOST-SUFFIX,tiktok.com,海外服务
 HOST-SUFFIX,tiktokcdn.com,海外服务
+HOST-SUFFIX,tiktokv.com,海外服务
 HOST-KEYWORD,-tiktokcdn-com,海外服务
+HOST-KEYWORD,musical.ly,海外服务
+HOST-KEYWORD,tiktok,海外服务
+HOST-KEYWORD,tiktokv,海外服务
+USER-AGENT,TikTok*,海外服务
 
 # > Zooba
 USER-AGENT,battleroyale*,海外服务
@@ -67,8 +79,59 @@ USER-AGENT,battleroyale*,海外服务
 # > Others
 HOST-SUFFIX,jable.tvm,海外服务
 HOST-SUFFIX,qxzy.top,海外服务
+HOST-SUFFIX,qixinys.com,海外服务
+HOST-SUFFIX,javlib.com,海外服务
+HOST-SUFFIX,dwnews.com,海外服务
+HOST-SUFFIX,afreecatv.com,海外服务
+HOST-SUFFIX,play.afreecatv.com,海外服务
+HOST-SUFFIX,popkontv.com,海外服务
+HOST-SUFFIX,m1.mudvod.tv,海外服务
+HOST-SUFFIX,api.mudvod.tv,海外服务
+HOST-SUFFIX,plausible.io,海外服务
+IP-CIDR,172.67.5.189/22,海外服务
+IP-CIDR,104.22.3.179/22,海外服务
+IP-CIDR,104.22.2.179/22,海外服务
+IP-CIDR,91.108.56.123/22,海外服务
+IP-CIDR,101.32.104.41/22,海外服务
+HOST-SUFFIX,newpppp.com,海外服务
+HOST-SUFFIX,mudvod.tv,海外服务
+HOST-SUFFIX,biggggg.com,海外服务
+HOST-SUFFIX,telghub.com,海外服务
 
+#Discord
+HOST-SUFFIX,discord.co,海外服务
+HOST-SUFFIX,discord.com,海外服务
+HOST-SUFFIX,discord.gg,海外服务
+HOST-SUFFIX,discord.gift,海外服务
+HOST-SUFFIX,discord.gifts,海外服务
+HOST-SUFFIX,discord.media,海外服务
+HOST-SUFFIX,discord.new,海外服务
+HOST-SUFFIX,discordapp.com,海外服务
+HOST-SUFFIX,discordapp.net,海外服务
+HOST-SUFFIX,discordapp.page.link,海外服务
 
+# > Spotify
+HOST-SUFFIX,audio-ak-spotify-com.akamaized.net,海外服务
+HOST-SUFFIX,byspotify.com,海外服务
+HOST-SUFFIX,heads4-ak-spotify-com.akamaized.net,海外服务
+HOST-SUFFIX,pscdn.co,海外服务
+HOST-SUFFIX,scdn.co,海外服务
+HOST-SUFFIX,spoti.fi,海外服务
+HOST-SUFFIX,spotify-com.akamaized.net,海外服务
+HOST-SUFFIX,spotify-everywhere.com,海外服务
+HOST-SUFFIX,spotify.com,海外服务
+HOST-SUFFIX,spotify.design,海外服务
+HOST-SUFFIX,spotifycdn.com,海外服务
+HOST-SUFFIX,spotifycdn.net,海外服务
+HOST-SUFFIX,spotifycharts.com,海外服务
+HOST-SUFFIX,spotifycodes.com,海外服务
+HOST-SUFFIX,spotifyforbrands.com,海外服务
+HOST-SUFFIX,spotifyjobs.com,海外服务
+HOST-KEYWORD,-spotify-com,海外服务
+HOST-KEYWORD,spotify.com,海外服务
+USER-AGENT,*Spotify*,海外服务
+USER-AGENT,Spotify*,海外服务
+IP-CIDR,35.186.224.47/32,海外服务
 
 # > YouTube 
 USER-AGENT,*youtube*,海外服务
@@ -80,6 +143,35 @@ HOST-SUFFIX,gvt2.com,海外服务
 HOST-SUFFIX,youtu.be,海外服务
 HOST,youtubei.googleapis.com,海外服务
 HOST-SUFFIX,ytimg.com,海外服务
+
+#Twitter
+HOST-SUFFIX,ads-twitter.com,海外服务
+HOST-SUFFIX,periscope.tv,海外服务
+HOST-SUFFIX,pscp.tv,海外服务
+HOST-SUFFIX,t.co,海外服务
+HOST-SUFFIX,tellapart.com,海外服务
+HOST-SUFFIX,tweetdeck.com,海外服务
+HOST-SUFFIX,twimg.co,海外服务
+HOST-SUFFIX,twimg.com,海外服务
+HOST-SUFFIX,twimg.org,海外服务
+HOST-SUFFIX,twitpic.com,海外服务
+HOST-SUFFIX,twitter.com,海外服务
+HOST-SUFFIX,twitter.jp,海外服务
+HOST-SUFFIX,twitterinc.com,海外服务
+HOST-SUFFIX,twitteroauth.com,海外服务
+HOST-SUFFIX,twitterstat.us,海外服务
+HOST-SUFFIX,twtrdns.net,海外服务
+HOST-SUFFIX,twttr.com,海外服务
+HOST-SUFFIX,vine.co,海外服务
+HOST-KEYWORD,twitter,海外服务
+IP-CIDR,104.244.42.0/21,海外服务
+IP-CIDR,192.133.76.0/22,海外服务
+IP-CIDR,199.16.156.0/22,海外服务
+IP-CIDR,199.59.148.0/22,海外服务
+IP-CIDR,199.96.56.0/21,海外服务
+IP-CIDR,202.160.128.0/22,海外服务
+IP-CIDR,209.237.192.0/19,海外服务
+IP-CIDR,69.195.160.0/19,海外服务
 
 # > Top blocked sites
 HOST-SUFFIX,2o7.net,海外服务
@@ -1902,9 +1994,6 @@ HOST-SUFFIX,smartmediarep.com,海外服务
 HOST-SUFFIX,sndcdn.com,海外服务
 HOST-SUFFIX,socdm.com,海外服务
 HOST-SUFFIX,soundcloud.com,海外服务
-HOST-SUFFIX,spoti.fi,海外服务
-HOST-SUFFIX,spotify.com,海外服务
-HOST-SUFFIX,spotifycdn.net,海外服务
 HOST-SUFFIX,streaks.jp,海外服务
 HOST-SUFFIX,theplatform.com,海外服务
 HOST-SUFFIX,tidal.com,海外服务
@@ -1927,7 +2016,6 @@ HOST-SUFFIX,viu.tv,海外服务
 HOST-SUFFIX,yb.uncn.jp,海外服务
 HOST-SUFFIX,youboranqs01.com,海外服务
 HOST-SUFFIX,ytimg.com,海外服务
-HOST-KEYWORD,-spotify-com,海外服务
 HOST-KEYWORD,-tiktokcdn-com,海外服务
 HOST-KEYWORD,abematv.akamaized.net,海外服务
 HOST-KEYWORD,avoddashs,海外服务
@@ -1942,12 +2030,10 @@ HOST-KEYWORD,livedazn,海外服务
 HOST-KEYWORD,nflx,海外服务
 HOST-KEYWORD,nowtv100,海外服务
 HOST-KEYWORD,rthklive,海外服务
-HOST-KEYWORD,spotify.com,海外服务
 HOST-KEYWORD,ttvnw,海外服务
 HOST-KEYWORD,uk-live,海外服务
 HOST-KEYWORD,voddazn,海外服务
 USER-AGENT,*PCCW*,海外服务
-USER-AGENT,*Spotify*,海外服务
 USER-AGENT,*nowe*,海外服务
 USER-AGENT,*pccw*,海外服务
 USER-AGENT,AbemaTV*,海外服务
@@ -1984,7 +2070,6 @@ USER-AGENT,PPlus*,海外服务
 USER-AGENT,Pandora*,海外服务
 USER-AGENT,Prime%20Video*,海外服务
 USER-AGENT,SoundCloud*,海外服务
-USER-AGENT,Spotify*,海外服务
 USER-AGENT,TIDAL*,海外服务
 USER-AGENT,TIDAL*dia,海外服务
 USER-AGENT,TVB*,海外服务
