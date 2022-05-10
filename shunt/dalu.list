@@ -1,4 +1,6 @@
 #大陆服务
+#update 2022.5.10
+
 # UA
 USER-AGENT,hide*,大陆服务
 USER-AGENT,MicroMessenger*,大陆服务
@@ -17,6 +19,43 @@ HOST-SUFFIX,v.douyin.com,大陆服务
 HOST-SUFFIX,article.xuexi.cn,大陆服务
 HOST-SUFFIX,bbs.qxzy.top,大陆服务
 HOST-SUFFIX,article.xuexi.cn,大陆服务
+HOST-SUFFIX,dida365.com,大陆服务
+HOST-SUFFIX,javlibrary.com,大陆服务
+HOST-SUFFIX,eastday.com,大陆服务
+HOST-SUFFIX,mini.eastday.com,大陆服务
+HOST-SUFFIX,aliyundrive.com,大陆服务
+HOST-SUFFIX,pstatp.com,大陆服务
+HOST-SUFFIX,lianmengapi5-core-lf.ecombdapi.com,大陆服务
+
+
+
+
+#广告white
+HOST,ad.10010.com,大陆服务
+HOST,analytics.95516.com,大陆服务
+HOST,youhui.95516.com,大陆服务
+HOST,analytics.strava.com,大陆服务
+HOST,app.adjust.com,大陆服务
+HOST,bdtj.tagtic.cn,大陆服务
+HOST,fairplay.l.qq.com,大陆服务
+HOST,fonts.gstatic.com,大陆服务
+HOST,log.mmstat.com,大陆服务
+HOST,msg.umeng.com,大陆服务
+HOST,msg.umengcloud.com,大陆服务
+HOST,origin-a.akamaihd.net,大陆服务
+HOST,pubads.g.doubleclick.net,大陆服务
+HOST,sycm.mmstat.com,大陆服务
+HOST,tracking.miui.com,大陆服务
+HOST-SUFFIX,dizhensubao.getui.com,大陆服务
+HOST-SUFFIX,f.video.weibocdn.com,大陆服务
+HOST-SUFFIX,fus.cdn.krcom.cn,大陆服务
+HOST-SUFFIX,ol.epicgames.com,大陆服务
+HOST-SUFFIX,tracking-protection.cdn.mozilla.net,大陆服务
+HOST-KEYWORD,wb_ad,大陆服务
+USER-AGENT,Coffee%20Corp*,大陆服务
+USER-AGENT,archero*,大陆服务
+USER-AGENT,coffeecorp*,大陆服务
+USER-AGENT,restaurant-mobile*,大陆服务
 
 # > Bank of China
 HOST-SUFFIX,boc.cn,大陆服务
@@ -70,6 +109,22 @@ IP-CIDR,185.188.32.0/24,大陆服务
 IP-CIDR,185.188.33.0/24,大陆服务
 IP-CIDR,185.188.34.0/24,大陆服务
 IP-CIDR,185.188.35.0/24,大陆服务
+
+# > 支付宝alipay
+HOST-SUFFIX,alipay,大陆服务
+HOST-SUFFIX,alipay-corp.com,大陆服务
+HOST-SUFFIX,alipay-eco.com,大陆服务
+HOST-SUFFIX,alipay-inc.com,大陆服务
+HOST-SUFFIX,alipay.com,大陆服务
+HOST-SUFFIX,alipay.net,大陆服务
+HOST-SUFFIX,alipaydev.com,大陆服务
+HOST-SUFFIX,alipaydns.com,大陆服务
+HOST-SUFFIX,alipayeshop.com,大陆服务
+HOST-SUFFIX,alipaylog.com,大陆服务
+HOST-SUFFIX,alipayobjects.com,大陆服务
+HOST-SUFFIX,ifaa.org.cn,大陆服务
+HOST-SUFFIX,sinopayment.com.cn,大陆服务
+HOST-SUFFIX,amdc.alipay.com,大陆服务
 
 # > 优酷
 HOST-SUFFIX,0co3geye.cn,大陆服务
@@ -254,8 +309,6 @@ HOST-SUFFIX,aliapp.org,大陆服务
 HOST-SUFFIX,alibaba.com,大陆服务
 HOST-SUFFIX,alibabacloud.com,大陆服务
 HOST-SUFFIX,alicdn.com,大陆服务
-HOST-SUFFIX,alipay.com,大陆服务
-HOST-SUFFIX,alipayobjects.com,大陆服务
 HOST-SUFFIX,aliyun.com,大陆服务
 HOST-SUFFIX,amap.com,大陆服务
 HOST-SUFFIX,apache.org,大陆服务
