@@ -1,6 +1,6 @@
 # > 网易云解锁 vip & 灰色 歌曲
 # > 2022.06.22
-NeteaseMusic Unlock 1 = http, music.lolico.me, 39000
-NeteaseMusic Unlock 3 = ss, music.desperadoj.com, 30003, encrypt-method=aes-128-gcm, password=music.desperadoj.com, tfo=false, udp-relay=false
-NeteaseMusic Unlock 5 = http, music.griouges.cn, 39000
-NeteaseMusic Unlock 10 = http, 119.176.253.89, 9080
+网易云0 = http, music.lolico.me, 39000
+网易云1 = ss, music.desperadoj.com, 30003, encrypt-method=aes-128-gcm, password=music.desperadoj.com, tfo=false, udp-relay=false
+网易云2 = http, music.griouges.cn, 39000
+网易云3 = http, 119.176.253.89, 9080
