@@ -1,12 +1,19 @@
 # 网易云音乐可选规则，排序需在 CMedia上方
 HOST,admusicpic.music.126.net,网易云音乐
+HOST,apm.music.163.com,网易云音乐
+HOST,apm3.music.163.com,网易云音乐
 HOST,iadmat.nosdn.127.net,网易云音乐
 HOST,iadmusicmat.music.126.net,网易云音乐
 HOST,iadmusicmatvideo.music.126.net,网易云音乐
+HOST,interface.music.163.com,网易云音乐
+HOST,interface3.music.163.com,网易云音乐
+HOST,music.163.com,网易云音乐
 HOST,netease.ugcvideoss.ourdvs.com,网易云音乐
 HOST,p1.music.126.net,网易云音乐
 HOST,p10.music.126.net,网易云音乐
 HOST,p2.music.126.net,网易云音乐
+HOST,p3.music.126.net,网易云音乐
+HOST,p4.music.126.net,网易云音乐
 HOST,p5.music.126.net,网易云音乐
 HOST,p6.music.126.net,网易云音乐
 HOST,p7.music.126.net,网易云音乐
@@ -20,14 +27,13 @@ HOST-SUFFIX,music.126.com,网易云音乐
 HOST-SUFFIX,music.126.net,网易云音乐
 HOST-SUFFIX,music.163.com,网易云音乐
 HOST-SUFFIX,music.163.com.163jiasu.com,网易云音乐
-HOST-KEYWORD,netease,网易云音乐
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**,网易云音乐
-USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,网易云音乐
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90,网易云音乐
-USER-AGENT,网易云音乐**,网易云音乐
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,网易云音乐
+USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**,网易云音乐
 USER-AGENT,网易云音乐*,网易云音乐
 USER-AGENT,网易云音乐**,网易云音乐
 USER-AGENT,网易云音乐*,网易云音乐
+USER-AGENT,网易云音乐**,网易云音乐
 IP-CIDR,101.71.154.241/32,网易云音乐
 IP-CIDR,103.126.92.13/32,网易云音乐
 IP-CIDR,103.126.92.132/31,网易云音乐
@@ -45,4 +51,5 @@ IP-CIDR,39.105.63.80/32,网易云音乐
 IP-CIDR,45.254.48.1/32,网易云音乐
 IP-CIDR,47.100.127.239/32,网易云音乐
 IP-CIDR,59.111.128.0/17,网易云音乐
+IP-CIDR,59.111.19.33/32,网易云音乐
 IP-CIDR,59.111.21.14/31,网易云音乐
