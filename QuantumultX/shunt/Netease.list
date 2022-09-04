@@ -1,4 +1,6 @@
 # 网易云音乐可选规则，排序需在 CMedia上方
+# author：Stranger
+# update：2022.9.4
 HOST,admusicpic.music.126.net,网易云音乐
 HOST,apm.music.163.com,网易云音乐
 HOST,apm3.music.163.com,网易云音乐
@@ -30,8 +32,8 @@ HOST-SUFFIX,music.163.com.163jiasu.com,网易云音乐
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90,网易云音乐
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,网易云音乐
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**,网易云音乐
-USER-AGENT,网易云音乐*,网易云音乐
-USER-AGENT,网易云音乐**,网易云音乐
+USER-AGENT,NeteaseMusic*,网易云音乐
+USER-AGENT,NeteaseMusic**,网易云音乐
 USER-AGENT,网易云音乐*,网易云音乐
 USER-AGENT,网易云音乐**,网易云音乐
 IP-CIDR,101.71.154.241/32,网易云音乐
