@@ -27,6 +27,7 @@ vpn代理工具，科学上网（支持分流），脚本运行，https抓包，
 
 请各位理性使用此软件，规则分流是达到去广告，解锁vip的功能，但不是一定可以，app升级均可能导致规则失效。部分还需要特殊操作才可以生效，如：断网、版本号、重新下载、登录、打开方式等等。
 
+
 - **<font color="red">使用本配置前，请务必快速浏览一遍本文</font>**
 
 
@@ -55,22 +56,34 @@ vpn代理工具，科学上网（支持分流），脚本运行，https抓包，
 ### 自定义策略
 
 - 优选节点
+
+
 自动检测并使用延迟最低的节点线路，默认20分钟自动检测一次，用户可自定义检测时间，配置中修改check-interval=1200（单位：秒） （默认 海外服务、港台番剧 走该策略组，即代理服务）
 
 - 自选节点
+
+
 用户可手动选择使用哪条线路，但是你需要让 海外服务、港台番剧 走该策略组，这里需要手动改一下哦，因为默认是走优选节点
 
 - 海外服务
+
+
 默认走优选节点，如需自选，请在自选节点中选择想走的节点即可，无需修改本策略组。
 该策略组顾名思义，分流规则全是大陆不能访问的app，如：YouTube、Google、Facebook、twitter、netfilx、HBO、Hulu、等等，很多都包含在里面，因为没必要分的那么细，如果你发现哪个国外服务还是不能访问，记得留言反馈，我会尽快添加。
 
 - 地理位置
+
+
 该策略组开启后，可以更改微博、哔哩哔哩、抖音、小红书等IP地址，具体看分流中的介绍，默认不修改，如需修改，请更改 大陆服务 → 自选节点 ，若自选节点是香港，那你的IP显示就是香港，节点是美国，那你的IP显示就是美国。
 
 - 大陆服务
+
+
 就是所有国内（中国大陆）app，全部走直连，不走代理服务，这样访问国内服务才能有更快的速度。必要情况下可以让大陆服务走代理，即更改 DIRECT → PROXY 即可
 
 - 网易云音乐
+
+
 这是唯一一个国内app单独添加的一个策略组，因为没办法整合进去，它也需要走代理，但不是出国代理，而是规则生成，使用酷我、QQ、酷狗、等其他音乐播放器的歌曲链接来替换网易云中需要vip和无版权音乐的链接，以此来达到解锁vip和灰色歌曲的目的，这也是网易云解锁灰色音乐的原理。
 
 
@@ -78,6 +91,8 @@ vpn代理工具，科学上网（支持分流），脚本运行，https抓包，
 
 
 - 广告屏蔽
+
+
 这是一个神奇的策略组，也是很多人最为喜爱的一个策略组，但是，这里有必要说明一下，规则去广告与 浏览器插件、越狱插件去广告不同，所以不能相提并论，广告屏蔽不保证能屏蔽所有广告，也不能保证没有任何误杀。具体请看如下说明
 
 ###### 说明
@@ -92,11 +107,17 @@ vpn代理工具，科学上网（支持分流），脚本运行，https抓包，
 
 
 - 香港
+
+
 这是条策略组是提供给有特殊需求的用户，如，我的机场只有香港节点可以解锁netfilx，但它的延迟不是最低的，这时就可以手动选择，让海外服务走香港这个策略组，那么 海外服务（即netfilx）就是走香港节点
 
 ###### 下同
 - 台湾
+
+
 - 日本
+
+
 - 美国
 
 ###### 香港、台湾、日本、美国 策略组默认关闭，如需使用，请在配置第66行查看启用方式
@@ -105,32 +126,44 @@ vpn代理工具，科学上网（支持分流），脚本运行，https抓包，
 ### 重写
 
 - 奇心规则合集
+
+
 包含了去广告规则，解锁vip规则，具体有什么，可以把引用的链接复制出来，使用浏览器打开，就可以看到有什么了，是不是有你想要的那个解锁vip的
 https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qxrules.conf
 
 - 比价 （失效）
+
+
 京东、淘宝，历史价格比较，一般京东会直接在商品界面显示，淘宝在 “保障” 里面查看，当前规则是失效状态，因为大佬没在维护了
 说明：正常维护的情况下，如果你打开看不到历史价格，那就需要卸载app并重新安装才能正常显示比价
 https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/price.conf
 
 - 去开屏广告
+
+
 目前可以去部分app开屏广告，具体请点击链接查看，到底能去哪些app的开屏广告。
 说明：不是所有app的开屏广告都可以去的呀，而且app升级很容易造成去开屏广告失效，请尽量不要更新app，各位轻点喷。
 https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/tailadv.conf
 
 
 - 解锁TikTok （旧版有效）
+
+
 该规则目前是有效的，仅仅是不支持最新版本而已，你可以抓包下载旧版，就可以使用了，别在说规则没用了，也不要一进群就到处求解锁TikTok的规则了，你这样问，真的没有人愿意理你，因为链接里面都有注释的，你倒是点进去看看啊
 https://raw.githubusercontent.com/zwf234/rules/master/TikTok/US.conf
 
 
 - 获取Cookie（还未来得及更新）
+
+
 一共有两个获取Cookie，内容不同，因为规则有冲突，所以才分了两个链接，用完一定记得取消勾选，切记！否则会影响其他规则的正常使用，不要把它一直开着（因为有主机名，所以会影响对应域名的服务，常见影响为：页面打不开）
 说明：只是部分脚本获取ck的规则，不是所有，若不能获取ck，请自行查看脚本注释添加响应规则获取
 https://raw.githubusercontent.com/zwf234/rules/master/getCookie.conf
 
 
 - BoxJs
+
+
 这是一个网站服务，网站为 boxjs.com ，开启该重启规则，就可以在浏览器打开此网站，一般是配置一些脚本使用，比如自动兑换，什么的，具体后面再讲吧
 https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.quanx.conf
 
@@ -140,20 +173,37 @@ https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.re
 
 ###### 已添加脚本
 当前添加了几个脚本，基本上每个人都用得到，大家根据自己的情况删减，都是字面意思，如实在不懂，请左划移除，你肯定用不到
+
+
 - 网易云音乐查询
+
+
 - 疫情动态
+
+
 - GeoIP查询
+
+
 - 流媒体-解锁查询
+
+
 - YouTube/Netfilx解锁查询
+
+
 - 京东多合一（京东签到，目前已失效）
+
+
 - 京豆变动通知
 
 ## 配置下载
 
 国内地址：https://qxnav.com/rules/QuantumultX/qixin.conf
+
+
 国外地址：https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qixin.conf
 
 ## 配置改进
+
 对本配置有任何疑问和修改建议，均可在本文下方留言评论，我会一一回复是否采纳，以及原因。
 
 ## 引用
@@ -161,6 +211,7 @@ https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.re
 本懒人配置引用了一些大佬写的规则和脚本，部分地址做了本地化处理，防止部分人下载无法更新
 
 [@Orz-3](https://github.com/Orz-3/mini)
+
 [@NobyDa](https://github.com/NobyDa)
 [@yichahucha](https://github.com/yichahucha)
 [@blackmatrix7](https://github.com/blackmatrix7)
