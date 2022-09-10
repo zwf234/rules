@@ -224,16 +224,19 @@ https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.re
 
 [@KOP-XIAO](https://github.com/KOP-XIAO/)
 
-[@ddgksf2013](https://github.com/ddgksf2013)
-
 
 以上排名不分先后
 
 ## 关于我
 
 微信公众号：迅技网络
+
 导航站：http://qxnav.com/
+
 电报频道：https://t.me/qixinscience
+
 交流电报群：https://t.me/qixinpro
+
+
 
 
