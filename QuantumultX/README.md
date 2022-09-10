@@ -199,8 +199,14 @@ https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.re
 
 国内地址：https://qxnav.com/rules/QuantumultX/qixin.conf
 
-
 国外地址：https://raw.githubusercontent.com/zwf234/rules/master/QuantumultX/qixin.conf
+
+
+	国内地址打开乱码，下载后就正常了
+
+
+使用方法：打开 QuanmutultX - 右下角小风车 - 底部下载 ，输入上方地址，就可以导入配置了
+
 
 ## 配置改进
 
