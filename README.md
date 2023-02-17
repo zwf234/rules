@@ -32,3 +32,12 @@ GitHub仓库地址：https://github.com/zwf234/rules
 交流电报群：[@qixinkeji](https://t.me/qixinkeji)
 
 待补充...
+
+
+## 🧚‍♀️ 欢迎星标 🌟
+
+![Star](https://api.star-history.com/svg?repos=fmz200/wool_scripts&type=Date)
+
+### 🧚‍♀️ 访问量统计
+
+![Visitor Count](https://profile-counter.glitch.me/fmz200/count.svg)
