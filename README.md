@@ -1,4 +1,4 @@
-特别声明:
+## 特别声明:
 本仓库发布rules项目中涉及的任何解锁和解密分析脚本，仅用于测试和学习研究，禁止用于商业用途，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断.
 
 请勿将rules项目的任何内容用于商业或非法目的，否则后果自负.
@@ -7,7 +7,7 @@
 
 如果您使用并复制了任何本仓库的内容，则视为您已接受此免责声明.
 
-QuantumultX 奇心懒人配置
+## QuantumultX 奇心懒人配置
 
 配置地址：https://qxnav.com/rules/QuantumultX/qixin.conf
 
@@ -23,7 +23,7 @@ QuantumultX 使用视频教程（[YouTube](https://www.youtube.com/results?searc
 
 教程（三）https://youtu.be/0sgQkJ7mbhc
 
-请仔细看完所有教程在提问
+### 请仔细看完所有教程在提问
 
 GitHub仓库地址：https://github.com/zwf234/rules
 
@@ -33,11 +33,3 @@ GitHub仓库地址：https://github.com/zwf234/rules
 
 待补充...
 
-
-## 🧚‍♀️ 欢迎星标 🌟
-
-![Star](https://api.star-history.com/svg?repos=fmz200/wool_scripts&type=Date)
-
-### 🧚‍♀️ 访问量统计
-
-![Visitor Count](https://profile-counter.glitch.me/fmz200/count.svg)
