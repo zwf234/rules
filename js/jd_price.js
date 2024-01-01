@@ -27,7 +27,13 @@ if (url.indexOf(path3) != -1) {
 if (url.indexOf(path2) != -1) {
     let obj = JSON.parse(body);
     const floors = obj.floors;
-    const commodity_info = floors[floors.length - 1];
+    let commodity_info = floors[floors.length - 1];
+    for (let index = 0; index < floors.length; index++) {
+        let tmp = floors[index];
+        if (tmp.bId == 'eCustom_flo_201') {
+            commodity_info = tmp; 
+        }
+    }
     const shareUrl = commodity_info.data.property.shareUrl;
     request_history_price(shareUrl, function (data) {
         if (data) {
